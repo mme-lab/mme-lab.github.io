@@ -1,6 +1,6 @@
 baseURL = "https://mme-lab.github.io/"
 theme = "PaperMod"
-
+publishDir = "."
 defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = false
 languageCode = "ja"
