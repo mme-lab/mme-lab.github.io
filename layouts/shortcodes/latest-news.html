@@ -1,0 +1,13 @@
+<ul class="news-list">
+  {{ range first 8 (where site.RegularPages "Section" "news") }}
+    <li>
+      <span class="news-date">
+        {{ .Date.Format "2006-01-02" }}
+      </span>
+      <a href="{{ .RelPermalink }}">
+        {{ .Title }}
+      </a>
+    </li>
+  {{ end }}
+</ul>
+

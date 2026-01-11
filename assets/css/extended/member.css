@@ -1,0 +1,161 @@
+/* ===== Member card (PI etc.) ===== */
+.member-card{
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 18px;
+  align-items: start;
+  padding: 16px;
+  margin: 14px 0 20px;
+  border: 1px solid var(--background);
+  border-radius: 14px;
+  /*background: var(--theme) !important;*/
+  background: var(--background);
+}
+
+.member-photo img{
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+.member-body h3{
+  margin: 0 0 6px 0;
+}
+
+.role{
+  font-weight: 500;
+  opacity: 0.8;
+  font-size: 0.95em;
+}
+
+.member-meta{
+  margin: 8px 0 10px 0;
+  opacity: 0.9;
+  line-height: 1.45;
+}
+
+/* ===== Button (replace md-button) ===== */
+.btn-primary{
+  display: inline-block;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--theme);
+  color: var(--primary) !important;
+  text-decoration: none;
+}
+
+.btn-primary:hover{
+  opacity: 0.9;
+}
+
+/* ===== Member tiles (students grid) ===== */
+
+.member-grid{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  /*grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));*/
+  gap: 16px;
+  /*margin: 14px 0 26px;*/
+}
+
+.member-grid-student{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 16px;
+  margin: 14px 0 26px;
+}
+
+.member-tile{
+  border: 1px solid var(--background);
+  border-radius: 14px;
+  padding: 12px;
+  background: var(--background);
+}
+
+.member-tile img{
+  width: 50%;
+  aspect-ratio: 1 / 1;   /* ← 正方形を強制 */
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 8px;
+}
+
+.member-tile h3 {
+  text-align: center;
+  margin: 0.4em 0 0.2em 0;   /* ← ここが重要 */
+  line-height: 1.25;
+}
+
+.member-tile h4{
+	text-align: center;
+  /*margin: 0 0 6px 0;*/
+  /*line-height: 1.25;*/
+}
+
+.role-break{
+  text-align: center;
+  display: block;
+  margin-top: 4px;
+  opacity: 0.85;
+  font-weight: 500;
+  font-size: 0.95em;
+}
+
+.member-tile .member-meta{
+  margin: 0;
+  font-size: 0.95em;
+  opacity: 0.9;
+}
+
+/* ===== Simple list (visitors) ===== */
+.simple-member-list{
+  list-style: none;
+  padding-left: 0;
+  margin: 10px 0 26px;
+}
+
+.simple-member-list li{
+  padding: 10px 12px;
+  border: 1px solid var(--background);
+  border-radius: 12px;
+  background: var(--background);
+  margin: 10px 0;
+}
+
+.simple-member-list .period{
+  font-variant-numeric: tabular-nums;
+  opacity: 0.85;
+  margin-right: 10px;
+}
+
+.simple-member-list .name{
+  font-weight: 700;
+  margin-right: 8px;
+}
+
+.simple-member-list .affiliation{
+  opacity: 0.9;
+}
+
+.member-links {
+  display: flex;
+  justify-content: center; /* 横方向センタリング */
+  align-items: center;     /* 縦方向センタリング */
+  gap: 12px;               /* アイコン間隔 */
+}
+
+.member-links a {
+  color: var(--secondary);
+  font-size: 1.1rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.member-links a:hover {
+  color: var(--primary);
+  transform: translateY(-1px);
+}
+

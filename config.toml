@@ -1,0 +1,103 @@
+baseURL = "https://mme-lab.github.io/"
+theme = "PaperMod"
+
+defaultContentLanguage = "ja"
+defaultContentLanguageInSubdir = false
+languageCode = "ja"
+
+enableRobotsTXT = true
+
+[languages]
+
+  [languages.ja]
+    languageName = "JP"
+    weight = 1
+    title = "豊田工業大学 機械材料物性研究室"
+
+    [[languages.ja.menu.main]]
+      name = "ホーム"
+      url = "/"
+      weight = 1
+
+    [[languages.ja.menu.main]]
+      name = "研究内容"
+      url = "/research/"
+      weight = 2
+
+    [[languages.ja.menu.main]]
+      name = "メンバー"
+      url = "/members/"
+      weight = 3
+
+    [[languages.ja.menu.main]]
+      name = "研究業績"
+      url = "/achievements/"
+      weight = 4
+
+    [[languages.ja.menu.main]]
+      name = "公募・募集情報"
+      url = "/openings/"
+      weight = 5
+
+    [[languages.ja.menu.main]]
+      name = "アクセス"
+      url = "/access/"
+      weight = 6 
+
+  [languages.en]
+    languageName = "EN"
+    weight = 2
+    title = "Mechanical Material Engineering Laboratory, Toyota Technological Institute"
+
+    [[languages.en.menu.main]]
+      name = "Home"
+      url = ""
+      weight = 1
+
+    [[languages.en.menu.main]]
+      name = "Research"
+      url = "research/"
+      weight = 2
+
+    [[languages.en.menu.main]]
+      name = "Members"
+      url = "members/"
+      weight = 3
+
+    [[languages.en.menu.main]]
+      name = "Achievements"
+      url = "achievements/"
+      weight = 4
+
+    [[languages.en.menu.main]]
+      name = "Openings"
+      url = "openings/"
+      weight = 5
+
+    [[languages.en.menu.main]]
+      name = "Access"
+      url = "access/"
+      weight = 6 
+
+[params]
+  defaultTheme = "light"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+  # 研究室サイトならまずは off 推奨
+  ShowToc = false
+
+  # トップに記事一覧を出したくない場合
+  mainSections = []
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.tableOfContents]   # ★ ここを追加
+    startLevel = 2
+    endLevel = 2

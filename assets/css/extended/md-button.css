@@ -1,0 +1,32 @@
+/* ===== MkDocs-style button (for Hugo / PaperMod) ===== */
+
+.md-typeset {
+  text-align: center; /* ボタンを中央寄せ */
+}
+
+.md-button {
+  display: inline-block;
+  padding: 0.65em 1.4em;
+  font-size: 1.05em;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease,
+              color 0.2s ease,
+              transform 0.1s ease;
+}
+
+/* Primary button */
+.md-button--primary {
+  color: #ffffff;
+  background-color: #2b6cb0; /* 落ち着いた青 */
+  border: 2px solid #2b6cb0;
+}
+
+.md-button--primary:hover {
+  background-color: #1f4f8a;
+  border-color: #1f4f8a;
+  transform: translateY(-1px);
+}
+
