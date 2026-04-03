@@ -1,0 +1,22 @@
+{{- $p := .Page.Params.paper -}}
+{{- if $p -}}
+<div class="paper-info">
+  <dl>
+    {{ with $p.title }}<dt>タイトル</dt><dd>{{ . | safeHTML }}</dd>{{ end }}
+    {{ with $p.authors }}<dt>著者</dt><dd>{{ . | safeHTML }}</dd>{{ end }}
+    {{ with $p.journal }}
+      <dt>雑誌情報</dt>
+      <dd>
+        {{ . }}
+	{{ with $p.volume }} <strong>{{ . }}</strong>{{ end }}
+        {{ with $p.issue }}({{ . }}){{ end }}
+        {{ with $p.pages }}, {{ . }}{{ end }}
+        {{ with $p.year }} ({{ . }}){{ end }}
+      </dd>
+    {{ end }}
+    {{ with $p.doi }}<dt>DOI</dt><dd>{{ . }}</dd>{{ end }}
+    {{ with $p.url }}<dt>URL</dt><dd><a href="{{ . }}">{{ . }}</a></dd>{{ end }}
+  </dl>
+</div>
+{{- end -}}
+

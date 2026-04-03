@@ -145,6 +145,7 @@
   display: flex;
   justify-content: center; /* 横方向センタリング */
   align-items: center;     /* 縦方向センタリング */
+  text-align: center;
   gap: 12px;               /* アイコン間隔 */
 }
 

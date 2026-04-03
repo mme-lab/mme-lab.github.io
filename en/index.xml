@@ -2,10 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>index on Mechanical Material Engineering Laboratory, Toyota Technological Institute</title>
-    <link>https://mme-lab.github.io/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content in index on Mechanical Material Engineering Laboratory, Toyota Technological Institute</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <atom:link href="https://mme-lab.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaborative Paper Published: Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</title>
+      <link>http://localhost:1313/en/news/2026-04-xx/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-04-xx/</guid>
+      <description>&lt;div class=&#34;paper-info&#34;&gt;
+  &lt;dl&gt;
+    &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT&lt;/dd&gt;
+    &lt;dt&gt;Author(s)&lt;/dt&gt;&lt;dd&gt;Shun-ichiro Ito, Kan Ueji, Shigeki Saito, &lt;strong&gt;Takuma Shiga&lt;/strong&gt;, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi&lt;sup&gt;&amp;ast;&lt;/sup&gt;&lt;/dd&gt;
+    
+      &lt;dt&gt;Paper info&lt;/dt&gt;
+      &lt;dd&gt;
+        Communication Materials
+         &lt;strong&gt;XX&lt;/strong&gt;
+        (XX)
+        , XX
+         (2026)
+      &lt;/dd&gt;
+    
+    
+    
+  &lt;/dl&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;This paper demonstrates that the thermal conductivity of conducting polymer PBTTT thin films along the lamellar stacking direction (i.e., the through-thickness direction) can be continuously and reversibly modulated by electrochemical dopint. Au-TDTR measurements under gate bias showed that the thermal conductivity increased by up to 28% from 0.198 W m&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt; in the undopted state to 0.253 W m&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt; in the dopted state, and that this moduation was repeatable over multiple cycles. Furthremore, comparison between experiments and theoretical calculations revealed that this change in thermal conductivity orignates primarily not from carrier transport, but from local structural changes associated with TFSI ion intercalation and the resulting variation in phonon-mediated heat transport. This work is a collaborative research outcome with &lt;a href=&#34;https://nano2.fpark.tmu.ac.jp/english.html&#34;&gt;the group of Professor Kazuhiro Yanagi at Tokyo Metropolitan University&lt;/a&gt;, &lt;a href=&#34;https://www.qtum.ap.pse.nagoya-u.ac.jp/index-e.html&#34;&gt;the group of Professor Taishi Takenobu at Nagoya University&lt;/a&gt;, &lt;a href=&#34;https://cems.riken.jp/en/laboratory/emert?lang=en&#34;&gt;the group of Shun Watanabe team director at RIKEN Center for Emergent Matter Science&lt;/a&gt;, and &lt;a href=&#34;https://unit.aist.go.jp/mcml/rg-ata/index.html&#34;&gt;Advanced Thermal Analysis Research Group, Research Institute for Material Measurement, National Institute of Advanced Industrial Science and Technology (AIST)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research paper published</title>
+      <link>http://localhost:1313/en/news/2026-03-09/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-03-09/</guid>
+      <description>&lt;div class=&#34;paper-info&#34;&gt;
+  &lt;dl&gt;
+    &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Anharmonic lattice dynamics study of phonon transport in layered and molecular-crystal indium iodides&lt;/dd&gt;
+    &lt;dt&gt;Author(s)&lt;/dt&gt;&lt;dd&gt;&lt;strong&gt;Takuma Shiga&lt;/strong&gt;&lt;sup&gt;&amp;ast;&lt;/sup&gt;, Yoshikazu Mizuguchi, and Hiroshi Fujihisa&lt;/dd&gt;
+    
+      &lt;dt&gt;Paper info&lt;/dt&gt;
+      &lt;dd&gt;
+        Journal of Physics D: Applied Physics
+         &lt;strong&gt;59&lt;/strong&gt;
+        (10)
+        , 105303
+         (2026)
+      &lt;/dd&gt;
+    
+    &lt;dt&gt;DOI&lt;/dt&gt;&lt;dd&gt;10.1088/1361-6463/ae4a36&lt;/dd&gt;
+    &lt;dt&gt;URL&lt;/dt&gt;&lt;dd&gt;&lt;a href=&#34;https://doi.org/10.1088/1361-6463/ae4a36&#34;&gt;https://doi.org/10.1088/1361-6463/ae4a36&lt;/a&gt;&lt;/dd&gt;
+  &lt;/dl&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;In this paper, we systematically investigate phonon thermal transport in indium iodides that adopt either layered (InI) or molecular-crystal-like (InI&lt;sub&gt;3&lt;/sub&gt;) structures, using first-principles anharmonic lattice dynamics. By comparing particle-like transport (Peierls–Boltzmann contribution) and wave-like transport (interband-tunneling-related contribution), we show that the lattice thermal conductivities of both materials remain below 1 W m&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt; over a broad temperature range. We further clarify that the wave-like contribution becomes comparable to the particle-like contribution in InI&lt;sub&gt;3&lt;/sub&gt;, whereas it remains negligible in InI. We also examine the experimentally reported high-pressure phase of InI&lt;sub&gt;3&lt;/sub&gt;. Motivated by indications of stacking faults and partial disorder in indium-site occupancy, we construct several ordered structural models with different stacking sequences and evaluate their energetics and thermal transport properties. The results indicate that the energetic preference among stacking sequences is small and the lattice thermal conductivities are similar across models, suggesting that in-plane thermal transport is governed primarily by the vibrational properties of the In&lt;sub&gt;2&lt;/sub&gt;I&lt;sub&gt;6&lt;/sub&gt; layers themselves rather than by the specific stacking sequence. This work is a result of a collaboration with the research group led by &lt;a href=&#34;https://eeesuper.fpark.tmu.ac.jp/mizuguchilab/english.html&#34;&gt;Associate Professor Mizuguchi at Tokyo Metropolitan University&lt;/a&gt; and the &lt;a href=&#34;https://unit.aist.go.jp/mcml/rg-ata/index.html&#34;&gt;Advanced Thermal Analysis Research Group, Research Institute for Material Measurement, National Institute of Advanced Industrial Science and Technology (AIST)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collaborative Paper Published: Thermally Triggered Non-Diffuse Phonon Reflection from Boundaries in Single-Crystal Diamond Nanobeams</title>
+      <link>http://localhost:1313/en/news/2026-03-04/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-03-04/</guid>
+      <description>&lt;div class=&#34;paper-info&#34;&gt;
+  &lt;dl&gt;
+    &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Thermally Modulated Specular Phonon Transport in a High-Debye-Temperature Diamond Nanobeam&lt;/dd&gt;
+    &lt;dt&gt;Author(s)&lt;/dt&gt;&lt;dd&gt;Seohee Jang, Seung-Woo Jeon, &lt;strong&gt;Takuma Shiga&lt;/strong&gt;, Jeeyong Shin, Sangwook Han, and Woosung Park&lt;sup&gt;&amp;ast;&lt;/sup&gt;&lt;/dd&gt;
+    
+      &lt;dt&gt;Paper info&lt;/dt&gt;
+      &lt;dd&gt;
+        Advanced Science
+         &lt;strong&gt;TBD&lt;/strong&gt;
+        (TBD)
+        , e23242
+         (2026)
+      &lt;/dd&gt;
+    
+    &lt;dt&gt;DOI&lt;/dt&gt;&lt;dd&gt;10.1002/advs.202523242&lt;/dd&gt;
+    &lt;dt&gt;URL&lt;/dt&gt;&lt;dd&gt;&lt;a href=&#34;https://doi.org/10.1002/advs.202523242&#34;&gt;https://doi.org/10.1002/advs.202523242&lt;/a&gt;&lt;/dd&gt;
+  &lt;/dl&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;In this paper, we demonstrate the possibility of modulating phonon reflection at the boundaries of single-crystal diamond nanobeams by using temperature as a control parameter. Thermal conductivity measurements from room temperature down to ~140 K show that the thermal conductivity decreases monotonically with decreasing temperature, whereas the results increasingly and systematically deviate at lower temperatures from a “fully diffusive boundary scattering” model based on first-principles calculations and the Boltzmann transport equation. By analyzing this discrepancy, we reveal that the contribution of specular phonon–boundary scattering becomes more significant in the low-temperature regime, and that its temperature sensitivity is larger in diamond than in silicon. This work is a collaborative research outcome with &lt;a href=&#34;https://heat.sogang.ac.kr/home/team&#34;&gt;the group of Associate Professor Park at Hanyang University&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collaborative Paper Published: Interpretable Thermal Transport Prediction in Amorphous Graphene</title>
+      <link>http://localhost:1313/en/news/2026-02-17/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-02-17/</guid>
+      <description>&lt;div class=&#34;paper-info&#34;&gt;
+  &lt;dl&gt;
+    &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Topological descriptor for interpretable thermal transort prediction in amorphous graphene&lt;/dd&gt;
+    &lt;dt&gt;Author(s)&lt;/dt&gt;&lt;dd&gt;Kosuke Yamazaki, &lt;strong&gt;Takuma Shiga&lt;/strong&gt;, Kumpei Shiraishi, and Emi Minamitani&lt;sup&gt;&amp;ast;&lt;/sup&gt;&lt;/dd&gt;
+    
+      &lt;dt&gt;Paper info&lt;/dt&gt;
+      &lt;dd&gt;
+        Science and Technology of Advanced Materials: Methods
+         &lt;strong&gt;6&lt;/strong&gt;
+        (1)
+        , 2623676
+         (2026)
+      &lt;/dd&gt;
+    
+    &lt;dt&gt;DOI&lt;/dt&gt;&lt;dd&gt;10.1080/27660400.2026.2623676&lt;/dd&gt;
+    &lt;dt&gt;URL&lt;/dt&gt;&lt;dd&gt;&lt;a href=&#34;https://doi.org/10.1080/27660400.2026.2623676&#34;&gt;https://doi.org/10.1080/27660400.2026.2623676&lt;/a&gt;&lt;/dd&gt;
+  &lt;/dl&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;In this paper, we demonstrate that the thermal conductivity of two-dimensional amorphous graphene can be predicted with high accuracy using persistent homology, a topological data analysis method. By performing an inverse analysis of the regression results, we identify key local atomic-structure features—distorted hexagonal and triangular motifs—that are strongly associated with reduced thermal conductivity. These features spatially correlate with low-frequency localized vibrational modes, supporting a physical interpretation in which they suppress heat transport. This work is a collaborative study with &lt;a href=&#34;https://www.sanken.osaka-u.ac.jp/labs/cmp/en/&#34;&gt;Prof. Minamitani’s group at Osaka University&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publication list updated</title>
+      <link>http://localhost:1313/en/news/2026-01-10/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-01-10/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

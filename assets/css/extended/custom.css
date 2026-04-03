@@ -1,0 +1,17 @@
+main .container,
+main .content,
+main .post,
+main .markdown-body {
+  max-width: 1100px;   /* 好みで */
+  width: min(1100px, 92vw);
+}
+
+/* PC時だけ広げたい場合 */
+@media (min-width: 1024px) {
+  main .container,
+  main .content,
+  main .post,
+  main .markdown-body {
+    max-width: 1200px;
+  }
+}
