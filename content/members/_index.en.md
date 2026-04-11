@@ -44,7 +44,7 @@
 ### Yudai Hirakawa
 <span class="role role-break">（B4）</span>
 <p class="member-links">
-Thermal measurement
+Thermal characterization of two-dimensional materials using the 3ω method
 </p>
 </div>
 <div class="member-tile">
@@ -64,7 +64,7 @@ Phonon thermal transport analysis of encapsulated carbon nanotubes
 ### Ryo Miyagawa
 <span class="role role-break">（B4）</span>
 <p class="member-links">
-Thermal measurement
+Thermal characterization of thin-film materials using the thermoreflectance method
 </p>
 </div>
 </div>

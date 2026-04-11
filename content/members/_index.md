@@ -45,7 +45,7 @@
 ### 平川雄大
 <span class="role role-break">（B4）</span>
 <p class="member-links">
-熱計測
+3ω法を用いた二次元材料の熱物性測定
 </p>
 </div>
 <div class="member-tile">
@@ -65,7 +65,7 @@
 ### 宮川 凌
 <span class="role role-break">（B4）</span>
 <p class="member-links">
-熱計測
+サーモリフレクタンス法を用いた薄膜材料の熱物性計測
 </p>
 </div>
 </div>

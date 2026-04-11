@@ -19,7 +19,8 @@
     <li>
         Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi<sup>&ast;</sup>,<br>
         <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
-        Communication Materials <strong>Accepted</strong> (2026).
+        Communication Materials <strong>Published online</strong> (2026).<br>
+        <a href="https://doi.org/10.1038/s43246-026-01151-8">https://doi.org/10.1038/s43246-026-01151-8</a>
     </li>
 </ol>
 
