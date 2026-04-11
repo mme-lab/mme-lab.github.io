@@ -2,7 +2,7 @@
 
 ## Faculty & Staff
 
-<div class="member-grid">
+<div class="member-grid staff-grid">
 
 <div class="member-tile">
 

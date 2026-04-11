@@ -160,3 +160,9 @@
   transform: translateY(-1px);
 }
 
+
+@media (max-width: 768px) {
+  .staff-grid {
+    grid-template-columns: 1fr;
+  }
+}
