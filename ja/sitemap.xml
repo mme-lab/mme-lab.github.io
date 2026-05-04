@@ -2,179 +2,179 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mme-lab.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/news/</loc>
+    <loc>http://localhost:1313/news/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/news/"
+                href="http://localhost:1313/en/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/news/"
+                href="http://localhost:1313/news/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/news/2026-04-04/</loc>
+    <loc>http://localhost:1313/news/2026-04-04/</loc>
     <lastmod>2026-04-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/news/2026-04-04/"
+                href="http://localhost:1313/en/news/2026-04-04/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/news/2026-04-04/"
+                href="http://localhost:1313/news/2026-04-04/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/news/2026-03-09/</loc>
+    <loc>http://localhost:1313/news/2026-03-09/</loc>
     <lastmod>2026-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/news/2026-03-09/"
+                href="http://localhost:1313/en/news/2026-03-09/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/news/2026-03-09/"
+                href="http://localhost:1313/news/2026-03-09/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/news/2026-03-04/</loc>
+    <loc>http://localhost:1313/news/2026-03-04/</loc>
     <lastmod>2026-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/news/2026-03-04/"
+                href="http://localhost:1313/en/news/2026-03-04/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/news/2026-03-04/"
+                href="http://localhost:1313/news/2026-03-04/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/news/2026-02-17/</loc>
+    <loc>http://localhost:1313/news/2026-02-17/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/news/2026-02-17/"
+                href="http://localhost:1313/en/news/2026-02-17/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/news/2026-02-17/"
+                href="http://localhost:1313/news/2026-02-17/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/news/2026-01-10/</loc>
+    <loc>http://localhost:1313/news/2026-01-10/</loc>
     <lastmod>2026-01-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/news/2026-01-10/"
+                href="http://localhost:1313/en/news/2026-01-10/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/news/2026-01-10/"
+                href="http://localhost:1313/news/2026-01-10/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/access/</loc>
+    <loc>http://localhost:1313/access/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/access/"
+                href="http://localhost:1313/en/access/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/access/"
+                href="http://localhost:1313/access/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/achievements/</loc>
+    <loc>http://localhost:1313/achievements/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/achievements/"
+                href="http://localhost:1313/en/achievements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/achievements/"
+                href="http://localhost:1313/achievements/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/members/</loc>
+    <loc>http://localhost:1313/members/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/members/"
+                href="http://localhost:1313/en/members/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/members/"
+                href="http://localhost:1313/members/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/openings/</loc>
+    <loc>http://localhost:1313/openings/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/openings/"
+                href="http://localhost:1313/en/openings/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/openings/"
+                href="http://localhost:1313/openings/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/research/</loc>
+    <loc>http://localhost:1313/research/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/research/"
+                href="http://localhost:1313/en/research/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/research/"
+                href="http://localhost:1313/research/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://mme-lab.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mme-lab.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mme-lab.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

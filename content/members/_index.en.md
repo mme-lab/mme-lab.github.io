@@ -73,8 +73,8 @@ Thermal characterization of thin-film materials using the thermoreflectance meth
 
 ## Visiting Researchers and Students
 
-- **June 06, 2026 - July 31, 2026**: **Tài Sơn Nguyễn** (Undergraduate Student, University of Science, Vietnam National University - Ho Chi Minh city, Short-term study abroad program)
-- **May 15, 2026 - July 31, 2026**: **Jianyu Xiong**  (Undergraduate Student, The Hong Kong Polytechnic University, Internship program)
+- **Sep. 01, 2026 - Oct. 01, 2026**: **Tài Sơn Nguyễn** (Undergraduate Student, University of Science, Vietnam National University - Ho Chi Minh city, Short-term study abroad program)
+- **May 25, 2026 - July 31, 2026**: **Jianyu Xiong**  (Undergraduate Student, The Hong Kong Polytechnic University, Internship program)
 - **Apr. 13, 2026 – Apr. 17, 2026**: **Takashi Yoshizaki**  (Graduate Student, [Nakamura Lab., Osaka University](http://www.adv.ee.es.osaka-u.ac.jp/en/))
 - **Apr. 01, 2026 – Mar. 31, 2027**: **Kenichi Yatsugi**  ([Toyota Central R&D Labs., Inc.](https://researchmap.jp/kenichi-yatsugi))
 - **Apr. 01, 2026 – Mar. 31, 2027**: **Keita Funayama**  ([Toyota Central R&D Labs., Inc.](https://researchmap.jp/page-to-keita-funaya))

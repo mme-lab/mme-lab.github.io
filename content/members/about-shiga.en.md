@@ -76,7 +76,7 @@ _build:
     <li>
         Seohee Jang, Seung-Woo Jeon, <strong>Takuma Shiga</strong>, Jeeyong Shin, Sangwook Han, and Woosung Park<sup>&ast;</sup>,<br>
         <em>Thermally Modulated Specular Phonon Transport in a High-Debye-Temperature Diamond Nanobeam</em>,<br>
-        Advanced Science <strong>XX</strong>(XX), XX (2026).<br>
+        Advanced Science <strong>13</strong>(25), e23242 (2026).<br>
         <a href="https://doi.org/10.1002/advs.202523242">https://doi.org/10.1002/advs.202523242</a>
     </li>
     <li>
@@ -230,7 +230,7 @@ _build:
         <a href="https://doi.org/10.1021/acsami.9b11951">https://doi.org/10.1021/acsami.9b11951</a>
     </li>
     <li>
-        Makoto Kashiwagi, Yuxuan Liao, Shenghong Ju, Asuka Miura, Shota Konishi, <u>Takuma Shiga</u>, Takashi Kodama, and Junichiro Shiomi<sup>&ast;</sup>,<br>
+        Makoto Kashiwagi, Yuxuan Liao, Shenghong Ju, Asuka Miura, Shota Konishi, <strong>Takuma Shiga</strong>, Takashi Kodama, and Junichiro Shiomi<sup>&ast;</sup>,<br>
         Scalable multi-nanostructured silicon for room temperature thermoelectrics,<br>
         <em>ACS Applied Energy Materials</em> <strong>2</strong>(10), 7083-7091 (2019).
         <a href="https://doi.org/10.1021/acsaem.9b00893">https://doi.org/10.1021/acsaem.9b00893</a>

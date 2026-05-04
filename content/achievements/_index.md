@@ -28,25 +28,31 @@
 
 <ol reversed class="pubs">
     <li>
-        Fuya Makino, Takamasa Hirai, <strong>Takuma Shiga</strong>, Hirofumi Suto, Hiroshi Fujihisa, Koichi Oyanagi, Staoru Kobayashi, Taisuke Sasaki, Takashi Yagi, Ken-ichi Uchida, and Yuya Sauraba, <br>
+        Fuya Makino, Takamasa Hirai, <strong>Takuma Shiga</strong>, Hirofumi Suto, Hiroshi Fujihisa, Koichi Oyanagi, Staoru Kobayashi, Taisuke Sasaki, Takashi Yagi, Ken-ichi Uchida, and Yuya Sakuraba, <br>
         <em>Giant magneto-thermal resistance effect in a Co<sub>50</sub>Fe<sub>50</sub>/Cu multilayer studied via analysis of electron and lattice thermal conductivities </em>, <br>
         The 9th edition of the International Conference on Magnetic Materials and Applications (ICMAGMA-2026), <strong>XXX</strong>, National Institute of Technology Goa（インド・ゴア）（2026年6月3日）[<a href="https://nitgoa.ac.in/icmagma2026/">link</a>]
     </li>
     <li>
-        Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Takashi Yagi, Taishi Takenobu, and Kazuhiro Yanagi,<br>
-        <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
-        Materials Research Society 2026 Spring Meeting &amp; Exhibit，<strong>XXX</strong>，Hilton Hawaiian Village Waikiki Beach Resort（米国・ハワイ）（2026年4月27日） [<a href="https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit">link</a>]
-    </li>
-    <li>
         Seohee Jang, Seung-Woo Jeon, <strong>Takuma Shiga</strong>, Sangwook Han, and Woosung Park, <br>
         <em>Thermally triggered specular phonon-boundary reflection in single-crystal diamond nanobeams with high Debye temperature</em>, <br>
-        Materials Research Society 2026 Spring Meeting &amp; Exhibit，<strong>XXX</strong>，Ala Moana Hotel（米国・ハワイ）（2026年4月27日） [<a href="https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit">link</a>]
+        Materials Research Society 2026 Spring Meeting &amp; Exhibit，<strong>SF04.03.07</strong>，Ala Moana Hotel（米国・ハワイ）（2026年4月28日） [<a href="https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit">link</a>]
+    </li>
+    <li>
+        Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Takashi Yagi, Taishi Takenobu, and Kazuhiro Yanagi,<br>
+        <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
+        Materials Research Society 2026 Spring Meeting &amp; Exhibit，<strong>EL05.02.04</strong>，Hilton Hawaiian Village Waikiki Beach Resort（米国・ハワイ）（2026年4月27日） [<a href="https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit">link</a>]
     </li>
 </ol>
 
 ### 国内研究発表
 
 <ol reversed class="pubs">
+    <li>
+        江口 遼河，Muthukunnil Joseph Anish，Dai Xuan, <strong>志賀 拓麿</strong>，沓掛 健太朗，宇治 原徹，原田 俊太，<br>
+        周期的面欠陥がフォノン輸送特性に及ぼす影響,<br>
+        第10回フォノンエンジニアリング研究会 <strong>XX</strong>，シギラリゾート・ホテルブリーズベイマリーナ（宮古島市上野宮国）（2026年5月9日） [<a href="https://www.phonon.t.u-tokyo.ac.jp/phonon_engineering/2026/home.html">link</a>]
+    </li>
+    </li>
 </ol>
 
 ## 2025年度
@@ -65,7 +71,7 @@
     <li>
         Seohee Jang, Seung-Woo Jeon, <strong>Takuma Shiga</strong>, Jeeyong Shin, Sangwook Han, and Woosung Park<sup>&ast;</sup>,<br>
         <em>Thermally Modulated Specular Phonon Transport in a High-Debye-Temperature Diamond Nanobeam</em>,<br>
-        Advanced Science e23242 (2026).<br>
+        Advanced Science <strong>13</strong>(25), e23242 (2026).<br>
         <a href="https://doi.org/10.1002/advs.202523242">https://doi.org/10.1002/advs.202523242</a>
     </li>
     <li>

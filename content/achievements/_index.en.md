@@ -39,7 +39,7 @@
     <li>
         Seohee Jang, Seung-Woo Jeon, <strong>Takuma Shiga</strong>, Jeeyong Shin, Sangwook Han, and Woosung Park<sup>&ast;</sup>,<br>
         <em>Thermally Modulated Specular Phonon Transport in a High-Debye-Temperature Diamond Nanobeam</em>,<br>
-        Advanced Science e23242 (2026).<br>
+        Advanced Science <strong>13</strong>(25), e23242 (2026).<br>
         <a href="https://doi.org/10.1002/advs.202523242">https://doi.org/10.1002/advs.202523242</a>
     </li>
     <li>
