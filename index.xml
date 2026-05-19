@@ -6,8 +6,34 @@
     <description>Recent content in index on 豊田工業大学 機械材料物性研究室</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>共同研究論文が掲載されました</title>
+      <link>http://localhost:1313/news/2026-06-03/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2026-06-03/</guid>
+      <description>&lt;div class=&#34;paper-info&#34;&gt;
+  &lt;dl&gt;
+    &lt;dt&gt;タイトル&lt;/dt&gt;&lt;dd&gt;Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder&lt;/dd&gt;
+    &lt;dt&gt;著者&lt;/dt&gt;&lt;dd&gt;Yuki Mori, &lt;strong&gt;Takuma Shiga&lt;/strong&gt;, and Takuma Hori&lt;sup&gt;&amp;ast;&lt;/sup&gt;&lt;/dd&gt;
+    
+      &lt;dt&gt;雑誌情報&lt;/dt&gt;
+      &lt;dd&gt;
+        International Journal of Heat and Mass Tranfer
+	 &lt;strong&gt;XX&lt;/strong&gt;
+        (XX)
+        , XX
+         (2026)
+      &lt;/dd&gt;
+    
+    &lt;dt&gt;DOI&lt;/dt&gt;&lt;dd&gt;10.1038/s43246-026-01151-8&lt;/dd&gt;
+    &lt;dt&gt;URL&lt;/dt&gt;&lt;dd&gt;&lt;a href=&#34;https://doi.org/10.1038/s43246-026-01151-8&#34;&gt;https://doi.org/10.1038/s43246-026-01151-8&lt;/a&gt;&lt;/dd&gt;
+  &lt;/dl&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
+&lt;p&gt;本論文では、結晶シリコン中のナノインクルージョンが熱伝導率を低減するメカニズムを、分子動力学シミュレーションと原子グリーン関数法により解析しました。その結果、ゲルマニウムナノインクルージョンによる質量差と、アモルファスシリコンナノインクルージョンによる構造無秩序はいずれも熱伝導率を大幅に低減することを確認しました。さらに、ナノスケールでは両者が異なる性質を持つにもかかわらず、フォノンの直接伝播を遮る障害物としてほぼ同様に振る舞うことを明らかにしました。この発見は、ナノインクルージョンによる熱伝導抑制の限界と設計指針を示すものであり、熱電材料や熱マネジメント材料の開発に貢献することが期待されます。本研究は、&lt;a href=&#34;https://web.tuat.ac.jp/~htlab/&#34;&gt;東京農工大学・堀准教授の研究グループ&lt;/a&gt;との共同研究成果です。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>共同研究論文が掲載されました</title>
       <link>http://localhost:1313/news/2026-04-04/</link>
@@ -73,8 +99,8 @@
       &lt;dt&gt;雑誌情報&lt;/dt&gt;
       &lt;dd&gt;
         Advanced Science
-	 &lt;strong&gt;TBD&lt;/strong&gt;
-        (TBD)
+	 &lt;strong&gt;13&lt;/strong&gt;
+        (25)
         , e23242
          (2026)
       &lt;/dd&gt;
