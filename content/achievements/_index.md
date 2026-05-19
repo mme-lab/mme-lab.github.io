@@ -6,8 +6,8 @@
 
 <ul reversed class="pubs">
     <li>
-        Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
-        <em>Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder</em>, <br>
+        Ryosuke Takehara<sup>&ast;, &Dagger;</sup>, <strong>Takuma Shiga</strong><sup>&ast;, &Dagger;</sup> Yi-Chieh Lan, Rin Kageyama, Takejiro Ogawa, Meguya Ryu, Suguru Kitani, Hitoshi Kawaji, Junko Morikawa, and Takehori Fukushima<sup>&ast;</sup>, (&Dagger; Equal contribution)<br>
+        <em>Optical Phonon Heat Transport Activated by Hydrogen-bond Coupling</em>,<br>
     </li>
 </ul>
 
@@ -16,6 +16,12 @@
 ### 査読付き論文
 
 <ol reversed class="pubs">
+    <li>
+        Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
+        <em>Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder</em>, <br>
+        International Journal of Heat and Mass Tranfer <strong>Published online</strong> (2026).<br>
+        <a href="">https://</a>
+    </li>
     <li>
         Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi<sup>&ast;</sup>,<br>
         <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
@@ -48,9 +54,9 @@
 
 <ol reversed class="pubs">
     <li>
-        江口 遼河，Muthukunnil Joseph Anish，Dai Xuan, <strong>志賀 拓麿</strong>，沓掛 健太朗，宇治 原徹，原田 俊太，<br>
+        江口 遼河，Muthukunnil Joseph Anish，Dai Xuan，<strong>志賀 拓麿</strong>，沓掛 健太朗，宇治 原徹，原田 俊太，<br>
         周期的面欠陥がフォノン輸送特性に及ぼす影響,<br>
-        第10回フォノンエンジニアリング研究会 <strong>XX</strong>，シギラリゾート・ホテルブリーズベイマリーナ（宮古島市上野宮国）（2026年5月9日） [<a href="https://www.phonon.t.u-tokyo.ac.jp/phonon_engineering/2026/home.html">link</a>]
+        第10回フォノンエンジニアリング研究会 <strong>P17</strong>，シギラリゾート・ホテルブリーズベイマリーナ（宮古島市上野宮国）（2026年5月9日） [<a href="https://www.phonon.t.u-tokyo.ac.jp/phonon_engineering/2026/home.html">link</a>]
     </li>
     </li>
 </ol>

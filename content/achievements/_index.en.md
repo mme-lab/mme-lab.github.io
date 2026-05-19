@@ -6,14 +6,20 @@
 
 <ul reversed class="pubs">
     <li>
-        Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
-        <em>Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder</em>, <br>
-    </li>
+        Ryosuke Takehara<sup>&ast;, &Dagger;</sup>, <strong>Takuma Shiga</strong><sup>&ast;, &Dagger;</sup>, Yi-Chieh Lan, Rin Kageyama, Takejiro Ogawa, Meguya Ryu, Suguru Kitani, Hitoshi Kawaji, Junko Morikawa, and Takehori Fukushima<sup>&ast;</sup>, (&Dagger; Equal contribution)<br>
+        <em>Optical Phonon Heat Transport Activated by Hydrogen-bond Coupling</em>,<br>
+    <li>
 
 ## FY2026
 
 ### Refereed Papers
 <ol reversed class="pubs">
+    <li>
+        Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
+        <em>Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder</em>, <br>
+        International Journal of Heat and Mass Tranfer <strong>XX</strong> (2026).<br>
+        <a href="">https://</a>
+    </li>
     <li>
         Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi<sup>&ast;</sup>,<br>
         <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
