@@ -23,7 +23,7 @@
 </div>
 <div class="member-tile">
 
-![永廣 怜平](/images/members/shiga.jpg)
+![永廣 怜平](/images/members/nagahiro.png)
 
 ### [永廣 怜平](https://researchmap.jp/ryohei-nagahiro){target="_blank"}
 <span class="role role-break">（助教）</span>
@@ -34,13 +34,13 @@
   <a href="https://scholar.google.com/citations?user=d8n0PsUAAAAJ&hl=en"
      target="_blank" rel="noopener noreferrer">Google Scholar</a>
   |
-  <a href='https://ryohei-nagahiro.github.io/'>個人ページ</a>
+  <a href='https://ryohei-nagahiro.github.io/' target="_blank" rel="noopener noreferrer">個人ページ</a>
 </p>
 
 </div>
 <div class="member-tile">
 
-![Amey Gajanan Gokhale](/images/members/shiga.jpg)
+![Amey Gajanan Gokhale](/images/members/amey_gokhale.jpg)
 
 ### [Amey Gajanan Gokhale](https://www.linkedin.com/in/amey2618){target="_blank"}
 <span class="role role-break">（ポストドクトラル研究員）</span>
@@ -48,10 +48,10 @@
 <p class="member-links">
   <a href="mailto:shiga@toyota-ti.ac.jp" title="Email">Email</a> 
   |
-  <a href="https://scholar.google.com/citations?user=d8n0PsUAAAAJ&hl=en"
+  <a href="https://scholar.google.com/citations?user=sH114mcAAAAJ&hl=en&oi=ao"
      target="_blank" rel="noopener noreferrer">Google Scholar</a>
   |
-  <a href='https://researchmap.jp/ryohei-nagahiro'>個人ページ</a>
+  <a href='https://www.google.com/url?q=https://sites.google.com/view/amey-gokhale/home&source=gmail-imap&ust=1779786656000000&usg=AOvVaw1lMpyYV_pttr3b6iBtg00W' target="_blank" rel="noopener noreferrer">個人ページ</a>
 </p>
 
 </div>
