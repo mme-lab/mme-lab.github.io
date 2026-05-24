@@ -16,9 +16,9 @@
 <ol reversed class="pubs">
     <li>
         Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
-        <em>Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder</em>, <br>
-        International Journal of Heat and Mass Tranfer <strong>XX</strong> (2026).<br>
-        <a href="" target="_blank" rel="noopener noreferrer">https://</a>
+        <em>Thermal conductivity suppression by nanoinclusions with mass contrast and structural disorder</em>, <br>
+        International Journal of Heat and Mass Tranfer <strong>268</strong> 129026 (2026).<br>
+        <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026</a>
     </li>
     <li>
         Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi<sup>&ast;</sup>,<br>
