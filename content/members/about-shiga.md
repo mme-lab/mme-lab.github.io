@@ -41,6 +41,34 @@ _build:
 - 2011年6月： 2011 MRS Spring Meeting and Exhibit Best Poster Award Nominee, Material Research Society
 - 2011年6月： [日本伝熱学会 優秀プレゼンテーション賞](https://www.htsj.or.jp/about/360.html)
 
+## 学会活動・委員歴
+
+### 編集委員
+
+* 2026年4月〜現在：[応用物理学会 APEX/JJAP 編集委員](https://iopscience.iop.org/journal/1882-0786/page/Editorial%20board)
+* 2026年4月〜現在：[Thermo-X Youth Editorial Board Member](https://www.sciexplor.com/tx/youth_editorial_board)
+
+### 学会役員
+
+* 2024年10月〜2026年9月：熱物性学会 評議員
+* 2022年4月〜2024年3月：日本伝熱学会 協議員
+* 2021年4月〜2022年3月：日本物理学会 領域10連絡委員
+* 2021年4月〜2022年3月：日本物理学会 領域10運営委員（フォノン分科）
+
+### 学会・国際会議運営
+
+* 2026年4月〜2026年10月：日本機械学会 2026年熱工学コンファレンス 実行委員
+* 2023年4月〜現在：日本機械学会 熱工学コンファレンス「ナノスケール熱制御」オーガナイザー
+* 2022年4月〜現在：熱物性学会「ナノスケール熱物性の評価」オーガナイザー
+* 2024年4月〜2025年12月：EN05 "Advancements in Thermoelectric Materials—From Conventional to Cutting Edge" シンポジウムオーガナイザー
+* 2021年9月〜2022年10月：日本機械学会 2022年熱工学コンファレンス 実行委員
+* 2021年3月〜2022年10月：Asian Thermophysical Properties Conference (ATPC2022) National Executive Committee
+
+### 学会委員会
+
+* 2023年4月〜2025年3月：日本機械学会 熱工学部門運営委員会 委員
+* 2023年4月〜2024年3月：日本伝熱学会 第62期編集出版部会 委員
+
 ## 出版論文
 
 ### Review Articles
@@ -60,13 +88,13 @@ _build:
     <li>
         Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
         <em>Thermal conductivity suppression by nanoinclusions with mass contrast and structural disorder</em>, <br>
-        International Journal of Heat and Mass Tranfer <strong>268</strong> 129026 (2026).<br>
+        International Journal of Heat and Mass Tranfer <strong>268</strong>, 129026 (2026).<br>
         <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026</a>
     </li>
     <li>
         Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi<sup>&ast;</sup>,<br>
         <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
-        Communication Materials <strong>Published online</strong> (2026).<br>
+        Communication Materials <strong>7</strong>, 145 (2026).<br>
         <a href="https://doi.org/10.1038/s43246-026-01151-8" target="_blank" rel="noopener noreferrer">https://doi.org/10.1038/s43246-026-01151-8</a>
     </li>
     <li>

@@ -6,8 +6,15 @@
     <description>Recent content in News on Mechanical Material Engineering Laboratory, Toyota Technological Institute</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intern Student Visiting Our Lab</title>
+      <link>http://localhost:1313/en/news/2026-05-25/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-05-25/</guid>
+      <description>&lt;p&gt;A student from The Hong Kong Polytechnic University is visiting our lab as an intern from May 25 to July 31, 2026.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Collaborative Paper Published: Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder</title>
       <link>http://localhost:1313/en/news/2026-05-23/</link>
@@ -47,9 +54,9 @@
       &lt;dt&gt;Paper info&lt;/dt&gt;
       &lt;dd&gt;
         Communication Materials
-         &lt;strong&gt;XX&lt;/strong&gt;
-        (XX)
-        , XX
+         &lt;strong&gt;7&lt;/strong&gt;
+        
+        , 145
          (2026)
       &lt;/dd&gt;
     
@@ -59,6 +66,14 @@
 &lt;/div&gt;
 &lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
 &lt;p&gt;This paper demonstrates that the thermal conductivity of conducting polymer PBTTT thin films along the lamellar stacking direction (i.e., the through-thickness direction) can be continuously and reversibly modulated by electrochemical dopint. Au-TDTR measurements under gate bias showed that the thermal conductivity increased by up to 28% from 0.198 W m&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt; in the undopted state to 0.253 W m&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt; in the dopted state, and that this moduation was repeatable over multiple cycles. Furthremore, comparison between experiments and theoretical calculations revealed that this change in thermal conductivity orignates primarily not from carrier transport, but from local structural changes associated with TFSI ion intercalation and the resulting variation in phonon-mediated heat transport. This work is a collaborative research outcome with &lt;a href=&#34;https://nano2.fpark.tmu.ac.jp/english.html&#34;&gt;the group of Professor Kazuhiro Yanagi at Tokyo Metropolitan University&lt;/a&gt;, &lt;a href=&#34;https://www.qtum.ap.pse.nagoya-u.ac.jp/index-e.html&#34;&gt;the group of Professor Taishi Takenobu at Nagoya University&lt;/a&gt;, &lt;a href=&#34;https://cems.riken.jp/en/laboratory/emert?lang=en&#34;&gt;the group of Shun Watanabe team director at RIKEN Center for Emergent Matter Science&lt;/a&gt;, and &lt;a href=&#34;https://unit.aist.go.jp/mcml/rg-ata/index.html&#34;&gt;Advanced Thermal Analysis Research Group, Research Institute for Material Measurement, National Institute of Advanced Industrial Science and Technology (AIST)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Undergraduate Students Joined Our Lab</title>
+      <link>http://localhost:1313/en/news/2026-04-01/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-04-01/</guid>
+      <description>&lt;p&gt;Three fourth-year undergraduate students joined our lab.
+We look forward to working with them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research paper published</title>

@@ -41,6 +41,35 @@ _build:
 - **Jun. 2011**: 2011 MRS Spring Meeting and Exhibit Best Poster Award Nominee, Material Research Society
 - **Jun. 2011**: [Best Presentation Award, The Heat Transfer Society of Japan](https://www.htsj.or.jp/about/360.html)
 
+## Professional Service
+
+### Editorial Activities
+
+- Apr. 2026–Present: [Associate Editor of Applied Physics Express (APEX), The Japan Society of Applied Physics (JSAP)](https://iopscience.iop.org/journal/1882-0786/page/Editorial%20board)
+- Apr. 2026–Present: [Associate Editor of Japanese Journal of Applied Physics (JJAP), The Japan Society of Applied Physics (JSAP)](https://iopscience.iop.org/journal/1347-4065/page/Editorial%20board)
+- Apr. 2026–Present: [Youth Editorial Board Member, Thermo-X](https://www.sciexplor.com/tx/youth_editorial_board)
+
+### Society Activities
+
+- Oct. 2024–Sep. 2026: Councilor, The Japan Society of Thermophysical Properties
+- Apr. 2022–Mar. 2024: Councilor, The Heat Transfer Society of Japan
+- Apr. 2021–Mar. 2022: Liaison Committee Member, Division 10, The Physical Society of Japan
+- Apr. 2021–Mar. 2022: Steering Committee Member (Phonon Subdivision), Division 10, The Physical Society of Japan
+
+### Conference Organization
+
+- Apr. 2026–Oct. 2026: Organizing Committee Member, Thermal Engineering Conference 2026, The Japan Society of Mechanical Engineers (JSME)
+- Apr. 2023–Present: Organizer, "Nanoscale Thermal Management" Session, Thermal Engineering Conference, JSME
+- Apr. 2022–Present: Organizer, "Characterization of Nanoscale Thermophysical Properties" Session, The Japan Society of Thermophysical Properties
+- Apr. 2024–Dec. 2025: Symposium Organizer, EN05 – Advancements in Thermoelectric Materials: From Conventional to Cutting Edge
+- Sep. 2021–Oct. 2022: Organizing Committee Member, Thermal Engineering Conference 2022, JSME
+- Mar. 2021–Oct. 2022: National Executive Committee Member, Asian Thermophysical Properties Conference (ATPC2022)
+
+### Committee Memberships
+
+- Apr. 2023–Mar. 2025: Member, Thermal Engineering Division Management Committee, JSME
+- Apr. 2023–Mar. 2024: Member, Editorial and Publication Committee (62nd Term), The Heat Transfer Society of Japan
+
 ## Publications
 
 &ast; indicates corresponding author(s).
@@ -62,13 +91,13 @@ _build:
     <li>
         Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
         <em>Thermal conductivity suppression by nanoinclusions with mass contrast and structural disorder</em>, <br>
-        International Journal of Heat and Mass Tranfer <strong>268</strong> 129026 (2026).<br>
+        International Journal of Heat and Mass Tranfer <strong>268</strong>, 129026 (2026).<br>
         <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026</a>
     </li>
     <li>
         Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi<sup>&ast;</sup>,<br>
         <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
-        Communication Materials <strong>Published online</strong> (2026).<br>
+        Communication Materials <strong>7</strong>, 145 (2026).<br>
         <a href="https://doi.org/10.1038/s43246-026-01151-8" target="_blank" rel="noopener noreferrer">https://doi.org/10.1038/s43246-026-01151-8</a>
     </li>
     <li>

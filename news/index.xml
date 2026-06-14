@@ -6,8 +6,16 @@
     <description>Recent content in News on 豊田工業大学 機械材料物性研究室</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 23 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>インターン学生が研究室に滞在します</title>
+      <link>http://localhost:1313/news/2026-05-25/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2026-05-25/</guid>
+      <description>&lt;p&gt;香港理工大学の学生がインターン生として研究室に滞在します。&lt;/p&gt;
+&lt;p&gt;滞在期間：2026年5月25日〜2026年7月31日&lt;/p&gt;</description>
+    </item>
     <item>
       <title>共同研究論文が掲載されました</title>
       <link>http://localhost:1313/news/2026-05-23/</link>
@@ -47,9 +55,9 @@
       &lt;dt&gt;雑誌情報&lt;/dt&gt;
       &lt;dd&gt;
         Communication Materials
-	 &lt;strong&gt;XX&lt;/strong&gt;
-        (XX)
-        , XX
+	 &lt;strong&gt;7&lt;/strong&gt;
+        
+        , 145
          (2026)
       &lt;/dd&gt;
     
@@ -59,6 +67,14 @@
 &lt;/div&gt;
 &lt;h3 id=&#34;概要&#34;&gt;概要&lt;/h3&gt;
 &lt;p&gt;本論文では、導電性高分子PBTTT 薄膜の層状積層方向（膜厚方向）における熱伝導率を、電気化学ドーピングによって連続的かつ可逆的に変調できることを示しました。ゲート印加下でのAu-TDTR測定により、熱伝導率は未ドープ状態の0.198 W m&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt; からドープ状態で0.253 W m&lt;sup&gt;-1&lt;/sup&gt; K&lt;sup&gt;-1&lt;/sup&gt;へと最大28%増加し、この変調が繰り返し可能であることを確認しました。さらに、実験と理論計算の比較から、この熱伝導率変化は主としてキャリア輸送ではなく、TFSIイオンのインターカレーションに伴う局所構造変化とフォノン媒介熱輸送の変化に由来することを明らかにしました。本研究は、&lt;a href=&#34;https://nano2.fpark.tmu.ac.jp/&#34;&gt;東京都立大学・柳教授の研究グループ&lt;/a&gt;、&lt;a href=&#34;https://www.qtum.ap.pse.nagoya-u.ac.jp/&#34;&gt;名古屋大学・竹延教授の研究グループ&lt;/a&gt;、&lt;a href=&#34;https://cems.riken.jp/jp/laboratory/emert?lang=jp&#34;&gt;理化学研究所・渡邉チームディレクターの研究グループ&lt;/a&gt;および&lt;a href=&#34;https://unit.aist.go.jp/mcml/rg-ata/&#34;&gt;産業技術総合研究所 物質計測標準研究部門 先端熱解析研究グループ&lt;/a&gt;との共同研究成果です。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>学部4年生が配属されました</title>
+      <link>http://localhost:1313/news/2026-04-01/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/2026-04-01/</guid>
+      <description>&lt;p&gt;学部4年生3名が研究室に配属されました。
+今後の活躍を期待しています。&lt;/p&gt;</description>
     </item>
     <item>
       <title>研究論文が掲載されました</title>

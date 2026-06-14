@@ -17,13 +17,13 @@
     <li>
         Yuki Mori, <strong>Takuma Shiga</strong>, and Takuma Hori<sup>&ast;</sup>,<br>
         <em>Thermal conductivity suppression by nanoinclusions with mass contrast and structural disorder</em>, <br>
-        International Journal of Heat and Mass Tranfer <strong>268</strong> 129026 (2026).<br>
+        International Journal of Heat and Mass Tranfer <strong>268</strong>, 129026 (2026).<br>
         <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026" target="_blank" rel="noopener noreferrer">https://doi.org/10.1016/j.ijheatmasstransfer.2026.129026</a>
     </li>
     <li>
         Shun-ichiro Ito, Kan Ueji, Shigeki Saito, <strong>Takuma Shiga</strong>, Satoshi Kusaba, Takashi Yagi, Shun Watanabe, Taishi Takenobu, and Kazuhiro Yanagi<sup>&ast;</sup>,<br>
         <em>Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</em>,<br>
-        Communication Materials <strong>Published online</strong> (2026).<br>
+        Communication Materials <strong>7</strong>, 145 (2026).<br>
         <a href="https://doi.org/10.1038/s43246-026-01151-8" target="_blank" rel="noopener noreferrer">https://doi.org/10.1038/s43246-026-01151-8</a>
     </li>
 </ol>
