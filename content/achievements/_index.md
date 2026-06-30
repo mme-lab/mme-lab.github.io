@@ -34,6 +34,16 @@
 
 <ol reversed class="pubs">
     <li>
+        <strong>Takuma Shiga</strong>,<br>
+        <em>Eﬀect of Hierarchical Bundling on Phonon Transport and Thermal Conductivity in Single-Walled Carbon Nanotubes</em>,<br>
+        The 11th US-Japan Joint Seminar on Nanoscale Transport Phenomena, 東京大学本郷キャンパス（東京都文京区）（2026年6月27日）[<a href="https://sites.google.com/view/usj2026/home" target="_blank", rel"=noopener noreferer">link</a>] <strong>【招待講演】</strong>
+    </li>
+    <li>
+        Ryosuke Takehara, <strong>Takuma Shiga</strong>, Yi-Chieh Lan, Rin Kageyama, Takejiro Ogawa, Meguya Ryu, Suguru Kitani, Hitoshi Kawaji, Junko Morikawa, and Takehori Fukushima,<br>
+        <em>Understanding the Role of Hydrogen Bonding in Heat Transport in Organic Materials</em>,<br>
+        The 11th US-Japan Joint Seminar on Nanoscale Transport Phenomena, <strong>P18</strong>, 東京大学本郷キャンパス（東京都文京区）（2026年6月25日）[<a href="https://sites.google.com/view/usj2026/home" target="_blank", rel"=noopener noreferer">link</a>]
+    </li>
+    <li>
         Fuya Makino, Takamasa Hirai, <strong>Takuma Shiga</strong>, Hirofumi Suto, Hiroshi Fujihisa, Koichi Oyanagi, Staoru Kobayashi, Taisuke Sasaki, Takashi Yagi, Ken-ichi Uchida, and Yuya Sakuraba, <br>
         <em>Giant magneto-thermal resistance effect in a Co<sub>50</sub>Fe<sub>50</sub>/Cu multilayer studied via analysis of electron and lattice thermal conductivities </em>, <br>
         The 9th edition of the International Conference on Magnetic Materials and Applications (ICMAGMA-2026), National Institute of Technology Goa（インド・ゴア）（2026年6月3日）[<a href="https://nitgoa.ac.in/icmagma2026/" target="_blank" rel="noopener noreferrer">link</a>]

@@ -29,7 +29,7 @@
 <span class="role role-break">（助教）</span>
 
 <p class="member-links">
-  <a href="mailto:shiga@toyota-ti.ac.jp" title="Email">Email</a> 
+  <a href="mailto:nagahiro@toyota-ti.ac.jp" title="Email">Email</a> 
   |
   <a href="https://scholar.google.com/citations?user=d8n0PsUAAAAJ&hl=en"
      target="_blank" rel="noopener noreferrer">Google Scholar</a>
@@ -38,6 +38,7 @@
 </p>
 
 </div>
+<!---
 <div class="member-tile">
 
 ![Amey Gajanan Gokhale](/images/members/amey_gokhale.jpg)
@@ -55,6 +56,7 @@
 </p>
 
 </div>
+--!>
 </div>
 
 ---
@@ -107,11 +109,13 @@
 
 ## 訪問研究者・学生
 
-- 2026.09.01 - 2026.10.01：Tài Sơn Nguyễn（学部学生、ホーチミン科学大学、短期留学制度）
-- 2026.08.18 - 2026.10.02：Corinna Shloderer（修士学生、ミュンヘン応用大学、IAESTE制度）
 - 2026.05.25 - 2026.07.31：熊健余（学部学生、香港理工大学、インターン実習制度）  
 - 2026.04.13 - 2026.04.17：吉崎 高士（博士課程学生、[大阪大学・中村研究室](http://www.adv.ee.es.osaka-u.ac.jp/)）
 - 2026.04.01 - 2027.03.31：矢次 健一（[株式会社豊田中央研究所](https://researchmap.jp/kenichi-yatsugi)）
 - 2026.04.01 - 2027.03.31：舟山 啓太（[株式会社豊田中央研究所](https://researchmap.jp/page-to-keita-funaya)）
 - 2025.11.12 – 2025.11.21：森 勇輝（修士課程学生、[東京農工大学・堀研究室](https://web.tuat.ac.jp/~htlab/)）
 
+<!--
+- 2026.09.01 - 2026.10.01：Tài Sơn Nguyễn（学部学生、ホーチミン科学大学、短期留学制度）
+- 2026.08.18 - 2026.10.02：Corinna Shloderer（修士学生、ミュンヘン応用大学、IAESTE制度）
+--!>
