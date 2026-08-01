@@ -38,16 +38,15 @@
 </p>
 
 </div>
-<!---
 <div class="member-tile">
 
 ![Amey Gajanan Gokhale](/images/members/amey_gokhale.jpg)
 
-### [Amey Gajanan Gokhale](https://www.linkedin.com/in/amey2618){target="_blank"}
+### [Amey Gokhale](https://www.linkedin.com/in/amey2618){target="_blank"}
 <span class="role role-break">（ポストドクトラル研究員）</span>
 
 <p class="member-links">
-  <a href="mailto:shiga@toyota-ti.ac.jp" title="Email">Email</a> 
+  <a href="mailto:amey@toyota-ti.ac.jp" title="Email">Email</a> 
   |
   <a href="https://scholar.google.com/citations?user=sH114mcAAAAJ&hl=en&oi=ao"
      target="_blank" rel="noopener noreferrer">Google Scholar</a>
@@ -56,7 +55,6 @@
 </p>
 
 </div>
---!>
 </div>
 
 ---
@@ -85,7 +83,7 @@
 </div>
 <div class="member-tile">
 
-![学生](/images/members/placeholder-ug-b4.svg)
+![Takumi Hirose](/images/members/takumi_hirose.jpg)
 
 ### 廣瀬 巧実
 <span class="role role-break">（B4）</span>

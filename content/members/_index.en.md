@@ -39,16 +39,15 @@
 </p>
 
 </div>
-<!---
 <div class="member-tile">
 
 ![Amey Gokhale](/images/members/amey_gokhale.jpg)
 
-### [Amey Gajanan Gokhale](https://www.linkedin.com/in/amey2618)
+### [Amey Gokhale](https://www.linkedin.com/in/amey2618)
 <span class="role role-break">(Post doctoral researcher)</span>
 
 <p class="member-links">
-  <a href="mailto:shiga@toyota-ti.ac.jp" title="Email">Email</a>
+  <a href="mailto:amey@toyota-ti.ac.jp" title="Email">Email</a>
   | 
   <a href="https://www.google.com/url?q=https://scholar.google.com/citations?user%3DsH114mcAAAAJ%26hl%3Den%26oi%3Dao&source=gmail-imap&ust=1779786656000000&usg=AOvVaw2KrP3PBUF3j52ooUnULYG5"
      target="_blank" rel="noopener noreferrer">Google Scholar</a>
@@ -57,7 +56,6 @@
 </p>
 
 </div>
----!>
 </div>
 
 ---
@@ -86,7 +84,7 @@ Thermal characterization of two-dimensional materials using the 3ω method
 </div>
 <div class="member-tile">
 
-![Student](/images/members/placeholder-ug-b4.svg)
+![Takumi Hirose](/images/members/takumi_hirose.jpg)
 
 ### Takumi Hirose
 <span class="role role-break">（B4）</span>
