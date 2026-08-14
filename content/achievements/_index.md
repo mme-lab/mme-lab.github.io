@@ -63,7 +63,6 @@
 ### 国内研究発表
 
 <ol reversed class="pubs">
-    <!---
     <li>
         <strong>志賀 拓麿</strong>，<br>
         格子動力学計算とランダムスティックネットワーク法を用いたCNT薄膜の熱伝導解析，<br>
@@ -78,6 +77,26 @@
         <strong>志賀 拓麿</strong>，<br>
         TBD，<br>
         京大基研研究会 基礎物理が拓く熱電現象の新領域，<strong>XXX</strong>，京都大学 北部総合教育研究棟 益川ホール（京都府左京区）（2026年11月xx日）[<a href="" target="_blank" rel="noopener noreferer">link</a>] <strong>【招待講演】</strong>
+    </li>
+    <li>
+        <strong>永廣 怜平</strong>，<br>
+        Direct measurement of thermal boundary resistance via cross-sectional frequency-domain thermoreflectance，<br>
+        豊田工業大学 第17回 スマートエネルギー技術センターシンポジウム，豊田工業大学 豊田喜一郎記念ホール（愛知県名古屋市）（2026年10月29日）
+    </li>
+    <li>
+        <strong>Amey Gokhale</strong>，<br>
+        Thermal transport in layered semiconductors，<br>
+        豊田工業大学 第17回 スマートエネルギー技術センターシンポジウム，豊田工業大学 豊田喜一郎記念ホール（愛知県名古屋市）（2026年10月29日）
+    </li>
+    <li>
+        <strong>志賀 拓麿</strong>，<br>
+        Investigating phonon transport across diverse materials using high-frequency time-domain thermoreflectance，<br>
+        豊田工業大学 第17回 スマートエネルギー技術センターシンポジウム，豊田工業大学 豊田喜一郎記念ホール（愛知県名古屋市）（2026年10月29日）
+    </li>
+    <li>
+        <strong>志賀 拓麿</strong>，<br>
+        バンドル構造化による単層カーボンナノチューブのフォノン熱輸送抑制機構，<br>
+        豊田工業大学 第17回 スマートエネルギー技術センターシンポジウム，豊田工業大学 豊田喜一郎記念ホール（愛知県名古屋市）（2026年10月29日）
     </li>
     <li>
         <strong>志賀 拓麿</strong>，<br>
@@ -99,7 +118,6 @@
         ナノスケール熱伝導の基礎と応用〜熱輸送解析・熱計測・熱制御技術の展開〜，<br>
         東海伝熱セミナー，<strong>XXX</strong>，まるは食堂旅館（愛知県知多郡）（2026年9月11日）[<a href="https://www.jsme.or.jp/conference/tedconf26/index.html" target="_blank" rel="noopener noreferer">link</a>] <strong>【招待講演】</strong>
     </li>
-    --!>
     <li>
         江口 遼河，Muthukunnil Joseph Anish，Dai Xuan，<strong>志賀 拓麿</strong>，沓掛 健太朗，宇治 原徹，原田 俊太，<br>
         周期的面欠陥がフォノン輸送特性に及ぼす影響，<br>

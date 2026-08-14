@@ -4,7 +4,7 @@
    2-12-1 Hisakata, Tempaku-ku, Nagoya, Aichi 468-8511, Japan
 - Room
     - Faculty: S3-10
-    - Laboratory: S3-09
+    - Laboratory: S3-06
     - Experiment: S3-01
 - Access: 10-minute walk from Aioiyama Station (Nagoya Municipal Subway, Sakura-dori Line)
 
