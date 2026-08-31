@@ -111,12 +111,12 @@
     <li>
         竹原 陵介，<strong>志賀 拓麿</strong>，藍 逸頡，影山 凜，小川 竹次郎，劉 芽久哉，気谷 卓，川路 均，森川 淳子，福島 孝典，<br>
         有機単結晶における水素結合を介した光学フォノン熱輸送，<br>
-        日本物理学会 第81回年次大会（2026年），<strong>XXX</strong>，東京大学 駒場キャンパス（東京都目黒区）（2026年9月14日）[<a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank" rel="noopener noreferer">link</a>]
+        日本物理学会 第81回年次大会（2026年），<strong>14aA107-13</strong>，東京大学 駒場キャンパス（東京都目黒区）（2026年9月14日）[<a href="https://www.jps.or.jp/activities/meetings/annual/annual-index.php" target="_blank" rel="noopener noreferer">link</a>]
     </li>
     <li>
         <strong>志賀 拓麿</strong>，<br>
         ナノスケール熱伝導の基礎と応用〜熱輸送解析・熱計測・熱制御技術の展開〜，<br>
-        東海伝熱セミナー，<strong>XXX</strong>，まるは食堂旅館（愛知県知多郡）（2026年9月11日）[<a href="https://www.jsme.or.jp/conference/tedconf26/index.html" target="_blank" rel="noopener noreferer">link</a>] <strong>【招待講演】</strong>
+        東海伝熱セミナー，まるは食堂旅館（愛知県知多郡）（2026年9月11日）[<a href="https://www.htsj.or.jp/branch/tokai/pdf/2026_HTSJ_TOKAI_SEM_Information.pdf" target="_blank" rel="noopener noreferer">link</a>] <strong>【招待講演】</strong>
     </li>
     <li>
         江口 遼河，Muthukunnil Joseph Anish，Dai Xuan，<strong>志賀 拓麿</strong>，沓掛 健太朗，宇治 原徹，原田 俊太，<br>

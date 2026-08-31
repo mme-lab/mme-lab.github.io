@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>News on Mechanical Material Engineering Laboratory, Toyota Technological Institute</title>
-    <link>https://mme-lab.github.io/en/news/</link>
+    <link>http://localhost:1313/en/news/</link>
     <description>Recent content in News on Mechanical Material Engineering Laboratory, Toyota Technological Institute</description>
     <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mme-lab.github.io/en/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intern Student Visiting Our Lab</title>
+      <link>http://localhost:1313/en/news/2026-09-01/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-09-01/</guid>
+      <description>&lt;p&gt;A student from University of Science, Vietnam National University - Ho Chi Minh city is visiting our lab as an intern from August 18 to October 2, 2026.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intern Student Visiting Our Lab</title>
+      <link>http://localhost:1313/en/news/2026-08-18/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/news/2026-08-18/</guid>
+      <description>&lt;p&gt;A student from Hochschule München is visiting our lab as an intern from August 18 to October 2, 2026.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>New Members Joined Our Lab</title>
-      <link>https://mme-lab.github.io/en/news/2026-08-01/</link>
+      <link>http://localhost:1313/en/news/2026-08-01/</link>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-08-01/</guid>
+      <guid>http://localhost:1313/en/news/2026-08-01/</guid>
       <description>&lt;p&gt;Dr. Amey Gajanan Gokhale joined our lab as a Postdoctoral Researcher.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Members Joined Our Lab</title>
-      <link>https://mme-lab.github.io/en/news/2026-07-01/</link>
+      <link>http://localhost:1313/en/news/2026-07-01/</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-07-01/</guid>
+      <guid>http://localhost:1313/en/news/2026-07-01/</guid>
       <description>&lt;p&gt;Dr. Ryohei Nagahiro joined our lab as an Assistant Professor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Intern Student Visiting Our Lab</title>
-      <link>https://mme-lab.github.io/en/news/2026-05-25/</link>
+      <link>http://localhost:1313/en/news/2026-05-25/</link>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-05-25/</guid>
+      <guid>http://localhost:1313/en/news/2026-05-25/</guid>
       <description>&lt;p&gt;A student from The Hong Kong Polytechnic University is visiting our lab as an intern from May 25 to July 31, 2026.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collaborative Paper Published: Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder</title>
-      <link>https://mme-lab.github.io/en/news/2026-05-23/</link>
+      <link>http://localhost:1313/en/news/2026-05-23/</link>
       <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-05-23/</guid>
+      <guid>http://localhost:1313/en/news/2026-05-23/</guid>
       <description>&lt;div class=&#34;paper-info&#34;&gt;
   &lt;dl&gt;
     &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Thermal Conductivity Suppression by Nanoinclusions with Mass Contrast and Structural Disorder&lt;/dd&gt;
@@ -57,9 +71,9 @@
     </item>
     <item>
       <title>Collaborative Paper Published: Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT</title>
-      <link>https://mme-lab.github.io/en/news/2026-04-04/</link>
+      <link>http://localhost:1313/en/news/2026-04-04/</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-04-04/</guid>
+      <guid>http://localhost:1313/en/news/2026-04-04/</guid>
       <description>&lt;div class=&#34;paper-info&#34;&gt;
   &lt;dl&gt;
     &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT&lt;/dd&gt;
@@ -83,17 +97,17 @@
     </item>
     <item>
       <title>New Undergraduate Students Joined Our Lab</title>
-      <link>https://mme-lab.github.io/en/news/2026-04-01/</link>
+      <link>http://localhost:1313/en/news/2026-04-01/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-04-01/</guid>
+      <guid>http://localhost:1313/en/news/2026-04-01/</guid>
       <description>&lt;p&gt;Three fourth-year undergraduate students joined our lab.
 We look forward to working with them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research paper published</title>
-      <link>https://mme-lab.github.io/en/news/2026-03-09/</link>
+      <link>http://localhost:1313/en/news/2026-03-09/</link>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-03-09/</guid>
+      <guid>http://localhost:1313/en/news/2026-03-09/</guid>
       <description>&lt;div class=&#34;paper-info&#34;&gt;
   &lt;dl&gt;
     &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Anharmonic lattice dynamics study of phonon transport in layered and molecular-crystal indium iodides&lt;/dd&gt;
@@ -117,9 +131,9 @@ We look forward to working with them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collaborative Paper Published: Thermally Triggered Non-Diffuse Phonon Reflection from Boundaries in Single-Crystal Diamond Nanobeams</title>
-      <link>https://mme-lab.github.io/en/news/2026-03-04/</link>
+      <link>http://localhost:1313/en/news/2026-03-04/</link>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-03-04/</guid>
+      <guid>http://localhost:1313/en/news/2026-03-04/</guid>
       <description>&lt;div class=&#34;paper-info&#34;&gt;
   &lt;dl&gt;
     &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Thermally Modulated Specular Phonon Transport in a High-Debye-Temperature Diamond Nanobeam&lt;/dd&gt;
@@ -143,9 +157,9 @@ We look forward to working with them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Collaborative Paper Published: Interpretable Thermal Transport Prediction in Amorphous Graphene</title>
-      <link>https://mme-lab.github.io/en/news/2026-02-17/</link>
+      <link>http://localhost:1313/en/news/2026-02-17/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-02-17/</guid>
+      <guid>http://localhost:1313/en/news/2026-02-17/</guid>
       <description>&lt;div class=&#34;paper-info&#34;&gt;
   &lt;dl&gt;
     &lt;dt&gt;Title&lt;/dt&gt;&lt;dd&gt;Topological descriptor for interpretable thermal transort prediction in amorphous graphene&lt;/dd&gt;
@@ -169,9 +183,9 @@ We look forward to working with them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publication list updated</title>
-      <link>https://mme-lab.github.io/en/news/2026-01-10/</link>
+      <link>http://localhost:1313/en/news/2026-01-10/</link>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://mme-lab.github.io/en/news/2026-01-10/</guid>
+      <guid>http://localhost:1313/en/news/2026-01-10/</guid>
       <description></description>
     </item>
   </channel>
