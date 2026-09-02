@@ -1,0 +1,32 @@
+{{ $items := where .Site.RegularPages "Section" "featured" }}
+{{ $featured := where $items "Params.featured" true }}
+{{ $featured = sort $featured "Date" "desc" }}
+
+{{ range $featured }}
+<section class="featured-event">
+
+  <div class="featured-event-label">
+    {{ .Params.label | default "EVENT" }}
+  </div>
+
+  <div class="featured-event-body">
+
+    <div class="featured-event-title">
+      {{ .Title }}
+    </div>
+
+    <div class="featured-event-meta">
+      {{ with .Params.event_date }}{{ . }}{{ end }}
+      {{ with .Params.event_time }} / {{ . }}{{ end }}
+      {{ with .Params.event_place }} / {{ . }}{{ end }}
+    </div>
+
+  </div>
+
+  <a class="featured-event-link"
+    href="{{ .Params.external_url | default .RelPermalink }}">
+    詳細を見る →
+  </a>
+
+</section>
+{{ end }}

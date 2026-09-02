@@ -1,0 +1,222 @@
+.lab-hero {
+  position: relative;
+  margin: 1rem 0 2rem;
+  min-height: 0;
+  overflow: visible;
+}
+
+.lab-hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 700px;
+  padding: 0;
+}
+
+.lab-hero-kicker {
+  margin: 0 0 1.3rem;
+}
+
+.lab-hero h1 {
+  margin: 0;
+  line-height: 1.12;
+}
+
+.lab-hero-description {
+  position: relative;
+  z-index: 2;
+
+  margin: 3.8rem 0 0;
+  line-height: 1.8;
+}
+
+.lab-hero-button {
+  position: relative;
+  z-index: 2;
+
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+/* 波 */
+.lab-hero-visual {
+  position: absolute;
+  z-index: 1;
+
+  width: 100%;
+  left: 0%;
+  top: -5rem;
+
+  opacity: 0.32;
+}
+
+.lab-hero-visual img {
+  display: block;
+  width: 100%;
+  height: 200px;
+}
+
+.featured-event {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 1.5rem;
+
+  margin: 0;
+  padding: 1rem 0;
+
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+}
+
+.featured-event-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  opacity: 0.55;
+}
+
+.featured-event-body {
+  min-width: 0;
+}
+
+.featured-event-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.featured-event-meta {
+  margin-top: 0.15rem;
+  font-size: 0.85rem;
+  opacity: 0.6;
+}
+
+.featured-event-link {
+  white-space: nowrap;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+
+@media (max-width: 700px) {
+  .featured-event {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .featured-event-link {
+    justify-self: start;
+  }
+}
+
+/* ========================================
+   Research Highlights
+   ======================================== */
+
+.research-highlights {
+  margin: 3.2rem 0 3.5rem;
+  padding-top: 2.2rem;
+  border-top: 1px solid rgba(80, 80, 80, 0.22);
+}
+
+.research-highlights-heading {
+  margin: 0 0 1.5rem;
+  font-size: 2rem;
+  line-height: 1.2;
+}
+
+.research-highlights-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.8rem;
+}
+
+.research-highlight {
+  position: relative;
+  display: block;
+
+  padding: 1rem 0 1.3rem;
+
+  border-top: 1px solid var(--border);
+
+  color: inherit;
+  text-decoration: none;
+}
+
+.research-highlight-number {
+  margin-bottom: 1.2rem;
+
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+
+  opacity: 0.45;
+}
+
+.research-highlight-en {
+  margin-bottom: 0.35rem;
+
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+
+  opacity: 0.55;
+}
+
+.research-highlight h3 {
+  margin: 0 0 0.8rem;
+
+  font-size: 1.1rem;
+  line-height: 1.4;
+}
+
+.research-highlight p {
+  margin: 0;
+
+  font-size: 0.9rem;
+  line-height: 1.75;
+
+  opacity: 0.78;
+}
+
+.research-highlight-arrow {
+  display: block;
+  margin-top: 1rem;
+
+  font-size: 1.1rem;
+
+  transition: transform 0.2s ease;
+}
+
+.research-highlight:hover .research-highlight-arrow {
+  transform: translateX(4px);
+}
+
+
+/* Mobile */
+
+@media (max-width: 700px) {
+
+  .research-highlights {
+    margin: 2.5rem 0 3rem;
+  }
+
+  .research-highlights-grid {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .research-highlight {
+    padding: 1rem 0 1.2rem;
+  }
+
+  .research-highlight-number {
+    margin-bottom: 0.6rem;
+  }
+
+}
+
+
+.post-content > h2 {
+  border-top: 1px solid rgba(80, 80, 80, 0.22);
+  padding-top: 2.2rem;
+  margin-top: 3.2rem;
+}
