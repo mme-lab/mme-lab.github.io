@@ -1,10 +1,10 @@
 ---
 title: "研究室説明会を開催します"
-date: 2026-09-20
-event_date: "2026.10.08 THU, 10.29 THU"
-event_time: "16:30–17:30"
+date: 2026-09-10
+event_date: "2026.10.05 MON, 10.21 WED"
+event_time: "16:20–17:20"
 event_place: "南棟S3-6"
-featured: false 
+featured: true
 label: "EVENT"
 draft: false
 ---
