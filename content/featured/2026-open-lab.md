@@ -4,7 +4,7 @@ date: 2026-09-10
 event_date: "2026.10.05 MON, 10.21 WED"
 event_time: "16:20–17:20"
 event_place: "南棟S3-6"
-featured: true
+featured: false
 label: "EVENT"
 draft: false
 ---
