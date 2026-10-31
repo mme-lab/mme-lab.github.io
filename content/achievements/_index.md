@@ -64,19 +64,24 @@
 
 <ol reversed class="pubs">
     <li>
+        Muthukunnil Joseph Anish, Shunsuke Harada, <strong>Takuma Shiga</strong>，<br>
+        4H-SiC結晶の熱輸送に及ぼす点欠陥<span style="white-space: nowrap;">分布の影響</span><wbr><span style="display: inline-block;">−フォノンモンテカルロ法による<span style="white-space: nowrap;">解析−，</span></span><br>
+        先進パワー半導体分科会第13回講演会，<strong>XXX</strong>，広島国際会議場（広島県広島市）（2026年11月xx日）[<a href="https://adps13.hiroshima-u.ac.jp/" target="_blank" rel="noopener noreferer">link</a>]
+    </li>
+    <li>
         <strong>志賀 拓麿</strong>，<br>
         格子動力学計算とランダムスティックネットワーク法を用いたCNT薄膜の熱伝導解析，<br>
-        第47回日本熱物性シンポジウム，<strong>XXX</strong>，東京科学大学 大岡山キャンパス（東京都目黒区）（2026年11月xx日）[<a href="" target="_blank" rel="noopener noreferer">link</a>]
+        第47回日本熱物性シンポジウム，<strong>B325</strong>，東京科学大学 大岡山キャンパス（東京都目黒区）（2026年11月23日）[<a href="https://jstp-symp.org/symp2026/files/jstp2026_program_260728.pdf" target="_blank" rel="noopener noreferrer">link</a>]
     </li>
     <li>
         <strong>志賀 拓麿</strong>，<br>
-        TBD，<br>
-        理論・計測・材料開発による熱機能材料の理解と創製，<strong>XXX</strong>，東京科学大学 大岡山キャンパス（東京都目黒区）（2026年11月19日）<strong>【招待講演】</strong>
+        材料機能解明に向けたナノスケール熱輸送の理論・数値解析，<br>
+        理論・計測・材料開発による熱機能材料の理解と創製，東京科学大学 すずかけ台キャンパス R3棟1階 大会議室（神奈川県横浜市）（2026年11月19日）[<a href="https://www.msl.iir.isct.ac.jp/seminar/msl_lec217_jp/" target="_blank" rel="noopener noreferrer">link</a>] <strong>【招待講演】</strong>
     </li>
     <li>
         <strong>志賀 拓麿</strong>，<br>
-        TBD，<br>
-        京大基研研究会 基礎物理が拓く熱電現象の新領域，<strong>XXX</strong>，京都大学 北部総合教育研究棟 益川ホール（京都府左京区）（2026年11月xx日）[<a href="" target="_blank" rel="noopener noreferer">link</a>] <strong>【招待講演】</strong>
+        フォノン熱輸送の理解と熱電・熱機能材料への展開，<br>
+        京大基研研究会 基礎物理が拓く熱電現象の新領域，京都大学 北部総合教育研究棟 益川ホール（京都府京都市左京区）（2026年11月10日）[<a href="https://www.yukawa.kyoto-u.ac.jp/seminar/s53641" target="_blank" rel="noopener noreferrer">link1</a>] [<a href="https://sites.google.com/view/yitp-thermoelectric-workshop/" target="_blank" rel="noopener noreferrer">link2</a>] <strong>【招待講演】</strong>
     </li>
     <li>
         <strong>永廣 怜平</strong>，<br>
@@ -100,13 +105,13 @@
     </li>
     <li>
         <strong>志賀 拓麿</strong>，<br>
-        シリコンの結晶・非晶質構造転移における熱輸送モード発現の解析，<br>
-        熱工学コンファレンス2026，<strong>XXX</strong>，ウインクあいち（愛知県名古屋市）（2026年10月26日）[<a href="https://www.jsme.or.jp/conference/tedconf26/index.html" target="_blank" rel="noopener noreferer">link</a>]
+        シリコンの結晶・非晶質構造遷移における熱輸送モード発現の解析，<br>
+        熱工学コンファレンス2026，<strong>E33</strong>，ウインクあいち（愛知県名古屋市）（2026年10月26日）[<a href="https://www.jsme.or.jp/conference/tedconf26/index.html" target="_blank" rel="noopener noreferer">link</a>]
     </li>
     <li>
         <strong>志賀 拓麿</strong>，<br>
         界面非線形性によるフォノン透過およびモード変換の波束解析，<br>
-        熱工学コンファレンス2026，<strong>XXX</strong>，ウインクあいち（愛知県名古屋市）（2026年10月26日）[<a href="https://www.jsme.or.jp/conference/tedconf26/index.html" target="_blank" rel="noopener noreferer">link</a>]
+        熱工学コンファレンス2026，<strong>C63</strong>，ウインクあいち（愛知県名古屋市）（2026年10月27日）[<a href="https://www.jsme.or.jp/conference/tedconf26/index.html" target="_blank" rel="noopener noreferer">link</a>]
     </li>
     <li>
         竹原 陵介，<strong>志賀 拓麿</strong>，藍 逸頡，影山 凜，小川 竹次郎，劉 芽久哉，気谷 卓，川路 均，森川 淳子，福島 孝典，<br>
