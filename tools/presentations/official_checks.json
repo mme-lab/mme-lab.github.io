@@ -1,5 +1,5 @@
 {
-  "_comment": "学会公式資料等で確認した事実（公開情報のみ）。title_contains（タイトル）と year（発表年）の両方が一致するレコードにだけ適用する。",
+  "_comment": "学会公式資料等で確認した事実（公開情報のみ）。id があるものはその発表IDにだけ適用し、ないものは title_contains と year が一致するレコードに適用する。presentation_number は講演・ポスター番号のみ。paper_number・board_number・unverified_numbers は表示用の講演番号とは別扱い。",
   "checks": [
     {
       "title_contains": "シリコンの結晶・非晶質構造遷移における熱輸送モード発現の解析",
@@ -72,6 +72,385 @@
       "source": "日本伝熱学会誌 2016年10月号 p.33 共催・協賛・後援行事（11th ATPC2016：10月2日（日）〜6日（木）、パシフィコ横浜アネックスホール）",
       "url": "https://www.htsj.or.jp/wp/media/2016_10.pdf",
       "year": 2016
+    },
+    {
+      "id": "rm-48511835",
+      "year": 2025,
+      "title_contains": "Phonon transport characterization across diverse materials using high-frequency time-domain thermoreflectance",
+      "source": "A3 Workshop プログラム「Poster No. P1-1 Takuma Shiga … Phonon transport characterization…」",
+      "url": "https://www.phonon.t.u-tokyo.ac.jp/A3_workshop/2024/index.html",
+      "presentation_number": "P1-1",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-48511751",
+      "year": 2024,
+      "title_contains": "Thermal and Thermoelectric Measurement of SiC-based Microfibers",
+      "source": "SAES2024 Proceedings p.158 の該当要旨フッター「OS7-4」（前後は OS7-3, OS7-5）",
+      "url": "https://conferenceservice.jp/www/saes2024/doc/SAES2024_proceeding.pdf",
+      "presentation_number": "OS7-4",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919951",
+      "year": 2017,
+      "title_contains": "Contributions of coherent and incoherent phonons to heat conduction",
+      "source": "「11:30 – 11:45 VI-4. Takuma Shiga … Contributions of coherent and incoherent phonons to heat conduction」",
+      "url": "http://www.thml.t.u-tokyo.ac.jp/USJ2017/",
+      "presentation_number": "VI-4",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919861",
+      "year": 2015,
+      "title_contains": "Phonon transport in perovskite SrTiO3 from first-principles",
+      "source": "ICT2015 Program「9B.2 16:30 – 16:45 L. Feng, T. Shiga, J. Shiomi Oral Phonon transport in perovskite SrTiO3…」",
+      "url": "http://www.johner.cvining.com/ect2015/www2.cpfs.mpg.de/ict2015/scientific-program/Program_230615.pdf",
+      "presentation_number": "9B.2",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919860",
+      "year": 2015,
+      "title_contains": "Empirical model of heat conduction for a screening of high-performance thermoelectric materials",
+      "source": "ICT2015 Posterliste「PB016 Shiga, Takuma; Aketo, Daisuke; Feng, Lei; Shiomi, Junichiro Empirical model…」",
+      "url": "http://www.johner.cvining.com/ect2015/www2.cpfs.mpg.de/ict2015/scientific-program/Posterliste_190615-2.pdf",
+      "presentation_number": "PB016",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919856",
+      "year": 2015,
+      "title_contains": "Effect of phonon-blocking at sintered interfaces",
+      "source": "APS アーカイブ mar/2015/d12/4「Effect of phonon-blocking at sintered interfaces … Invited」（登録URL D12.4 と一致）。塩見淳一郎 科研費成果報告書（26630061）に Junichiro Shiomi, Takuma Shiga の共同成果として記載。なお手元保存の発表スライド表紙は「Takuma Shiga, Junichiro Shiomi」",
+      "url": "https://meetings-archive.aps.org/mar/2015/d12/4",
+      "presentation_number": "D12.00004",
+      "number_kind": "talk",
+      "speaker": "Junichiro Shiomi",
+      "url_supplementary": "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-26630061/26630061seika.pdf"
+    },
+    {
+      "id": "rm-47473195",
+      "year": 2024,
+      "title_contains": "DFT計算によるMg2NiH4の圧力誘起相転移と高圧相構造の予測",
+      "source": "第65回高圧討論会 口頭プログラム「17:20 1A13 DFT計算によるMg2NiH4の圧力誘起相転移と高圧相構造の予測」",
+      "url": "https://highpressure.jp/new/65forum/doc/program_details_oral_1028.pdf",
+      "presentation_number": "1A13",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-52021964",
+      "year": 2024,
+      "title_contains": "東京大学工学部機械工学科スターリングエンジン演習の実践報告",
+      "source": "confit「[S201-10] 東京大学工学部機械工学科スターリングエンジン演習の実践報告」（DOI と同一コード）",
+      "url": "https://pub.confit.atlas.jp/ja/event/jsme2024/presentation/S201-10",
+      "presentation_number": "S201-10",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-24645618",
+      "year": 2020,
+      "title_contains": "Study on effects of twist on phonon transport in graphene nanoribbons",
+      "source": "第58回FNTGシンポジウム プログラム「3P-11 Study on effects of twist on phonon transport in graphene nanoribbons」",
+      "url": "https://fntg.jp/jp_new/symposium/sympo58/doc/fntg58_program_j.pdf",
+      "presentation_number": "3P-11",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919792",
+      "year": 2019,
+      "title_contains": "Thermal transport study of molybdenum disulfide nanotubes by molecular dynamics simulations",
+      "source": "第57回FNTGシンポジウム プログラム「3P-11 Thermal transport study of molybdenum disulfide nanotubes… 110」（110 は頁）",
+      "url": "https://fntg.jp/jp_new/symposium/sympo57/doc/fntg57_program_j.pdf",
+      "presentation_number": "3P-11",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919799",
+      "year": 2017,
+      "title_contains": "MoS2(0001)表面ナノアイランドでのフォノン潤滑2",
+      "source": "2017年秋季大会 21pPSB セッション「38 MoS2(0001)表面ナノアイランドでのフォノン潤滑」（「2」なし。Wayback）。CiNii: 10.11316/jpsgaiyo.72.2.0_2143。CiNii DOI 10.11316/jpsgaiyo.72.2.0_2143。「…潤滑2」は 2018 年次大会 22pPSB-70（rm-15919787）",
+      "url": "https://w4.gakkai-web.net/jps_search/2017au/data/html/program09.html",
+      "presentation_number": "21pPSB-38",
+      "number_kind": "poster",
+      "title_corrected": "MoS2(0001)表面ナノアイランドでのフォノン潤滑"
+    },
+    {
+      "id": "rm-15919795",
+      "year": 2017,
+      "title_contains": "MoS_2_(0001)表面ナノアイランドでのフォノン潤滑",
+      "source": "2017年真空・表面科学合同講演会 プログラム（p.xiii–xiv）「1P21 MoS2 (0001)表面ナノアイランドでのフォノン潤滑」",
+      "url": "http://www.sssj.org/annual/mtg2017/program20170808.pdf",
+      "presentation_number": "1P21",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919628",
+      "year": 2015,
+      "title_contains": "単層カーボンナノチューブの熱電性能に及ぼすひずみと欠陥の影響",
+      "source": "J-STAGE/Crossref 登録タイトル「29pm3-PN-53 Effect of Strain and Defects…」（DOI の _26 は番号ではない）",
+      "url": "https://doi.org/10.1299/jsmemnm.2015.7._29pm3-PN-_26",
+      "presentation_number": "29pm3-PN-53",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919672",
+      "year": 2014,
+      "title_contains": "累積熱伝導率モデルを用いたナノ構造化熱電材料のスクリーニング",
+      "source": "第51回日本伝熱シンポジウム プログラム「F222 累積熱伝導率モデルを用いたナノ構造化熱電材料のスクリーニング」（Wayback）",
+      "url": "http://thermo.web.nitech.ac.jp/nhts2014/index08.html",
+      "presentation_number": "F222",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919669",
+      "year": 2014,
+      "title_contains": "ナノ構造や界面フォノン輸送物性にもとづく熱伝導制御ストラテジ",
+      "source": "同「F231 ナノ構造や界面のフォノン輸送物性にもとづく熱伝導制御ストラテジ」",
+      "url": "http://thermo.web.nitech.ac.jp/nhts2014/index08.html",
+      "presentation_number": "F231",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919706",
+      "year": 2012,
+      "title_contains": "モンテカルロ法を用いたナノ構造化熱電材料の格子熱伝導解析",
+      "source": "J-STAGE/Crossref 登録タイトル「P-OS5-3 Lattice thermal conductivity calculations…」",
+      "url": "https://doi.org/10.1299/jsmemnm.2012.4.285",
+      "presentation_number": "P-OS5-3",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919701",
+      "year": 2012,
+      "title_contains": "第一原理に基づいた非調和格子動力学法及び分子動力学法による熱電変換材料の熱伝導解析",
+      "source": "J-STAGE/Crossref 登録タイトル「OS5-2-2 First-principles heat conduction analysis…」",
+      "url": "https://doi.org/10.1299/jsmemnm.2012.4.67",
+      "presentation_number": "OS5-2-2",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919722",
+      "year": 2012,
+      "title_contains": "マグネシウムシリサイドの第一原理熱伝導解析",
+      "source": "第9回日本熱電学会 要旨集 目次「S8-1 マグネシウムシリサイドの第一原理熱伝導解析 36」（36 は頁）",
+      "url": "https://www.thermoelectrics.jp/zata/abstracts/TSJ2012.pdf",
+      "presentation_number": "S8-1",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919720",
+      "year": 2012,
+      "title_contains": "分子動力学法によるPbTe1-xSexの格子熱伝導解析",
+      "source": "同 目次「S8-3 分子動力学法によるPbTe1-xSex合金の格子熱伝導解析 38」",
+      "url": "https://www.thermoelectrics.jp/zata/abstracts/TSJ2012.pdf",
+      "presentation_number": "S8-3",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919773",
+      "year": 2011,
+      "title_contains": "分子動力学を用いたシリコン結晶のフォノン輸送解析",
+      "source": "J-STAGE/Crossref 登録タイトル「MP-3 Phonon transport analysis of silicon crystal…」",
+      "url": "https://doi.org/10.1299/jsmemnm.2011.3.73",
+      "presentation_number": "MP-3",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919771",
+      "year": 2011,
+      "title_contains": "合金結晶のフォノン輸送の分子動力学解析",
+      "source": "J-STAGE/Crossref 登録タイトル「MP-7 Molecular dynamics study on the phonon transport in alloy crystal」",
+      "url": "https://doi.org/10.1299/jsmemnm.2011.3.81",
+      "presentation_number": "MP-7",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919770",
+      "year": 2011,
+      "title_contains": "カーボンナノチューブ・ポリマー複合材の異方性熱伝導に関する分子動力学",
+      "source": "J-STAGE citation_title「MP-6 カーボンナノチューブ・ポリマー複合材の異方性熱伝導に関する分子動力学(ポスターセッション)」",
+      "url": "https://doi.org/10.1299/jsmemnm.2011.3.79",
+      "presentation_number": "MP-6",
+      "number_kind": "poster"
+    },
+    {
+      "id": "rm-15919778",
+      "year": 2011,
+      "title_contains": "第一原理に基づいた鉛テルライドのフォノン伝導解析",
+      "source": "J-STAGE 第48回日本伝熱シンポジウム 目次 Session ID「SP407」（138 は頁）",
+      "url": "https://www.jstage.jst.go.jp/browse/nhts/2011/0/_contents/-char/ja?from=2",
+      "presentation_number": "SP407",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-15919777",
+      "year": 2011,
+      "title_contains": "シリコンにおけるフォノン輸送の分子動力学解析",
+      "source": "同 目次 Session ID「J131」（128 は頁）",
+      "url": "https://www.jstage.jst.go.jp/browse/nhts/2011/0/_contents/-char/ja?from=2",
+      "presentation_number": "J131",
+      "number_kind": "talk"
+    },
+    {
+      "id": "rm-32467010",
+      "year": 2021,
+      "title_contains": "First-Principles Calculations of Acoustic Phonon Tunneling",
+      "source": "Final Program「Technical Presentation Only: SHTC2021-69161」セッション 20-01",
+      "url": "https://event.asme.org/Events/media/library/resources/shtc/ES-SHTC-2021-Final-Program.pdf",
+      "paper_number": "SHTC2021-69161"
+    },
+    {
+      "id": "rm-15919902",
+      "year": 2016,
+      "title_contains": "Thermal Conductivity of Porous Media from Phonon Transport Viewpoint",
+      "source": "PRTEC2016 Final Program「PRTEC-15130 Thermal Conductivity of Porous Media from Phonon Transport Viewpoint」",
+      "url": "https://www.jsme.or.jp/ted/PRTEC2016/program/PRTEC2016_program_finalRev2.pdf",
+      "paper_number": "PRTEC-15130"
+    },
+    {
+      "id": "rm-15919855",
+      "year": 2014,
+      "title_contains": "Thermal Conductivity Calculation of Magnesium Silicide Alloys by lattice Dynamics and Molecular Dynamics Methods",
+      "source": "IHTC-15 Program「IHTC15-9156/PPE-G-114 Thermal Conductivity Calculation of Magnesium Silicide Alloys…」。登録DOI 10.1615/IHTC15.ppe.009156 とも一致。手元保存の査読コメント用紙2通も「Paper No. IHTC15-9156」。発表スライドには旧記載「IHTC15-9064/PPE-G-115」",
+      "url": "http://www.ihtc-15.org/program.shtml",
+      "paper_number": "IHTC15-9156/PPE-G-114"
+    },
+    {
+      "id": "rm-15919809",
+      "year": 2010,
+      "title_contains": "Electronic and thermal properties of grapheme-diamond hybrid structure",
+      "source": "NT10 Abstracts「Poster Board | 161 Electronic and thermal properties of graphene-diamond hybrid structures」（Poster Session 6, 7/2 午前）",
+      "url": "https://www.photon.t.u-tokyo.ac.jp/nt/data/nt10abstracts.pdf",
+      "board_number": "161"
+    },
+    {
+      "id": "rm-15919774",
+      "year": 2011,
+      "title_contains": "第一原理計算による鉛テルライドのフォノン伝導解析",
+      "source": "JSAP 2011秋 プログラム：セッション「30a-F」の項目「10 第一原理による鉛テルライドのフォノン伝導解析」",
+      "url": "https://www.jsap.or.jp/archives/jsap-meeting/program2011a/Settings/html/field/09/9_4.html",
+      "unverified_numbers": [
+        {
+          "value": "30a-F-10",
+          "kind": "talk",
+          "reason": "セッション記号「30a-F」と項目番号「10」を JSAP 書式で連結した再構成。プログラムにこの形式の印字なし。発表者自身のスライド（2011/8/30）表紙に「第72回応用物理学会学術講演会 30a-F-10」と同形式で印字（手元保存）"
+        }
+      ]
+    },
+    {
+      "id": "rm-15919946",
+      "year": 2017,
+      "title_contains": "Heat Conduction Analysis Involving th Effect Arising from Phono Coherence",
+      "source": "2017 MRS Spring 公式プログラム p.222・著者索引 / MRS 採択通知 / 発表スライド（採択通知とスライドは手元保存）",
+      "url": "https://www.mrs.org/docs/default-source/meetings-events/spring-meetings/2017-MRS-Spring-Meeting-Exhibit/author-index.pdf",
+      "unverified_numbers": [
+        {
+          "value": "NM2.14.29",
+          "kind": "paper code",
+          "reason": "2017 MRS Spring 公式プログラム（手元保存）p.222 にタイトル・著者付きで印字。著者索引とも一致。ただし MRS 採択通知（Final ID）と発表スライドは NM2.14.33 で不一致"
+        },
+        {
+          "value": "NM2.14.33",
+          "kind": "paper code",
+          "reason": "MRS 採択通知「Final ID: NM 2.14.33」と発表スライド表紙（手元保存）。公式プログラムの NM2.14.29 と不一致"
+        }
+      ]
+    },
+    {
+      "id": "rm-15919967",
+      "year": 2018,
+      "title_contains": "Doping effects on thermal transport properties of PEDOT",
+      "source": "DOI 10.1615/IHTC16.mpe.022461 の末尾のみ。IHTC16-xxxxx 表記は未確認",
+      "url": "http://dx.doi.org/10.1615/IHTC16.mpe.022461",
+      "unverified_numbers": [
+        {
+          "value": "022461",
+          "kind": "paper number (DOI)",
+          "reason": "DOI 末尾のみ。IHTC16-xxxxx 表記は未確認"
+        }
+      ]
+    },
+    {
+      "id": "rm-45779748",
+      "year": 2024,
+      "title_contains": "Reversible thermal conductivity switching of Mg-based thin films con-trolled by hydro-/dehydrogenation reactions",
+      "source": "Book of Abstracts「Posters Sessions June 05 and 06, 2024 … 6. Reversible thermal conductivity switching…」",
+      "url": "https://setcor.org/userfiles/files/2024/Paris/NanotechFrance-BiotechFrance-GAMS-NanoMatEn-2024-Joint-Conferences-Book-of-Abstracts.pdf",
+      "unverified_numbers": [
+        {
+          "value": "6",
+          "kind": "poster (list no.)",
+          "reason": "要旨集内の通し番号。公式ポスター番号か不明。手元保存の公式プログラム p.11 でもポスターセッション内の通し番号「6.」のみ"
+        }
+      ]
+    },
+    {
+      "id": "ach-300a102255",
+      "year": 2026,
+      "title_contains": "4H-SiC結晶の熱輸送に及ぼす点欠陥分布の影響",
+      "presentation_month": "2026-12",
+      "event_period": [
+        "2026-11-30",
+        "2026-12-02"
+      ],
+      "source": "先進パワー半導体分科会第13回講演会 公式サイト（会期 2026-11-30〜12-02、研究発表会 12-01〜02。個別講演日・講演番号は未公開）",
+      "url": "https://adps13.hiroshima-u.ac.jp/"
+    },
+    {
+      "id": "rm-47271344",
+      "year": 2024,
+      "title_contains": "Enhancement of thermal conductivity change induced by magneto-thermal resistance effect in CoFe/Cu magnetic multilayers",
+      "presentation_number": "A.7",
+      "number_kind": "poster",
+      "source": "2024 AtC-AtG Program Booklet（手元保存の公式冊子）p.100「α-POSTER A.7 … Enhancement of Thermal Conductivity Change Induced by Magneto-thermal Resistance Effect in CoFe/Cu Magnetic Multilayers, Fuya Makino … T. Shiga」、目次 p.90",
+      "url": ""
+    },
+    {
+      "id": "rm-15919965",
+      "year": 2018,
+      "title_contains": "Why Coherent Phonons Contributions to Thermal Conductivity of Phononic Crystals Cannot be Observed at Room Temperature",
+      "presentation_number": "C58",
+      "number_kind": "talk",
+      "source": "Phonons 2018 & PTES 2018 公式プログラム（手元保存 Program-final 0527）p.17「C58 Why Coherent Phonons Contributions to Thermal Conductivity of Phononic Crystals Cannot be Observed at Room Temperature, Yuxuan Liao」（C: Contributed talk）",
+      "url": ""
+    },
+    {
+      "id": "rm-15919918",
+      "year": 2016,
+      "title_contains": "Tuning phonon transport by nanostructures for thermoelectrics",
+      "presentation_number": "Tue7-1",
+      "number_kind": "talk",
+      "source": "HPSP-17 公式プログラム（手元保存 programme.pdf）p.3「16:00 Tue7-1 … Invited 26 Tuning phonon transport by nanostructures for thermoelectrics」、要旨集索引「Takuma Shiga 26 Tue7-1」",
+      "url": "",
+      "note": "登壇者の記載がプログラム（Junichiro Shiomi）と要旨集（Takuma Shiga）で異なる"
+    },
+    {
+      "id": "rm-15919893",
+      "year": 2015,
+      "title_contains": "Heat conduction analysis from first principles",
+      "presentation_number": "We-01-03",
+      "number_kind": "talk",
+      "source": "MORIS2015 Technical Digest 目次（手元保存）「10:00 - 10:30 We-01-03 Heat conduction analysis from first principles T. Shiga」、Digest table p.8",
+      "url": ""
+    },
+    {
+      "id": "rm-15919835",
+      "year": 2012,
+      "title_contains": "Probing phonon transport properties of silicon germanium alloy crystals by molecular dynamics",
+      "presentation_number": "A4_6",
+      "number_kind": "poster",
+      "source": "ICT2012 Book of Abstracts – Poster（手元保存）目次 p.14–15・本文 p.179「A4_6: Probing phonon transport properties of silicon germanium alloy crystals by molecular dynamics, Takuma Hori, Takuma Shiga, Junichiro Shiomi」",
+      "url": ""
+    },
+    {
+      "id": "rm-15919847",
+      "year": 2013,
+      "title_contains": "Investigations of the lattice thermal conductiivty of Mg2Si from first principles",
+      "presentation_number": "A1_09",
+      "number_kind": "talk",
+      "source": "ICT2013 口頭発表プログラム（手元保存 Oral_3.pdf）p.5「A1_09 Investigations of the lattice thermal conductivity of Mg2Si from first-principles, Takuma Shiga …」",
+      "url": ""
     }
   ],
   "hints": [

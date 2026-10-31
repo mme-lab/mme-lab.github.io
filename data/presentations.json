@@ -4,7 +4,7 @@
    "id": "ach-300a102255",
    "category": "domestic",
    "year": 2026,
-   "date": "2026-11",
+   "date": "2026-12",
    "date_precision": "month",
    "authors": [
     {
@@ -858,6 +858,7 @@
    "title": "Phonon transport characterization across diverse materials using high-frequency time-domain thermoreflectance",
    "event": "The 1st A3 Nano & Thermal Energy Engineering Workshop",
    "event_en": "The 1st A3 Nano & Thermal Energy Engineering Workshop",
+   "number": "P1-1",
    "location": "東京大学 本郷キャンパス 山上会館",
    "urls": [
     "https://www.phonon.t.u-tokyo.ac.jp/A3_workshop/2024/index.html"
@@ -903,6 +904,7 @@
    "title": "Thermal and Thermoelectric Measurement of SiC-based Microfibers",
    "event": "12th International Symposium on Applied Engineering and Sciences (SAES2024)",
    "event_en": "12th International Symposium on Applied Engineering and Sciences (SAES2024)",
+   "number": "OS7-4",
    "location": "九州工業大学 戸畑キャンパス",
    "urls": [
     "https://conferenceservice.jp/www/saes2024/"
@@ -931,6 +933,7 @@
    ],
    "title": "DFT計算によるMg2NiH4の圧力誘起相転移と高圧相構造の予測",
    "event": "第65回高圧討論会",
+   "number": "1A13",
    "location": "いわて県民情報センターアイーナ",
    "urls": [
     "https://highpressure.jp/new/65forum/"
@@ -992,6 +995,7 @@
    "title": "Enhancement of thermal conductivity change induced by magneto-thermal resistance effect in CoFe/Cu magnetic multilayers",
    "event": "The IEEE Around-the-Clock Around-the-Globe Magnetics Conference (AtC-AtG)",
    "event_en": "The IEEE Around-the-Clock Around-the-Globe Magnetics Conference (AtC-AtG)",
+   "number": "A.7",
    "location": "Virtual conference",
    "invited": false
   },
@@ -1293,6 +1297,7 @@
    ],
    "title": "東京大学工学部機械工学科スターリングエンジン演習の実践報告",
    "event": "日本機械学会 2024年度 年次大会",
+   "number": "S201-10",
    "location": "愛媛大学 城北キャンパス（愛媛県松山市）",
    "urls": [
     "https://doi.org/10.1299/jsmemecj.2024.S201-10",
@@ -1992,6 +1997,7 @@
    ],
    "title": "First-Principles Calculations of Acoustic Phonon Tunneling",
    "event": "2021 Summer Heat Transfer Conference (SHTC)",
+   "paper_number": "SHTC2021-69161",
    "location": "Virtual Conference",
    "urls": [
     "https://shtc.secure-platform.com/a/"
@@ -2563,6 +2569,7 @@
    ],
    "title": "Study on effects of twist on phonon transport in graphene nanoribbons",
    "event": "第58回 フラーレン・ナノチューブ・グラフェン 総合シンポジウム",
+   "number": "3P-11",
    "location": "東京大学 伊藤国際学術研究センター 伊藤謝恩ホール",
    "invited": false
   },
@@ -2621,6 +2628,7 @@
    ],
    "title": "Thermal transport study of molybdenum disulfide nanotubes by molecular dynamics simulations",
    "event": "第57回 フラーレン・ナノチューブ・グラフェン 総合シンポジウム",
+   "number": "3P-11",
    "location": "名古屋大学 理学南館 坂田・平田ホール",
    "urls": [
     "https://fntg.jp/jp_new/symposium/sympo57/doc/fntg57_program_j.pdf"
@@ -2834,6 +2842,7 @@
    ],
    "title": "Why Coherent Phonons Contributions to Thermal Conductivity of Phononic Crystals Cannot be Observed at Room Temperature",
    "event": "Phonons 2018 & PTES 2018 Joint Conference",
+   "number": "C58",
    "location": "Nanjing, China",
    "urls": [
     "https://www.aconf.org/conf_158748.html"
@@ -3237,8 +3246,9 @@
      "self": false
     }
    ],
-   "title": "MoS2(0001)表面ナノアイランドでのフォノン潤滑2",
+   "title": "MoS2(0001)表面ナノアイランドでのフォノン潤滑",
    "event": "2017年度日本物理学会秋季大会",
+   "number": "21pPSB-38",
    "location": "宇都宮大学, 岩手大学",
    "invited": false
   },
@@ -3280,6 +3290,7 @@
    ],
    "title": "MoS_2_(0001)表面ナノアイランドでのフォノン潤滑",
    "event": "2017年真空・表面科学合同講演会",
+   "number": "1P21",
    "location": "横浜市立大学金沢八景キャンパス",
    "urls": [
     "https://www.jstage.jst.go.jp/article/sssj2008/37/0/37_106/_article/-char/ja/",
@@ -3333,6 +3344,7 @@
    ],
    "title": "Contributions of coherent and incoherent phonons to heat conduction",
    "event": "9th US-Japan Joint Seminar on Nanoscale Transport Phenomena",
+   "number": "VI-4",
    "location": "KKR Hotel Tokyo, Tokyo, Japan",
    "invited": true
   },
@@ -3779,6 +3791,7 @@
    ],
    "title": "Tuning phonon transport by nanostructures for thermoelectrics",
    "event": "The 17th International Conference on High Pressure in Semiconductor Physics (HPSP-17) & Workshop on High-pressure Study on Superconducting (WHS)",
+   "number": "Tue7-1",
    "location": "Sanjo Conference Hall",
    "invited": true
   },
@@ -3935,6 +3948,7 @@
    ],
    "title": "Thermal Conductivity of Porous Media from Phonon Transport Viewpoint",
    "event": "The First Pacific Rim Thermal Engineering Conference (PRTEC)",
+   "paper_number": "PRTEC-15130",
    "location": "Waikoloa Beach Marriott Resort & Spa Hawaii's Big Island, USA",
    "urls": [
     "https://www.jsme.or.jp/ted/PRTEC2016/program/index.html"
@@ -3984,6 +3998,7 @@
    ],
    "title": "Heat conduction analysis from first principles",
    "event": "Magnetics and Optics Research International Symposium (MORIS2015)",
+   "number": "We-01-03",
    "location": "Toyohashi University of Technology – Universiti Sains Malaysia Technology Collaboration Centre in Penang, Malaysia",
    "invited": true
   },
@@ -4034,6 +4049,7 @@
    ],
    "title": "単層カーボンナノチューブの熱電性能に及ぼすひずみと欠陥の影響",
    "event": "第7回マイクロ・ナノ工学シンポジウム",
+   "number": "29pm3-PN-53",
    "location": "朱鷺メッセ（新潟県新潟市）",
    "urls": [
     "https://doi.org/10.1299/jsmemnm.2015.7._29pm3-PN-_26"
@@ -4157,6 +4173,7 @@
    ],
    "title": "Phonon transport in perovskite SrTiO3 from first-principles",
    "event": "The 34st International Conference on Thermoelectrics (ICT2015)",
+   "number": "9B.2",
    "location": "International Congress Center Dresden, Dresden, Germany",
    "urls": [
     "http://www.its.org/content/ect2015-ict2015-dresden-34th-international-conference-thermoelectrics-13th-european"
@@ -4189,6 +4206,7 @@
    ],
    "title": "Empirical model of heat conduction for a screening of high-performance thermoelectric materials",
    "event": "The 34st International Conference on Thermoelectrics (ICT2015)",
+   "number": "PB016",
    "location": "International Congress Center Dresden, Dresden, Germany",
    "urls": [
     "http://www.its.org/content/ect2015-ict2015-dresden-34th-international-conference-thermoelectrics-13th-european"
@@ -4371,11 +4389,12 @@
    ],
    "title": "Effect of phonon-blocking at sintered interfaces",
    "event": "APS March Meeting 2015",
+   "number": "D12.00004",
    "location": "San Antonio, Texas",
    "urls": [
     "http://meetings.aps.org/Meeting/MAR15/Session/D12.4"
    ],
-   "invited": true
+   "invited": false
   },
   {
    "id": "rm-15919629",
@@ -4510,6 +4529,7 @@
    ],
    "title": "Thermal Conductivity Calculation of Magnesium Silicide Alloys by lattice Dynamics and Molecular Dynamics Methods",
    "event": "The 15th International Heat Transfer Conference (IHTC-15)",
+   "paper_number": "IHTC15-9156/PPE-G-114",
    "location": "Kyoto International Conference Center",
    "urls": [
     "https://doi.org/10.1615/IHTC15.ppe.009156"
@@ -4614,6 +4634,7 @@
    ],
    "title": "累積熱伝導率モデルを用いたナノ構造化熱電材料のスクリーニング",
    "event": "第51回日本伝熱シンポジウム",
+   "number": "F222",
    "location": "アクトシティ浜松(浜松)コングレスセンター",
    "invited": false
   },
@@ -4655,6 +4676,7 @@
    ],
    "title": "ナノ構造や界面フォノン輸送物性にもとづく熱伝導制御ストラテジ",
    "event": "第51回日本伝熱シンポジウム",
+   "number": "F231",
    "location": "アクトシティ浜松(浜松)コングレスセンター",
    "invited": false
   },
@@ -4751,6 +4773,7 @@
    ],
    "title": "Investigations of the lattice thermal conductiivty of Mg2Si from first principles",
    "event": "The 32nd International Conference on Thermoelectrics (ICT2013)",
+   "number": "A1_09",
    "location": "Kobe International Conference Center",
    "urls": [
     "http://ict2013.its.org/index.html"
@@ -4820,6 +4843,7 @@
    ],
    "title": "モンテカルロ法を用いたナノ構造化熱電材料の格子熱伝導解析",
    "event": "第4回マイクロ・ナノ工学シンポジウム",
+   "number": "P-OS5-3",
    "location": "国際会議場・西日本総合展示場",
    "urls": [
     "https://doi.org/10.1299/jsmemnm.2012.4.285"
@@ -4860,6 +4884,7 @@
    ],
    "title": "第一原理に基づいた非調和格子動力学法及び分子動力学法による熱電変換材料の熱伝導解析",
    "event": "第4回マイクロ・ナノ工学シンポジウム",
+   "number": "OS5-2-2",
    "location": "北九州国際会議場・西日本総合展示場",
    "urls": [
     "https://doi.org/10.1299/jsmemnm.2012.4.67"
@@ -4892,6 +4917,7 @@
    ],
    "title": "マグネシウムシリサイドの第一原理熱伝導解析",
    "event": "第9回日本熱電学会学術講演会",
+   "number": "S8-1",
    "location": "東京工業大学蔵前会館",
    "urls": [
     "https://www.thermoelectrics.jp/zata/abstracts/TSJ2012.pdf"
@@ -4936,6 +4962,7 @@
    ],
    "title": "分子動力学法によるPbTe1-xSexの格子熱伝導解析",
    "event": "第9回日本熱電学会学術講演会",
+   "number": "S8-3",
    "location": "東京工業大学蔵前会館",
    "urls": [
     "https://www.thermoelectrics.jp/zata/abstracts/TSJ2012.pdf"
@@ -5058,6 +5085,7 @@
    ],
    "title": "Probing phonon transport properties of silicon germanium alloy crystals by molecular dynamics",
    "event": "The 31st International & 10th European Conference on Thermoelectrics",
+   "number": "A4_6",
    "location": "Aalborg, Denmark",
    "urls": [
     "http://ict2012.its.org/system/files/ICT2012_Detailed%20Programme.pdf"
@@ -5365,6 +5393,7 @@
    ],
    "title": "分子動力学を用いたシリコン結晶のフォノン輸送解析",
    "event": "第3回マイクロ・ナノ工学シンポジウム",
+   "number": "MP-3",
    "location": "タワーホール船堀",
    "urls": [
     "https://doi.org/10.1299/jsmemnm.2011.3.73"
@@ -5397,6 +5426,7 @@
    ],
    "title": "合金結晶のフォノン輸送の分子動力学解析",
    "event": "第3回マイクロ・ナノ工学シンポジウム",
+   "number": "MP-7",
    "location": "タワーホール船堀",
    "urls": [
     "https://doi.org/10.1299/jsmemnm.2011.3.81"
@@ -5433,6 +5463,7 @@
    ],
    "title": "カーボンナノチューブ・ポリマー複合材の異方性熱伝導に関する分子動力学",
    "event": "第3回マイクロ・ナノ工学シンポジウム",
+   "number": "MP-6",
    "location": "タワーホール船堀",
    "urls": [
     "https://doi.org/10.1299/jsmemnm.2011.3.79"
@@ -5563,6 +5594,7 @@
    ],
    "title": "第一原理に基づいた鉛テルライドのフォノン伝導解析",
    "event": "第48回日本伝熱シンポジウム",
+   "number": "SP407",
    "location": "岡山",
    "urls": [
     "https://doi.org/10.11368/nhts.2011.0.138.0"
@@ -5595,6 +5627,7 @@
    ],
    "title": "シリコンにおけるフォノン輸送の分子動力学解析",
    "event": "第48回日本伝熱シンポジウム",
+   "number": "J131",
    "location": "岡山",
    "urls": [
     "https://doi.org/10.11368/nhts.2011.0.128.0"
