@@ -58,15 +58,11 @@
 </div>
 </div>
 
----
-
 ## Graduate Students
 
 <div class="member-grid-student">
 <!-- To be added -->
 </div>
-
----
 
 ## Undergraduate Students
 
@@ -103,8 +99,6 @@ Thermal characterization of thin-film materials using the thermoreflectance meth
 </p>
 </div>
 </div>
-
----
 
 ## Visiting Researchers and Students
 
