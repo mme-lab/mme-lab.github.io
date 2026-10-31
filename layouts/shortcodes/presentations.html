@@ -1,22 +1,14 @@
 {{- /*
-  研究発表一覧（data/presentations.json）を年別に表示する。
+  研究発表一覧（data/presentations.json）を新しい順に 1 つのリストで表示する。
   使い方: {{< presentations category="international" >}} / {{< presentations category="domestic" >}}
   データは tools/presentations/export_public.py で生成する（直接編集しない）。
 */ -}}
 {{- $cat := .Get "category" -}}
 {{- $en := eq .Page.Language.Lang "en" -}}
 {{- $items := where site.Data.presentations.items "category" $cat -}}
-{{- $years := slice -}}
-{{- range $items }}{{ $years = $years | append .year }}{{ end -}}
-{{- $years = sort (uniq $years) "value" "desc" -}}
-{{- $remaining := len $items -}}
 {{- $months := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" -}}
-{{- range $years }}
-{{- $y := . }}
-{{- $list := sort (where $items "year" $y) "date" "desc" }}
-<h3 id="{{ $cat }}-{{ $y }}">{{ $y }}</h3>
-<ol reversed start="{{ $remaining }}" class="pubs presentations">
-{{- range $list }}
+<ol reversed class="pubs presentations">
+{{- range sort $items "date" "desc" }}
   {{- $ja := findRE `[ぁ-んァ-ヶ一-龠]` (printf "%s%s" .title (index .authors 0).name) 1 }}
   {{- $sep := cond (gt (len $ja) 0) "，" ", " }}
   {{- $p := split .date "-" }}
@@ -45,5 +37,3 @@
     </li>
 {{- end }}
 </ol>
-{{- $remaining = sub $remaining (len $list) }}
-{{- end }}
