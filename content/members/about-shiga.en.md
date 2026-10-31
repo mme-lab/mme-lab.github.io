@@ -8,19 +8,73 @@ _build:
 
 ## Education
 
-- **Ph.D. Engineering**, The University of Tokyo (2013)
-- **M.S., Physics**, Tokyo University of Science (2010)
-- **B.S., Physics**, Tokyo University of Science (2008)
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">Year</th>
+      <th scope="col">Institution / Degree</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2013</td>
+      <td class="career-item">Ph.D. Engineering, The University of Tokyo</td>
+    </tr>
+    <tr>
+      <td class="career-date">2010</td>
+      <td class="career-item">M.S., Physics, Tokyo University of Science</td>
+    </tr>
+    <tr>
+      <td class="career-date">2008</td>
+      <td class="career-item">B.S., Physics, Tokyo University of Science</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Appointments
 
-- **Sep. 2025 – Present**: Associate Professor, Toyota Technological Institute
-- **Apr. 2022 – Aug. 2025**: Senior Researcher, National Metrology Institute of Japan (NMIJ), National Institute of Advanced Industrial Science and Technology (AIST)
-- **May 2018 – Mar. 2022**: Lecturer (Full-time), Department of Mechanical Engineering, The University of Tokyo
-- **Oct. 2017 – Mar. 2021**: PRESTO Researcher, Japan Science and Technology Agency (JST)
-- **Feb. 2014 – May 2018**: Assistant Professor, Department of Mechanical Engineering, The University of Tokyo
-- **Apr. 2013 – Jan. 2014**: JSPS Research Fellow (PD) — Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)
-- **Apr. 2012 – Mar. 2013**: JSPS Research Fellow (DC2) — Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">Period</th>
+      <th scope="col">Institution / Position</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">Sep. 2025 – Present</td>
+      <td class="career-item">Associate Professor, Toyota Technological Institute</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2022 – Aug. 2025</td>
+      <td class="career-item">Senior Researcher, National Metrology Institute of Japan (NMIJ), National Institute of Advanced Industrial Science and Technology (AIST)</td>
+    </tr>
+    <tr>
+      <td class="career-date">May 2018 – Mar. 2022</td>
+      <td class="career-item">Lecturer (Full-time), Department of Mechanical Engineering, The University of Tokyo</td>
+    </tr>
+    <tr>
+      <td class="career-date">Oct. 2017 – Mar. 2021</td>
+      <td class="career-item">PRESTO Researcher, Japan Science and Technology Agency (JST)</td>
+    </tr>
+    <tr>
+      <td class="career-date">Feb. 2014 – May 2018</td>
+      <td class="career-item">Assistant Professor, Department of Mechanical Engineering, The University of Tokyo</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2013 – Jan. 2014</td>
+      <td class="career-item">JSPS Research Fellow (PD) — Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2012 – Mar. 2013</td>
+      <td class="career-item">JSPS Research Fellow (DC2) — Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Research Interests
 
@@ -30,45 +84,180 @@ _build:
 
 ## Awards & Honors
 
-- **Oct. 2024**: [Best Paper Award, Japan Society of Thermophysical Properties](http://www.netsubussei.jp/award_past.htm)
-- **May 2024**: [Touri Award (Outstanding Young Researcher Award) of the Heat Transfer Society of Japan](https://www.htsj.or.jp/about/360.html)
-- **Sep. 2022**: [ATPC Young Scientist Award, The 13th Asian Thermophysical Properties Conference (ATPC2022)](https://www.atpc2022.org/awards/index.html)
-- **Apr. 2021**: [The Young Scientists' Award, Minister of Education, Culture, Sports, Science and Technology of Japan](https://www.mext.go.jp/content/20210414-mxt_sinkou01-000013957_2.pdf)
-- **Sep. 2020**: [Award for Best Review Paper, Thermal phonon engineering by tailored nanostructures, The Japan Society of Applied Physics](https://www.jsap.or.jp/outstanding-paper-award/recipients42)
-- **May 2016**: [Scientific Contribution Award of the Heat Transfer Society of Japan, The Heat Transfer Socienty of Japan](https://www.htsj.or.jp/about/360.html)
-- **Mar. 2013**: Deen's Award, The University of Tokyo
-- **Aug. 2012**: [Presentation Award, Thermoelectric Society of Japan](Presentation Award, Thermoelectric Society of Japan)
-- **Jun. 2011**: 2011 MRS Spring Meeting and Exhibit Best Poster Award Nominee, Material Research Society
-- **Jun. 2011**: [Best Presentation Award, The Heat Transfer Society of Japan](https://www.htsj.or.jp/about/360.html)
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Award / Honor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">Oct. 2024</td>
+      <td class="career-item"><a href="http://www.netsubussei.jp/award_past.htm">Best Paper Award, Japan Society of Thermophysical Properties</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">May 2024</td>
+      <td class="career-item"><a href="https://www.htsj.or.jp/about/360.html">Touri Award (Outstanding Young Researcher Award) of the Heat Transfer Society of Japan</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">Sep. 2022</td>
+      <td class="career-item"><a href="https://www.atpc2022.org/awards/index.html">ATPC Young Scientist Award, The 13th Asian Thermophysical Properties Conference (ATPC2022)</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2021</td>
+      <td class="career-item"><a href="https://www.mext.go.jp/content/20210414-mxt_sinkou01-000013957_2.pdf">The Young Scientists' Award, Minister of Education, Culture, Sports, Science and Technology of Japan</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">Sep. 2020</td>
+      <td class="career-item"><a href="https://www.jsap.or.jp/outstanding-paper-award/recipients42">Award for Best Review Paper, Thermal phonon engineering by tailored nanostructures, The Japan Society of Applied Physics</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">May 2016</td>
+      <td class="career-item"><a href="https://www.htsj.or.jp/about/360.html">Scientific Contribution Award of the Heat Transfer Society of Japan, The Heat Transfer Socienty of Japan</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">Mar. 2013</td>
+      <td class="career-item">Deen's Award, The University of Tokyo</td>
+    </tr>
+    <tr>
+      <td class="career-date">Aug. 2012</td>
+      <td class="career-item">Presentation Award, Thermoelectric Society of Japan</td>
+    </tr>
+    <tr>
+      <td class="career-date">Jun. 2011</td>
+      <td class="career-item">2011 MRS Spring Meeting and Exhibit Best Poster Award Nominee, Material Research Society</td>
+    </tr>
+    <tr>
+      <td class="career-date">Jun. 2011</td>
+      <td class="career-item"><a href="https://www.htsj.or.jp/about/360.html">Best Presentation Award, The Heat Transfer Society of Japan</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Professional Service
 
 ### Editorial Activities
 
-- Apr. 2026–Present: [Associate Editor of Applied Physics Express (APEX), The Japan Society of Applied Physics (JSAP)](https://iopscience.iop.org/journal/1882-0786/page/Editorial%20board)
-- Apr. 2026–Present: [Associate Editor of Japanese Journal of Applied Physics (JJAP), The Japan Society of Applied Physics (JSAP)](https://iopscience.iop.org/journal/1347-4065/page/Editorial%20board)
-- Apr. 2026–Present: [Youth Editorial Board Member, Thermo-X](https://www.sciexplor.com/tx/youth_editorial_board)
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">Period</th>
+      <th scope="col">Committee / Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">Apr. 2026–Present</td>
+      <td class="career-item"><a href="https://iopscience.iop.org/journal/1882-0786/page/Editorial%20board">Associate Editor of Applied Physics Express (APEX), The Japan Society of Applied Physics (JSAP)</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2026–Present</td>
+      <td class="career-item"><a href="https://iopscience.iop.org/journal/1347-4065/page/Editorial%20board">Associate Editor of Japanese Journal of Applied Physics (JJAP), The Japan Society of Applied Physics (JSAP)</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2026–Present</td>
+      <td class="career-item"><a href="https://www.sciexplor.com/tx/youth_editorial_board">Youth Editorial Board Member, Thermo-X</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### Society Activities
 
-- Oct. 2024–Sep. 2026: Councilor, The Japan Society of Thermophysical Properties
-- Apr. 2022–Mar. 2024: Councilor, The Heat Transfer Society of Japan
-- Apr. 2021–Mar. 2022: Liaison Committee Member, Division 10, The Physical Society of Japan
-- Apr. 2021–Mar. 2022: Steering Committee Member (Phonon Subdivision), Division 10, The Physical Society of Japan
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">Period</th>
+      <th scope="col">Committee / Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">Oct. 2024–Sep. 2026</td>
+      <td class="career-item">Councilor, The Japan Society of Thermophysical Properties</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2022–Mar. 2024</td>
+      <td class="career-item">Councilor, The Heat Transfer Society of Japan</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2021–Mar. 2022</td>
+      <td class="career-item">Liaison Committee Member, Division 10, The Physical Society of Japan</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2021–Mar. 2022</td>
+      <td class="career-item">Steering Committee Member (Phonon Subdivision), Division 10, The Physical Society of Japan</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### Conference Organization
 
-- Apr. 2026–Oct. 2026: Organizing Committee Member, Thermal Engineering Conference 2026, The Japan Society of Mechanical Engineers (JSME)
-- Apr. 2023–Present: Organizer, "Nanoscale Thermal Management" Session, Thermal Engineering Conference, JSME
-- Apr. 2022–Present: Organizer, "Characterization of Nanoscale Thermophysical Properties" Session, The Japan Society of Thermophysical Properties
-- Apr. 2024–Dec. 2025: Symposium Organizer, EN05 – Advancements in Thermoelectric Materials: From Conventional to Cutting Edge
-- Sep. 2021–Oct. 2022: Organizing Committee Member, Thermal Engineering Conference 2022, JSME
-- Mar. 2021–Oct. 2022: National Executive Committee Member, Asian Thermophysical Properties Conference (ATPC2022)
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">Period</th>
+      <th scope="col">Committee / Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">Apr. 2026–Oct. 2026</td>
+      <td class="career-item">Organizing Committee Member, Thermal Engineering Conference 2026, The Japan Society of Mechanical Engineers (JSME)</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2023–Present</td>
+      <td class="career-item">Organizer, "Nanoscale Thermal Management" Session, Thermal Engineering Conference, JSME</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2022–Present</td>
+      <td class="career-item">Organizer, "Characterization of Nanoscale Thermophysical Properties" Session, The Japan Society of Thermophysical Properties</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2024–Dec. 2025</td>
+      <td class="career-item">Symposium Organizer, EN05 – Advancements in Thermoelectric Materials: From Conventional to Cutting Edge</td>
+    </tr>
+    <tr>
+      <td class="career-date">Sep. 2021–Oct. 2022</td>
+      <td class="career-item">Organizing Committee Member, Thermal Engineering Conference 2022, JSME</td>
+    </tr>
+    <tr>
+      <td class="career-date">Mar. 2021–Oct. 2022</td>
+      <td class="career-item">National Executive Committee Member, Asian Thermophysical Properties Conference (ATPC2022)</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### Committee Memberships
 
-- Apr. 2023–Mar. 2025: Member, Thermal Engineering Division Management Committee, JSME
-- Apr. 2023–Mar. 2024: Member, Editorial and Publication Committee (62nd Term), The Heat Transfer Society of Japan
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">Period</th>
+      <th scope="col">Committee / Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">Apr. 2023–Mar. 2025</td>
+      <td class="career-item">Member, Thermal Engineering Division Management Committee, JSME</td>
+    </tr>
+    <tr>
+      <td class="career-date">Apr. 2023–Mar. 2024</td>
+      <td class="career-item">Member, Editorial and Publication Committee (62nd Term), The Heat Transfer Society of Japan</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## Publications
 

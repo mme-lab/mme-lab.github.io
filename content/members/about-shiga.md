@@ -8,19 +8,73 @@ _build:
 
 ## 学歴
 
-- 東京大学 博士（工学）（2013）
-- 東京理科大学 修士（理学）（2010）
-- 東京理科大学 学士（理学）（2008）
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">年</th>
+      <th scope="col">大学・学位</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2013</td>
+      <td class="career-item">東京大学 博士（工学）</td>
+    </tr>
+    <tr>
+      <td class="career-date">2010</td>
+      <td class="career-item">東京理科大学 修士（理学）</td>
+    </tr>
+    <tr>
+      <td class="career-date">2008</td>
+      <td class="career-item">東京理科大学 学士（理学）</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## 職歴
 
-- 2025年9月〜現在：豊田工業大学 先端工学専攻 機械材料物性研究室 准教授
-- 2022年4月〜2025年8月：産業技術総合研究所（AIST） 計量標準総合センター（NMIJ）主任研究員
-- 2018年5月〜2022年3月：東京大学大学院 工学系研究科 機械工学専攻 講師
-- 2017年10月〜2021年3月：科学技術振興機構（JST） さきがけ研究員
-- 2014年2月〜2018年5月：東京大学大学院 工学系研究科 機械工学専攻 助教
-- 2013年4月〜2014年1月：日本学術振興会（JSPS） 特別研究員（PD）
-- 2012年4月〜2013年3月：日本学術振興会（JSPS） 特別研究員（DC2）
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">期間</th>
+      <th scope="col">所属・職位</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2025年9月〜現在</td>
+      <td class="career-item">豊田工業大学 先端工学専攻 機械材料物性研究室 准教授</td>
+    </tr>
+    <tr>
+      <td class="career-date">2022年4月〜2025年8月</td>
+      <td class="career-item">産業技術総合研究所（AIST） 計量標準総合センター（NMIJ）主任研究員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2018年5月〜2022年3月</td>
+      <td class="career-item">東京大学大学院 工学系研究科 機械工学専攻 講師</td>
+    </tr>
+    <tr>
+      <td class="career-date">2017年10月〜2021年3月</td>
+      <td class="career-item">科学技術振興機構（JST） さきがけ研究員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2014年2月〜2018年5月</td>
+      <td class="career-item">東京大学大学院 工学系研究科 機械工学専攻 助教</td>
+    </tr>
+    <tr>
+      <td class="career-date">2013年4月〜2014年1月</td>
+      <td class="career-item">日本学術振興会（JSPS） 特別研究員（PD）</td>
+    </tr>
+    <tr>
+      <td class="career-date">2012年4月〜2013年3月</td>
+      <td class="career-item">日本学術振興会（JSPS） 特別研究員（DC2）</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## 研究分野
 
@@ -30,44 +84,176 @@ _build:
 
 ## 受賞歴・表彰
 
-- 2024年10月： [日本熱物性学会 優秀論文賞](http://www.netsubussei.jp/award_past.htm)
-- 2024年5月： [日本伝熱学会 登鯉賞](https://www.htsj.or.jp/about/360.html)
-- 2022年9月： [ATPC Young Scientist Award（第13回アジア熱物性会議（ATPC2022））](https://www.atpc2022.org/awards/index.html)
-- 2021年4月： [文部科学省 若手研究者賞](https://warp.ndl.go.jp/web/20240901131702/www.mext.go.jp/b_menu/houdou/mext_00547.html)
-- 2020年9月： [応用物理学会 解説論文賞](https://www.jsap.or.jp/outstanding-paper-award/recipients42)
-- 2016年4月： [日本伝熱学会 学術賞](https://www.htsj.or.jp/about/360.html)
-- 2013年3月： 東京大学大学院 工学系研究科長賞
-- 2012年8月： [日本熱電学会 学術講演奨励賞]()
-- 2011年6月： 2011 MRS Spring Meeting and Exhibit Best Poster Award Nominee, Material Research Society
-- 2011年6月： [日本伝熱学会 優秀プレゼンテーション賞](https://www.htsj.or.jp/about/360.html)
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">受賞年月</th>
+      <th scope="col">賞・表彰</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2024年10月</td>
+      <td class="career-item"><a href="http://www.netsubussei.jp/award_past.htm">日本熱物性学会 優秀論文賞</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2024年5月</td>
+      <td class="career-item"><a href="https://www.htsj.or.jp/about/360.html">日本伝熱学会 登鯉賞</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2022年9月</td>
+      <td class="career-item"><a href="https://www.atpc2022.org/awards/index.html">ATPC Young Scientist Award（第13回アジア熱物性会議（ATPC2022））</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2021年4月</td>
+      <td class="career-item"><a href="https://warp.ndl.go.jp/web/20240901131702/www.mext.go.jp/b_menu/houdou/mext_00547.html">文部科学省 若手研究者賞</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2020年9月</td>
+      <td class="career-item"><a href="https://www.jsap.or.jp/outstanding-paper-award/recipients42">応用物理学会 解説論文賞</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2016年4月</td>
+      <td class="career-item"><a href="https://www.htsj.or.jp/about/360.html">日本伝熱学会 学術賞</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2013年3月</td>
+      <td class="career-item">東京大学大学院 工学系研究科長賞</td>
+    </tr>
+    <tr>
+      <td class="career-date">2012年8月</td>
+      <td class="career-item"><a href="">日本熱電学会 学術講演奨励賞</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2011年6月</td>
+      <td class="career-item">2011 MRS Spring Meeting and Exhibit Best Poster Award Nominee, Material Research Society</td>
+    </tr>
+    <tr>
+      <td class="career-date">2011年6月</td>
+      <td class="career-item"><a href="https://www.htsj.or.jp/about/360.html">日本伝熱学会 優秀プレゼンテーション賞</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## 学会活動・委員歴
 
 ### 編集委員
 
-* 2026年4月〜現在：[応用物理学会 APEX/JJAP 編集委員](https://iopscience.iop.org/journal/1882-0786/page/Editorial%20board)
-* 2026年4月〜現在：[Thermo-X Youth Editorial Board Member](https://www.sciexplor.com/tx/youth_editorial_board)
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">期間</th>
+      <th scope="col">委員名・役職</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2026年4月〜現在</td>
+      <td class="career-item"><a href="https://iopscience.iop.org/journal/1882-0786/page/Editorial%20board">応用物理学会 APEX/JJAP 編集委員</a></td>
+    </tr>
+    <tr>
+      <td class="career-date">2026年4月〜現在</td>
+      <td class="career-item"><a href="https://www.sciexplor.com/tx/youth_editorial_board">Thermo-X Youth Editorial Board Member</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### 学会役員
 
-* 2024年10月〜2026年9月：熱物性学会 評議員
-* 2022年4月〜2024年3月：日本伝熱学会 協議員
-* 2021年4月〜2022年3月：日本物理学会 領域10連絡委員
-* 2021年4月〜2022年3月：日本物理学会 領域10運営委員（フォノン分科）
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">期間</th>
+      <th scope="col">委員名・役職</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2024年10月〜2026年9月</td>
+      <td class="career-item">熱物性学会 評議員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2022年4月〜2024年3月</td>
+      <td class="career-item">日本伝熱学会 協議員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2021年4月〜2022年3月</td>
+      <td class="career-item">日本物理学会 領域10連絡委員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2021年4月〜2022年3月</td>
+      <td class="career-item">日本物理学会 領域10運営委員（フォノン分科）</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### 学会・国際会議運営
 
-* 2026年4月〜2026年10月：日本機械学会 2026年熱工学コンファレンス 実行委員
-* 2023年4月〜現在：日本機械学会 熱工学コンファレンス「ナノスケール熱制御」オーガナイザー
-* 2022年4月〜現在：熱物性学会「ナノスケール熱物性の評価」オーガナイザー
-* 2024年4月〜2025年12月：EN05 "Advancements in Thermoelectric Materials—From Conventional to Cutting Edge" シンポジウムオーガナイザー
-* 2021年9月〜2022年10月：日本機械学会 2022年熱工学コンファレンス 実行委員
-* 2021年3月〜2022年10月：Asian Thermophysical Properties Conference (ATPC2022) National Executive Committee
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">期間</th>
+      <th scope="col">委員名・役職</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2026年4月〜2026年10月</td>
+      <td class="career-item">日本機械学会 2026年熱工学コンファレンス 実行委員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2023年4月〜現在</td>
+      <td class="career-item">日本機械学会 熱工学コンファレンス「ナノスケール熱制御」オーガナイザー</td>
+    </tr>
+    <tr>
+      <td class="career-date">2022年4月〜現在</td>
+      <td class="career-item">熱物性学会「ナノスケール熱物性の評価」オーガナイザー</td>
+    </tr>
+    <tr>
+      <td class="career-date">2024年4月〜2025年12月</td>
+      <td class="career-item">EN05 "Advancements in Thermoelectric Materials—From Conventional to Cutting Edge" シンポジウムオーガナイザー</td>
+    </tr>
+    <tr>
+      <td class="career-date">2021年9月〜2022年10月</td>
+      <td class="career-item">日本機械学会 2022年熱工学コンファレンス 実行委員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2021年3月〜2022年10月</td>
+      <td class="career-item">Asian Thermophysical Properties Conference (ATPC2022) National Executive Committee</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### 学会委員会
 
-* 2023年4月〜2025年3月：日本機械学会 熱工学部門運営委員会 委員
-* 2023年4月〜2024年3月：日本伝熱学会 第62期編集出版部会 委員
+<div class="career-list">
+<table class="career-table">
+  <thead>
+    <tr>
+      <th scope="col">期間</th>
+      <th scope="col">委員名・役職</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="career-date">2023年4月〜2025年3月</td>
+      <td class="career-item">日本機械学会 熱工学部門運営委員会 委員</td>
+    </tr>
+    <tr>
+      <td class="career-date">2023年4月〜2024年3月</td>
+      <td class="career-item">日本伝熱学会 第62期編集出版部会 委員</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ## 出版論文
 

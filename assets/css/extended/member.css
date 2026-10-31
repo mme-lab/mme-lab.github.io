@@ -167,10 +167,11 @@
   }
 }
 
-/* ===== Visitors table ===== */
+/* ===== List tables (訪問研究者 / About PI の経歴・受賞・学会活動) ===== */
 /* セル指定は PaperMod の .post-content table:not(...) td と同じ詳細度にして後勝ちで上書き */
 
-.post-content .visitor-list .visitor-table {
+.post-content .visitor-list .visitor-table,
+.post-content .career-list .career-table {
   display: table;          /* PaperMod の reset は table を block にしている */
   width: 100%;
   margin: 10px 0 26px;
@@ -179,7 +180,8 @@
   overflow-wrap: break-word; /* 収まらない場合のみ語の途中で折り返す */
 }
 
-.post-content .visitor-list .visitor-table thead tr th {
+.post-content .visitor-list .visitor-table thead tr th,
+.post-content .career-list .career-table thead tr th {
   padding: 0 12px 8px;
   font-size: 0.85em;
   font-weight: 600;
@@ -187,7 +189,8 @@
   border-bottom: 1px solid var(--tertiary);
 }
 
-.post-content .visitor-list .visitor-table tbody tr td {
+.post-content .visitor-list .visitor-table tbody tr td,
+.post-content .career-list .career-table tbody tr td {
   min-width: 0;
   padding: 12px;
   line-height: 1.6;
@@ -195,19 +198,25 @@
   border-bottom: 1px solid var(--border);
 }
 
-.post-content .visitor-list .visitor-table tr > :first-child {
+.post-content .visitor-list .visitor-table tr > :first-child,
+.post-content .career-list .career-table tr > :first-child {
   padding-inline-start: 0;
 }
 
-.post-content .visitor-list .visitor-table tr > :last-child {
+.post-content .visitor-list .visitor-table tr > :last-child,
+.post-content .career-list .career-table tr > :last-child {
   padding-inline-end: 0;
+}
+
+.visitor-table .visitor-period,
+.career-table .career-date {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  color: var(--secondary);
 }
 
 .visitor-table .visitor-period {
   width: 1%;
-  white-space: nowrap;
-  font-variant-numeric: tabular-nums;
-  color: var(--secondary);
 }
 
 .visitor-table .visitor-name {
@@ -216,16 +225,26 @@
   font-weight: 600;
 }
 
-/* スマートフォンでは 1 人ずつ縦に並べる（期間 / 氏名 / 所属） */
+/* 左列（年・期間）の幅を全セクションで揃える（最長の「2024年10月〜2026年9月」が収まる幅） */
+.career-table .career-date {
+  width: 12.5em;
+}
+
+/* スマートフォンでは 1 件ずつ縦に並べる */
 @media (max-width: 600px) {
   .post-content .visitor-list .visitor-table,
   .post-content .visitor-list .visitor-table tbody,
-  .post-content .visitor-list .visitor-table tr {
+  .post-content .visitor-list .visitor-table tr,
+  .post-content .career-list .career-table,
+  .post-content .career-list .career-table tbody,
+  .post-content .career-list .career-table tr {
     display: block;
     width: 100%;
   }
 
-  .post-content .visitor-list .visitor-table thead {
+  /* 見出し行は画面上に出さず、読み上げ用に残す */
+  .post-content .visitor-list .visitor-table thead,
+  .post-content .career-list .career-table thead {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -234,23 +253,30 @@
     white-space: nowrap;
   }
 
-  .post-content .visitor-list .visitor-table tbody tr {
+  .post-content .visitor-list .visitor-table tbody tr,
+  .post-content .career-list .career-table tbody tr {
     padding: 12px 0;
     border-bottom: 1px solid var(--border);
   }
 
-  .post-content .visitor-list .visitor-table tbody tr td {
+  .post-content .visitor-list .visitor-table tbody tr td,
+  .post-content .career-list .career-table tbody tr td {
     display: block;
     width: auto;
     padding: 0;
     border-bottom: 0;
   }
 
-  .visitor-table .visitor-period {
+  .visitor-table .visitor-period,
+  .career-table .career-date {
     font-size: 0.85em;
   }
 
   .visitor-table .visitor-name {
     white-space: normal;
+  }
+
+  .career-table .career-item {
+    font-weight: 600;
   }
 }
