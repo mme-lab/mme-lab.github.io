@@ -1,0 +1,5785 @@
+{
+ "items": [
+  {
+   "id": "ach-300a102255",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Muthukunnil Joseph Anish",
+     "self": false
+    },
+    {
+     "name": "Shunsuke Harada",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "4H-SiC結晶の熱輸送に及ぼす点欠陥分布の影響−フォノンモンテカルロ法による解析−",
+   "event": "先進パワー半導体分科会第13回講演会",
+   "location": "広島国際会議場（広島県広島市）",
+   "urls": [
+    "https://adps13.hiroshima-u.ac.jp/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-55016470",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-09-14",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "竹原 陵介",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "藍 逸頡",
+     "self": false
+    },
+    {
+     "name": "影山 凜",
+     "self": false
+    },
+    {
+     "name": "小川 竹次郎",
+     "self": false
+    },
+    {
+     "name": "劉 芽久哉",
+     "self": false
+    },
+    {
+     "name": "気谷 卓",
+     "self": false
+    },
+    {
+     "name": "川路 均",
+     "self": false
+    },
+    {
+     "name": "森川 淳子",
+     "self": false
+    },
+    {
+     "name": "福島 孝典",
+     "self": false
+    }
+   ],
+   "title": "有機単結晶における水素結合を介した光学フォノン熱輸送",
+   "event": "日本物理学会 第81回年次大会（2026年）",
+   "number": "14aA107-13",
+   "location": "東京大学 駒場キャンパス（東京都目黒区）",
+   "urls": [
+    "https://www.jps.or.jp/activities/meetings/annual/annual-index.php"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-55016466",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-09-11",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "ナノスケール熱伝導の基礎と応用〜熱輸送解析・熱計測・熱制御技術の展開〜",
+   "event": "東海伝熱セミナー",
+   "location": "まるは食堂旅館（愛知県知多郡）",
+   "urls": [
+    "https://www.htsj.or.jp/branch/tokai/pdf/2026_HTSJ_TOKAI_SEM_Information.pdf"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-54609655",
+   "category": "international",
+   "year": 2026,
+   "date": "2026-06-27",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Eﬀect of Hierarchical Bundling on Phonon Transport and Thermal Conductivity in Single-Walled Carbon Nanotubes",
+   "event": "The 11th US-Japan Joint Seminar on Nanoscale Transport Phenomena",
+   "location": "東京大学本郷キャンパス（東京都文京区）",
+   "urls": [
+    "https://sites.google.com/view/usj2026/home"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-54609636",
+   "category": "international",
+   "year": 2026,
+   "date": "2026-06-25",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Ryosuke Takehara",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Yi-Chieh Lan",
+     "self": false
+    },
+    {
+     "name": "Rin Kageyama",
+     "self": false
+    },
+    {
+     "name": "Takejiro Ogawa",
+     "self": false
+    },
+    {
+     "name": "Meguya Ryu",
+     "self": false
+    },
+    {
+     "name": "Suguru Kitani",
+     "self": false
+    },
+    {
+     "name": "Hitoshi Kawaji",
+     "self": false
+    },
+    {
+     "name": "Junko Morikawa",
+     "self": false
+    },
+    {
+     "name": "Takehori Fukushima",
+     "self": false
+    }
+   ],
+   "title": "Understanding the Role of Hydrogen Bonding in Heat Transport in Organic Materials",
+   "event": "The 11th US-Japan Joint Seminar on Nanoscale Transport Phenomena",
+   "number": "P18",
+   "location": "東京大学本郷キャンパス（東京都文京区）",
+   "urls": [
+    "https://sites.google.com/view/usj2026/home"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-53559745",
+   "category": "international",
+   "year": 2026,
+   "date": "2026-06-03",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Fuya Makino",
+     "self": false
+    },
+    {
+     "name": "Takamasa Hirai",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Hirofumi Suto",
+     "self": false
+    },
+    {
+     "name": "Hiroshi Fujihisa",
+     "self": false
+    },
+    {
+     "name": "Koichi Oyanagi",
+     "self": false
+    },
+    {
+     "name": "Staoru Kobayashi",
+     "self": false
+    },
+    {
+     "name": "Taisuke Sasaki",
+     "self": false
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    },
+    {
+     "name": "Ken-ichi Uchida",
+     "self": false
+    },
+    {
+     "name": "Yuya Sakuraba",
+     "self": false
+    }
+   ],
+   "title": "Giant magneto-thermal resistance effect in a Co50Fe50/Cu multilayer studied via analysis of electron and lattice thermal conductivities",
+   "event": "The 9th edition of the International Conference on Magnetic Materials and Applications (ICMAGMA-2026)",
+   "event_en": "The 9th edition of the International Conference on Magnetic Materials and Applications (ICMAGMA-2026)",
+   "location": "National Institute of Technology Goa（インド・ゴア）",
+   "urls": [
+    "https://nitgoa.ac.in/icmagma2026/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-53295099",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-05-09",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "江口遼河",
+     "self": false
+    },
+    {
+     "name": "MUTHUKUNNIL JOSEPH Anish",
+     "self": false
+    },
+    {
+     "name": "Dai Xuan",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "沓掛健太朗",
+     "self": false
+    },
+    {
+     "name": "宇治原徹",
+     "self": false
+    },
+    {
+     "name": "原田俊太",
+     "self": false
+    }
+   ],
+   "title": "周期的面欠陥がフォノン輸送特性に及ぼす影響",
+   "event": "第10回フォノンエンジニアリング研究会",
+   "number": "P17",
+   "location": "シギラリゾート・ホテルブリーズベイマリーナ（沖縄県宮古島）",
+   "urls": [
+    "https://www.phonon.t.u-tokyo.ac.jp/phonon_engineering/2026/home.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-53559737",
+   "category": "international",
+   "year": 2026,
+   "date": "2026-04-28",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Seohee Jang",
+     "self": false
+    },
+    {
+     "name": "Seung-Woo Jeon",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Sangwook Han",
+     "self": false
+    },
+    {
+     "name": "Woosung Park",
+     "self": false
+    }
+   ],
+   "title": "Thermally triggered specular phonon-boundary reflection in single-crystal diamond nanobeams with high Debye temperature",
+   "event": "Materials Research Society 2026 Spring Meeting & Exhibit",
+   "event_en": "Materials Research Society 2026 Spring Meeting & Exhibit",
+   "number": "SF04.03.07",
+   "location": "Ala Moana Hotel",
+   "urls": [
+    "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-53559713",
+   "category": "international",
+   "year": 2026,
+   "date": "2026-04-27",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Shun-ichiro Ito",
+     "self": false
+    },
+    {
+     "name": "Kan Ueji",
+     "self": false
+    },
+    {
+     "name": "Shigeki Saito",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    },
+    {
+     "name": "Taishi Takenobu",
+     "self": false
+    },
+    {
+     "name": "Kazuhiro Yanagi",
+     "self": false
+    }
+   ],
+   "title": "Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT",
+   "event": "Materials Research Society 2026 Spring Meeting & Exhibit",
+   "event_en": "Materials Research Society 2026 Spring Meeting & Exhibit",
+   "number": "EL05.02.04",
+   "location": "Hilton Hawaiian Village Waikiki Beach Resort",
+   "urls": [
+    "https://www.mrs.org/meetings-events/annual-meetings/2026-mrs-spring-meeting-exhibit"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-53051271",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-03-17",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    }
+   ],
+   "title": "界面熱輸送の理解と極低温領域への展開",
+   "event": "量子社会実現を見据えた極低温伝熱工学 第2回勉強会",
+   "location": "豊田中央研究所 東京キャンパス（東京都文京区）",
+   "invited": true
+  },
+  {
+   "id": "rm-52095222",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-03-16",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "竹原 陵介",
+     "self": false
+    },
+    {
+     "name": "影山 凜",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "劉 芽久哉",
+     "self": false
+    },
+    {
+     "name": "森川 淳子",
+     "self": false
+    },
+    {
+     "name": "熊井 玲児",
+     "self": false
+    },
+    {
+     "name": "福島 孝典",
+     "self": false
+    }
+   ],
+   "title": "長寿命励起状態を示す水素結合型有機単結晶の熱輸送特性",
+   "event": "2026年第73回応用物理学会春季学術講演会",
+   "number": "16a-W9_325_1-7",
+   "location": "東京科学大学 大岡山キャンパス（東京都目黒区）",
+   "urls": [
+    "https://meeting.jsap.or.jp/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-52095214",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-03-08",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    }
+   ],
+   "title": "材料機能解明に向けたナノスケール熱輸送の解析・計測技術の最前線",
+   "event": "JST創発的研究支援事業 自発的融合の場「第3回 材料への新規解析・計測手法の適用」",
+   "location": "休暇村南阿蘇（熊本県阿蘇郡）",
+   "urls": [
+    "https://www.google.com/url?q=https://sites.google.com/toyota-ti.ac.jp/forest-materials3/&source=gmail-imap&ust=1766473527000000&usg=AOvVaw0jH9EucL8bCr3zkU_B7ntC"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-52095211",
+   "category": "domestic",
+   "year": 2026,
+   "date": "2026-01-30",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    }
+   ],
+   "title": "ナノスケール熱伝導概説",
+   "event": "ナノテクノロジー国際標準化ワークショップ2026 ～ ナノスケール熱物性と電子デバイス放熱材料の評価技術と標準化 ～",
+   "location": "東京ビックサイト（東京都江東区）",
+   "urls": [
+    "https://www.aist.go.jp/aist_j/business/alliance/tc229/nanotech_ws_2026.html"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-50398151",
+   "category": "international",
+   "year": 2025,
+   "date": "2025-12-08",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Shun-ichiro Ito",
+     "self": false
+    },
+    {
+     "name": "Kan Ueji",
+     "self": false
+    },
+    {
+     "name": "Shigeki Saito",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    },
+    {
+     "name": "Taishi Takenobu",
+     "self": false
+    },
+    {
+     "name": "Kazuhiro Yanagi",
+     "self": false
+    }
+   ],
+   "title": "Modulation of Heat Flow via Electrochemical Doping in Conducting Polymer PBTTT",
+   "event": "Materials Research Meeting 2025 (MRM2025)",
+   "event_en": "Materials Research Meeting 2025 (MRM2025)",
+   "number": "A2-P203-09",
+   "location": "パシフィコ横浜（神奈川県横浜市）",
+   "urls": [
+    "https://mrm2025.mrs-j.org/",
+    "https://mrm2025.mrs-j.org/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-50055696",
+   "category": "international",
+   "year": 2025,
+   "date": "2025-10-23",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Yuki Mori",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    }
+   ],
+   "title": "Thermal Conductivity of Silicon Crystals with Amorphous Nanoinclusion",
+   "event": "The Eleventh JSME-KSME Thermal and Fluids Engineering Conference",
+   "event_en": "The Eleventh JSME-KSME Thermal and Fluids Engineering Conference",
+   "number": "JK-TFEC11-1120",
+   "location": "沖縄コンベンションセンター（沖縄県宜野湾市）",
+   "urls": [
+    "https://tfec11.jp/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-50260819",
+   "category": "domestic",
+   "year": 2025,
+   "date": "2025-10-09",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "水口 佳一",
+     "self": false
+    },
+    {
+     "name": "藤久 裕司",
+     "self": false
+    }
+   ],
+   "title": "第一原理に基づくヨウ素化インジウム層状化合物の構造および熱伝導解析",
+   "event": "第46回日本熱物性シンポジウム",
+   "number": "C211",
+   "location": "アバンセ(佐賀県立男女共同参画センター·佐賀県立生涯学習センター)（佐賀県佐賀市）",
+   "urls": [
+    "https://www.jstp-symp.org/symp2025/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-50624186",
+   "category": "domestic",
+   "year": 2025,
+   "date": "2025-10-04",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "千足 昇平",
+     "self": false
+    }
+   ],
+   "title": "カーボンナノチューブ膜形成の粗視化シミュレーション",
+   "event": "熱工学コンファレンス2025",
+   "number": "E14",
+   "location": "山形テルサ・やまぎん県民ホール（山形県山形市）",
+   "urls": [
+    "https://www.jsme.or.jp/conference/tedconf25/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-50260835",
+   "category": "domestic",
+   "year": 2025,
+   "date": "2025-09-09",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "影山 凜",
+     "self": false
+    },
+    {
+     "name": "竹原 陵介",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "劉 芽久哉",
+     "self": false
+    },
+    {
+     "name": "森川 淳子",
+     "self": false
+    },
+    {
+     "name": "熊井 玲児",
+     "self": false
+    },
+    {
+     "name": "福島 孝典",
+     "self": false
+    }
+   ],
+   "title": "水素結合ネットワークを有する有機単結晶の長寿命励起状態における熱輸送特性",
+   "event": "第19回分子科学討論会",
+   "number": "1P037",
+   "location": "広島国際会議場（広島県広島市）",
+   "urls": [
+    "https://www.molsci.jp/2025/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-50260784",
+   "category": "domestic",
+   "year": 2025,
+   "date": "2025-05-18",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Hiroshi Fujihisa",
+     "self": false
+    }
+   ],
+   "title": "Thermal properties of low- and high-pressure phases of indium iodides",
+   "event": "第9回フォノンエンジニアリング研究会",
+   "event_en": "第9回フォノンエンジニアリング研究会",
+   "number": "P19",
+   "location": "シギラリゾート・ホテルブリーズベイマリーナ（宮古島市上野宮国）",
+   "urls": [
+    "https://www.phonon.t.u-tokyo.ac.jp/phonon_engineering/2025/home.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-50260774",
+   "category": "international",
+   "year": 2025,
+   "date": "2025-05-15",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Yuichiro Yamashita",
+     "self": false
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    }
+   ],
+   "title": "Control of thermal diffusion length in time-domain thermoreflectance measurement for probing quasi-ballistic phonon transport",
+   "event": "第62回日本伝熱シンポジウム/HTSJ国際伝熱シンポジウム",
+   "event_en": "第62回日本伝熱シンポジウム/HTSJ国際伝熱シンポジウム",
+   "number": "IGS-15-1-03",
+   "location": "沖縄コンベンションセンター（沖縄県宜野湾市）",
+   "urls": [
+    "https://pub.confit.atlas.jp/ja/event/htsj2025"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-48516769",
+   "category": "international",
+   "year": 2025,
+   "date": "2025-04-21",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Fuya Makino",
+     "self": false
+    },
+    {
+     "name": "Takamasa Hirai",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Hirofumi Suto",
+     "self": false
+    },
+    {
+     "name": "Hiroshi Fujihisa",
+     "self": false
+    },
+    {
+     "name": "Koichi Oyanagi",
+     "self": false
+    },
+    {
+     "name": "Satoru Kobayashi",
+     "self": false
+    },
+    {
+     "name": "Taisuke Sasaki",
+     "self": false
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    },
+    {
+     "name": "Ken-ichi Uchida",
+     "self": false
+    },
+    {
+     "name": "Yuya Sakuraba",
+     "self": false
+    }
+   ],
+   "title": "Enhancement of thermal conductivity change induced by magneto-thermal resistance effect in Cu/CoFe magnetic multilayers",
+   "event": "The 7th International Conference of Asian Union of Magnetics Societies (IcAUMS 2025)",
+   "event_en": "The 7th International Conference of Asian Union of Magnetics Societies (IcAUMS 2025)",
+   "number": "21pC-4",
+   "location": "沖縄コンベンションセンター（沖縄県宜野湾市）",
+   "urls": [
+    "https://www.magnetics.jp/icaums2025/",
+    "https://www.magnetics.jp/icaums2025/program/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-49551002",
+   "category": "international",
+   "year": 2025,
+   "date": "2025-03-24",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "When and how does perturbative van der Waals interactions degrade the thermal conductivity of carbon nanotubes? Implications for thermal engineering",
+   "event": "International Workshop on Thermal & Related Energy Systems (i-ENERON2025)",
+   "event_en": "International Workshop on Thermal & Related Energy Systems (i-ENERON2025)",
+   "location": "Nakamura Centenary Memorial Hall, Kyushu Institute of Technology",
+   "urls": [
+    "https://www.i-eneron.kyutech.ac.jp/workshop.html#news"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-49008711",
+   "category": "domestic",
+   "year": 2025,
+   "date": "2025-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "影山 凜",
+     "self": false
+    },
+    {
+     "name": "竹原 陵介",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "劉 芽久哉",
+     "self": false
+    },
+    {
+     "name": "森川 淳子",
+     "self": false
+    },
+    {
+     "name": "福島 孝典",
+     "self": false
+    }
+   ],
+   "title": "長寿命励起状態を示す有機分子の熱輸送特性",
+   "event": "日本化学会 第105春季年会（2025）",
+   "number": "C303-3am-09",
+   "location": "関西大学 千里山キャンパス",
+   "urls": [
+    "https://pub.confit.atlas.jp/ja/event/csj105th/presentation/C_C303-3am-09"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-48511835",
+   "category": "international",
+   "year": 2025,
+   "date": "2025-01",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Yuichiro Yamashita",
+     "self": false
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    }
+   ],
+   "title": "Phonon transport characterization across diverse materials using high-frequency time-domain thermoreflectance",
+   "event": "The 1st A3 Nano & Thermal Energy Engineering Workshop",
+   "event_en": "The 1st A3 Nano & Thermal Energy Engineering Workshop",
+   "location": "東京大学 本郷キャンパス 山上会館",
+   "urls": [
+    "https://www.phonon.t.u-tokyo.ac.jp/A3_workshop/2024/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-48511751",
+   "category": "international",
+   "year": 2024,
+   "date": "2024-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Akihiro Tamura",
+     "self": false
+    },
+    {
+     "name": "Daiki Fukumaru",
+     "self": false
+    },
+    {
+     "name": "Yu Sanematsu",
+     "self": false
+    },
+    {
+     "name": "Fumiya Kawahara",
+     "self": false
+    },
+    {
+     "name": "Asuka Miura",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takashi Kodama",
+     "self": false
+    }
+   ],
+   "title": "Thermal and Thermoelectric Measurement of SiC-based Microfibers",
+   "event": "12th International Symposium on Applied Engineering and Sciences (SAES2024)",
+   "event_en": "12th International Symposium on Applied Engineering and Sciences (SAES2024)",
+   "location": "九州工業大学 戸畑キャンパス",
+   "urls": [
+    "https://conferenceservice.jp/www/saes2024/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-47473195",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "藤久裕司",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "八木貴志",
+     "self": false
+    }
+   ],
+   "title": "DFT計算によるMg2NiH4の圧力誘起相転移と高圧相構造の予測",
+   "event": "第65回高圧討論会",
+   "location": "いわて県民情報センターアイーナ",
+   "urls": [
+    "https://highpressure.jp/new/65forum/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-47271344",
+   "category": "international",
+   "year": 2024,
+   "date": "2024-10-02",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "F. Makino",
+     "self": false
+    },
+    {
+     "name": "T. Hirai",
+     "self": false
+    },
+    {
+     "name": "T. Shiga",
+     "self": true
+    },
+    {
+     "name": "H. Suto",
+     "self": false
+    },
+    {
+     "name": "H. Fujihisa",
+     "self": false
+    },
+    {
+     "name": "K. Oyanagi",
+     "self": false
+    },
+    {
+     "name": "S. Kobayashi",
+     "self": false
+    },
+    {
+     "name": "T. Sasaki",
+     "self": false
+    },
+    {
+     "name": "T. Yagi",
+     "self": false
+    },
+    {
+     "name": "K. Uchida",
+     "self": false
+    },
+    {
+     "name": "Y. Sakurab",
+     "self": false
+    }
+   ],
+   "title": "Enhancement of thermal conductivity change induced by magneto-thermal resistance effect in CoFe/Cu magnetic multilayers",
+   "event": "The IEEE Around-the-Clock Around-the-Globe Magnetics Conference (AtC-AtG)",
+   "event_en": "The IEEE Around-the-Clock Around-the-Globe Magnetics Conference (AtC-AtG)",
+   "location": "Virtual conference",
+   "invited": false
+  },
+  {
+   "id": "rm-46775181",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Woosung Park",
+     "self": false
+    },
+    {
+     "name": "Joonsuk Park",
+     "self": false
+    },
+    {
+     "name": "Jinying Zhang",
+     "self": false
+    },
+    {
+     "name": "篠原 久典",
+     "self": false
+    },
+    {
+     "name": "Kenneth E. Goodson",
+     "self": false
+    }
+   ],
+   "title": "sp3系カーボン材料内包カーボンナノチューブの熱電評価特性",
+   "event": "第45回日本熱物性シンポジウム",
+   "number": "B212",
+   "location": "アオーレ長岡",
+   "urls": [
+    "https://jstp-symp.org/symp2024/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-46768910",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "藤久 裕司",
+     "self": false
+    }
+   ],
+   "title": "二次元金属リントリカルコゲナイド積層体の第一原理フォノン特性解析",
+   "event": "熱工学コンファレンス2024",
+   "number": "H43",
+   "location": "KDDI維新ホール（山口県山口市）",
+   "urls": [
+    "https://www.jsme.or.jp/conference/tedconf24/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-46768902",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "田村 陽太",
+     "self": false
+    },
+    {
+     "name": "福丸 大輝",
+     "self": false
+    },
+    {
+     "name": "實松 優",
+     "self": false
+    },
+    {
+     "name": "川原 章弥",
+     "self": false
+    },
+    {
+     "name": "三浦 飛鳥",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    }
+   ],
+   "title": "SiC系マイクロファイバーの熱物性測定",
+   "event": "第45回日本熱物性シンポジウム",
+   "number": "B214",
+   "location": "アオーレ長岡",
+   "urls": [
+    "https://jstp-symp.org/symp2024/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-46768888",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "藤久 裕司",
+     "self": false
+    },
+    {
+     "name": "重里 有三",
+     "self": false
+    },
+    {
+     "name": "八木 貴志",
+     "self": false
+    }
+   ],
+   "title": "高圧における水素化マグネシウム系固体水素貯蔵材の第一原理熱伝導解析",
+   "event": "第45回日本熱物性シンポジウム",
+   "number": "B211",
+   "location": "アオーレ長岡",
+   "urls": [
+    "https://jstp-symp.org/symp2024/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-52021964",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "山崎 由大",
+     "self": false
+    },
+    {
+     "name": "長藤 圭介",
+     "self": false
+    },
+    {
+     "name": "千足 昇平",
+     "self": false
+    },
+    {
+     "name": "村上 存",
+     "self": false
+    },
+    {
+     "name": "柳澤 秀吉",
+     "self": false
+    },
+    {
+     "name": "福井 類",
+     "self": false
+    },
+    {
+     "name": "木崎 通",
+     "self": false
+    },
+    {
+     "name": "伊藤 佑介",
+     "self": false
+    },
+    {
+     "name": "伊藤 太久磨",
+     "self": false
+    },
+    {
+     "name": "大塚 慶吾",
+     "self": false
+    },
+    {
+     "name": "杉浦 広峻",
+     "self": false
+    },
+    {
+     "name": "佐藤 悠治",
+     "self": false
+    },
+    {
+     "name": "趙 漠居",
+     "self": false
+    },
+    {
+     "name": "浅野 悠紀",
+     "self": false
+    },
+    {
+     "name": "李 敏赫",
+     "self": false
+    },
+    {
+     "name": "松島 慶",
+     "self": false
+    },
+    {
+     "name": "内山 瑛美子",
+     "self": false
+    },
+    {
+     "name": "李 禮林",
+     "self": false
+    },
+    {
+     "name": "王 智宇",
+     "self": false
+    },
+    {
+     "name": "藤森 伸壮",
+     "self": false
+    },
+    {
+     "name": "中根 茂",
+     "self": false
+    },
+    {
+     "name": "渡辺 誠",
+     "self": false
+    },
+    {
+     "name": "濱名 芳晴",
+     "self": false
+    },
+    {
+     "name": "及川 和広",
+     "self": false
+    },
+    {
+     "name": "諸山 稔員",
+     "self": false
+    },
+    {
+     "name": "永山 直樹",
+     "self": false
+    },
+    {
+     "name": "石川 明克",
+     "self": false
+    },
+    {
+     "name": "生出 博巳",
+     "self": false
+    },
+    {
+     "name": "宮内 正裕",
+     "self": false
+    },
+    {
+     "name": "高橋 和樹",
+     "self": false
+    },
+    {
+     "name": "福井 隆史",
+     "self": false
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "井ノ上 泰輝",
+     "self": false
+    },
+    {
+     "name": "草加 浩平",
+     "self": false
+    }
+   ],
+   "title": "東京大学工学部機械工学科スターリングエンジン演習の実践報告",
+   "event": "日本機械学会 2024年度 年次大会",
+   "location": "愛媛大学 城北キャンパス（愛媛県松山市）",
+   "urls": [
+    "https://doi.org/10.1299/jsmemecj.2024.S201-10",
+    "https://pub.confit.atlas.jp/ja/event/jsme2024"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-46820838",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "牧野楓也",
+     "self": false
+    },
+    {
+     "name": "平井孝昌",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "首藤浩文",
+     "self": false
+    },
+    {
+     "name": "藤久裕司",
+     "self": false
+    },
+    {
+     "name": "大柳洸一",
+     "self": false
+    },
+    {
+     "name": "小林悟",
+     "self": false
+    },
+    {
+     "name": "佐々木泰祐",
+     "self": false
+    },
+    {
+     "name": "八木貴志",
+     "self": false
+    },
+    {
+     "name": "内田健一",
+     "self": false
+    },
+    {
+     "name": "桜庭裕弥",
+     "self": false
+    }
+   ],
+   "title": "CoFe/Cu多層膜の磁気熱抵抗効果による巨大熱伝導率変化",
+   "event": "第48回日本磁気学会学術講演会",
+   "event_en": "The 48th Annual Conference on MAGNETICS in Japan",
+   "number": "27aB-5",
+   "location": "秋田大学手形キャンパス",
+   "urls": [
+    "https://www.magnetics.jp/kouenkai/2024/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-45779748",
+   "category": "international",
+   "year": 2024,
+   "date": "2024-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "T. Yagi",
+     "self": false
+    },
+    {
+     "name": "H. Yagi",
+     "self": false
+    },
+    {
+     "name": "K. Sugimoto",
+     "self": false
+    },
+    {
+     "name": "H. Nakano",
+     "self": false
+    },
+    {
+     "name": "Y. Yamashita",
+     "self": false
+    },
+    {
+     "name": "T. Shiga",
+     "self": true
+    },
+    {
+     "name": "M. Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "S. Takeya",
+     "self": false
+    },
+    {
+     "name": "Y. Oguchi",
+     "self": false
+    },
+    {
+     "name": "F. Iesari",
+     "self": false
+    },
+    {
+     "name": "T. Okajima",
+     "self": false
+    },
+    {
+     "name": "N. Taketoshi",
+     "self": false
+    },
+    {
+     "name": "Y. Shigesato",
+     "self": false
+    }
+   ],
+   "title": "Reversible thermal conductivity switching of Mg-based thin films con-trolled by hydro-/dehydrogenation reactions",
+   "event": "Nanotech France 2024",
+   "event_en": "Nanotech France 2024",
+   "urls": [
+    "https://www.setcor.org/conferences/nanotech-france-2024"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-46768869",
+   "category": "domestic",
+   "year": 2024,
+   "date": "2024-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "山下 雄一郎",
+     "self": false
+    },
+    {
+     "name": "八木 貴志",
+     "self": false
+    }
+   ],
+   "title": "フォノン熱輸送スペクトル測定に向けた高周波変調時間領域サーモリフレクタンス法の開発",
+   "event": "第61回日本伝熱シンポジウム",
+   "number": "D231",
+   "location": "神戸コンベンションセンター",
+   "urls": [
+    "https://htsj-conf.org/symp2024/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-45663526",
+   "category": "international",
+   "year": 2024,
+   "date": "2024-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Kan Ueji",
+     "self": false
+    },
+    {
+     "name": "Kaiyao Zhou",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Sota Nakamura",
+     "self": false
+    },
+    {
+     "name": "Hiroyuki Nishidome",
+     "self": false
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    },
+    {
+     "name": "Yohei Yomogida",
+     "self": false
+    },
+    {
+     "name": "Takahiro Yamamoto",
+     "self": false
+    },
+    {
+     "name": "Yasumitsu Miyata",
+     "self": false
+    },
+    {
+     "name": "Kazuhiro Yanagi",
+     "self": false
+    }
+   ],
+   "title": "Correlation between Heat Flow and Electrical Current across Four-layered MoS2",
+   "event": "APS March Meeting 2024",
+   "event_en": "APS March Meeting 2024",
+   "number": "M04.00003",
+   "location": "Minneapolis & Virtual",
+   "urls": [
+    "https://meetings.aps.org/Meeting/MAR24/Session/M04.3"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-42931560",
+   "category": "domestic",
+   "year": 2023,
+   "date": "2023-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "寺田行彦",
+     "self": false
+    },
+    {
+     "name": "千足昇平",
+     "self": false
+    },
+    {
+     "name": "児玉高志",
+     "self": false
+    }
+   ],
+   "title": "サイズ及びカイラリティが異なるカーボンナノチューブバンドルの弾道フォノン輸送解析",
+   "event": "第44回日本熱物性シンポジウム",
+   "number": "A134",
+   "location": "日本大学生産工学部 津田沼キャンパス",
+   "urls": [
+    "http://jstp-symp.org/symp2023/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-42931555",
+   "category": "domestic",
+   "year": 2023,
+   "date": "2023-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "山下雄一郎",
+     "self": false
+    },
+    {
+     "name": "八木貴志",
+     "self": false
+    }
+   ],
+   "title": "高速周期加熱とピコ秒パルス加熱の融合によるフォノン熱輸送スペクトル計測技術の創発",
+   "event": "熱工学コンファレンス2023",
+   "number": "D112",
+   "location": "神戸大学大学院工学研究科",
+   "urls": [
+    "https://www.jsme.or.jp/conference/tedconf23/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-42931524",
+   "category": "domestic",
+   "year": 2023,
+   "date": "2023-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "グラファイト層間化合物の熱伝導率の面外ひずみ依存性の第一原理計算",
+   "event": "第7回フォノンエンジニアリング研究会",
+   "number": "P-19",
+   "location": "沖縄コンベンションセンター",
+   "urls": [
+    "http://www.phonon.t.u-tokyo.ac.jp/phonon_engineering/2023/home.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-42213920",
+   "category": "international",
+   "year": 2023,
+   "date": "2023-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Emi Minamitani",
+     "self": false
+    },
+    {
+     "name": "Yuichiro Yamashita",
+     "self": false
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    },
+    {
+     "name": "Naoyuki Taketoshi",
+     "self": false
+    },
+    {
+     "name": "Yuzo Shigesato",
+     "self": false
+    },
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    }
+   ],
+   "title": "Transport characteristics of heat-carrying diffusons in amorphous alumina with different densities",
+   "event": "10th US-Japan Joint Seminar",
+   "event_en": "10th US-Japan Joint Seminar",
+   "location": "Coronado, CA",
+   "urls": [
+    "https://sites.google.com/view/usj2023/"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-44231211",
+   "category": "domestic",
+   "year": 2023,
+   "date": "2023-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "戴 煊",
+     "self": false
+    },
+    {
+     "name": "洗平 昌晃",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "宇治原 徹",
+     "self": false
+    },
+    {
+     "name": "原田 俊太",
+     "self": false
+    }
+   ],
+   "title": "結晶学的せん断構造を有す酸化チタンの機械学習ポテンシャルの構築",
+   "event": "第71回応用物理学会春季学術講演会",
+   "number": "23p-21B-1-13",
+   "urls": [
+    "https://pub.confit.atlas.jp/ja/event/jsap2024s/presentation/23p-21B-13"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-37024917",
+   "category": "international",
+   "year": 2022,
+   "date": "2022-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Emi Minamitani",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "Ippei Obayashi",
+     "self": false
+    }
+   ],
+   "title": "Topological descriptor of thermal conductivity in covalent amorphous solids",
+   "event": "14th International Symposium on Atomic Level Characterizations for New Materials and Devices '22 (ALC '22)",
+   "event_en": "14th International Symposium on Atomic Level Characterizations for New Materials and Devices '22 (ALC '22)",
+   "number": "17-p-3-5",
+   "location": "Bankoku Shinryokan, Okinawa",
+   "urls": [
+    "https://www.jvss.jp/division/mba/alc/alc22/index.php"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-37040599",
+   "category": "international",
+   "year": 2022,
+   "date": "2022-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Lattice dynamics study on the impacts of surface phonons and small-size air-hole on heat conduction in a two-dimensional phononic structure",
+   "event": "The 13th Asian Thermophysical Properties Conference (ATPC2022)",
+   "event_en": "The 13th Asian Thermophysical Properties Conference (ATPC2022)",
+   "number": "OS5-1-03",
+   "location": "オンライン",
+   "urls": [
+    "https://www.atpc2022.org/program/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-37024267",
+   "category": "domestic",
+   "year": 2022,
+   "date": "2022-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "大林一平",
+     "self": false
+    },
+    {
+     "name": "南谷英美",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "柏木誠",
+     "self": false
+    }
+   ],
+   "title": "アモルファス物質の熱伝導率のパーシステントホモロジーによる解析",
+   "event": "2022年度 統計関連学会連合大会",
+   "number": "2HAM-03",
+   "location": "成蹊大学",
+   "urls": [
+    "https://confit.atlas.jp/guide/event/jfssa2022/top"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-36547712",
+   "category": "international",
+   "year": 2022,
+   "date": "2022-06-20",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "Shohei Chiashi",
+     "self": false
+    },
+    {
+     "name": "Hiroki Date",
+     "self": false
+    },
+    {
+     "name": "Takenori Fujii",
+     "self": false
+    },
+    {
+     "name": "Taiki Inoue",
+     "self": false
+    },
+    {
+     "name": "Esko I. Kauppinen",
+     "self": false
+    },
+    {
+     "name": "Keigo Otsuka",
+     "self": false
+    },
+    {
+     "name": "Shigeo Maruyama",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takashi Kodama",
+     "self": false
+    }
+   ],
+   "title": "One-dimensional electrical transport in single-walled carbon nanotube two-dimensional thin films",
+   "event": "The 22nd International Conference on the Science and Applications of Nanotubes and Low-Dimensional Materials",
+   "event_en": "The 22nd International Conference on the Science and Applications of Nanotubes and Low-Dimensional Materials",
+   "number": "P2-I-17",
+   "location": "Sungkyunkwan University in Suwon",
+   "urls": [
+    "https://nt22.skku.edu/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-36498600",
+   "category": "domestic",
+   "year": 2022,
+   "date": "2022-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "森田路真",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "格子動力学法を用いた極小2次元フォノニック結晶の熱伝導抑制メカニズムの調査",
+   "event": "第59回日本伝熱シンポジウム",
+   "number": "BPA1420",
+   "location": "長良川国際会議場（岐阜市長良福光2695-2)",
+   "urls": [
+    "https://htsj-conf.org/symp2022/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-36498657",
+   "category": "domestic",
+   "year": 2022,
+   "date": "2022-03-11",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    }
+   ],
+   "title": "アモルファス材のモーダル熱輸送解析の現状",
+   "event": "第92回研究会",
+   "location": "オンライン",
+   "urls": [
+    "http://conf.msl.titech.ac.jp/Conference3/CPEOM166/",
+    "http://conf.msl.titech.ac.jp/Conference3/CPEOM166/Kenkyukai.html"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-36498613",
+   "category": "international",
+   "year": 2021,
+   "date": "2021-12",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Tatsuki Ichikawa",
+     "self": false
+    },
+    {
+     "name": "Emi Minamitani",
+     "self": false
+    },
+    {
+     "name": "Yuichiro Yamashita",
+     "self": false
+    },
+    {
+     "name": "Takashi Yagi",
+     "self": false
+    },
+    {
+     "name": "Yuzo Shigesato",
+     "self": false
+    },
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Modal analysis of spectral thermal conductivity of amorphous oxide alloys",
+   "event": "Material Research Meeting 2021",
+   "event_en": "Material Research Meeting 2021",
+   "number": "D2-09-05",
+   "location": "PACIFICO YOKOHAMA",
+   "urls": [
+    "https://mrm2021.jmru.org/",
+    "https://confit.atlas.jp/guide/event/mrm2021/subject/D2-O9-05/advanced"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-36150695",
+   "category": "domestic",
+   "year": 2021,
+   "date": "2021-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "寺田 行彦",
+     "self": false
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "千足 昇平",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "カイラリティが異なる長尺な二層カーボンナノチューブのスペクトル熱輸送解析",
+   "event": "熱工学コンファレンス 2021",
+   "number": "C225",
+   "invited": false
+  },
+  {
+   "id": "rm-32467010",
+   "category": "international",
+   "year": 2021,
+   "date": "2021-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuro Tokunaga",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Masao Arai",
+     "self": false
+    },
+    {
+     "name": "Kazuaki Kobayashi",
+     "self": false
+    },
+    {
+     "name": "Wataru Hayami",
+     "self": false
+    },
+    {
+     "name": "Shigeru Suehara",
+     "self": false
+    },
+    {
+     "name": "Keunhan Park",
+     "self": false
+    },
+    {
+     "name": "Mathieu Francoeur",
+     "self": false
+    }
+   ],
+   "title": "First-Principles Calculations of Acoustic Phonon Tunneling",
+   "event": "2021 Summer Heat Transfer Conference (SHTC)",
+   "location": "Virtual Conference",
+   "urls": [
+    "https://shtc.secure-platform.com/a/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-32467035",
+   "category": "domestic",
+   "year": 2021,
+   "date": "2021-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "市川 達基",
+     "self": false
+    },
+    {
+     "name": "南谷 英美",
+     "self": false
+    },
+    {
+     "name": "山下 雄一郎",
+     "self": false
+    },
+    {
+     "name": "八木 貴志",
+     "self": false
+    },
+    {
+     "name": "重里 有三",
+     "self": false
+    },
+    {
+     "name": "柏木 誠",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "Allen-Feldman理論に基づいた三元系アモルファス合金の熱伝導解析",
+   "event": "第58回日本伝熱シンポジウム",
+   "number": "BPA1421",
+   "location": "オンライン開催",
+   "urls": [
+    "https://htsj-conf.org/symp2021/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-31458588",
+   "category": "domestic",
+   "year": 2021,
+   "date": "2021-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "南谷 英美",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "大林 一平",
+     "self": false
+    },
+    {
+     "name": "柏木 誠",
+     "self": false
+    }
+   ],
+   "title": "アモルファスSiにおける熱伝導率とパーシステントホモロジーの相関",
+   "event": "第68回応用物理学会春季学術講演会",
+   "event_en": "The 68th JSAP Spering Meeting 2021",
+   "number": "16a-Z32-6",
+   "location": "オンライン開催",
+   "urls": [
+    "https://meeting.jsap.or.jp/",
+    "https://doi.org/10.11470/jsapmeeting.2021.1.0_2995"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-27959365",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "小宅 教文",
+     "self": false
+    },
+    {
+     "name": "渡邊 玲奈",
+     "self": false
+    },
+    {
+     "name": "南谷 英美",
+     "self": false
+    },
+    {
+     "name": "岡田 晋",
+     "self": false
+    }
+   ],
+   "title": "面外ひずみがグラファイト層間化合物熱伝導に及ぼす影響",
+   "event": "日本機械学会 熱工学コンファレンス2020",
+   "number": "C122",
+   "location": "オンライン開催",
+   "urls": [
+    "https://www.jsme.or.jp/conference/tedconf20/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-27959360",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "砂子 直信",
+     "self": false
+    },
+    {
+     "name": "森田 路真",
+     "self": false
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "柏木 誠",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "レイ・トレーシングモンテカルロ法を用いた二次元フォノニック結晶の熱伝導解析",
+   "event": "日本機械学会 熱工学コンファレンス2020",
+   "number": "C111",
+   "location": "オンライン開催",
+   "urls": [
+    "https://www.jsme.or.jp/conference/tedconf20/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-27959355",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "古田 蒔人",
+     "self": false
+    },
+    {
+     "name": "足立 建人",
+     "self": false
+    },
+    {
+     "name": "大長 一帆",
+     "self": false
+    },
+    {
+     "name": "斎藤 継之",
+     "self": false
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "分子動力学法を用いたセルロースナノフィブリルの熱伝導の次元依存性解析",
+   "event": "日本機械学会 熱工学コンファレンス2020",
+   "number": "C113",
+   "location": "オンライン開催",
+   "urls": [
+    "https://www.jsme.or.jp/conference/tedconf20/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-27959350",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "森田 路真",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "格子動力学法を用いた表面フォノンによる熱伝導抑制効果の温度依存性の検証",
+   "event": "第41回日本熱物性シンポジウム",
+   "number": "B313",
+   "location": "オンライン開催",
+   "urls": [
+    "http://jstp-symp.org/symp2020/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-27959336",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "南谷 英美",
+     "self": false
+    },
+    {
+     "name": "市川 達基",
+     "self": false
+    },
+    {
+     "name": "安倍 知奈実",
+     "self": false
+    },
+    {
+     "name": "山下 雄一郎",
+     "self": false
+    },
+    {
+     "name": "八木 貴志",
+     "self": false
+    },
+    {
+     "name": "竹歳 尚之",
+     "self": false
+    },
+    {
+     "name": "重里 有三",
+     "self": false
+    },
+    {
+     "name": "柏木 誠",
+     "self": false
+    }
+   ],
+   "title": "Allen-Feldman理論に基づいたアモルファスAl2O3の熱伝導率の密度依存性評価",
+   "event": "第41回日本熱物性シンポジウム",
+   "number": "B314",
+   "location": "オンライン開催",
+   "urls": [
+    "http://jstp-symp.org/symp2020/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-28579317",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "山口 信義",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "金属有機構造体配向膜の熱伝導率とその湿度依存性測定",
+   "event": "第81回応用物理学会 秋季学術講演会",
+   "event_en": "The 81st JSAP Autumn Meeting 2020",
+   "number": "8p-Z09-16",
+   "location": "オンライン開催",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2020.2.0_2405"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-27959325",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "野村 政宏",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "Roman Anufriev",
+     "self": false
+    }
+   ],
+   "title": "ナノ構造を用いた熱フォノンエンジニアリング",
+   "event": "第81回応用物理学会 秋季学術講演会",
+   "event_en": "The 81st JSAP Autumn Meeting 2020",
+   "number": "8p-Z09-1",
+   "location": "オンライン開催",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2020.2.0_2390"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-27959320",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    }
+   ],
+   "title": "熱フォノニクス実現に向けた熱伝導解析",
+   "event": "第81回応用物理学会 秋季学術講演会",
+   "event_en": "The 81st JSAP Autumn Meeting 2020",
+   "number": "10p-Z13-2",
+   "location": "オンライン開催",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2020.2.0_187"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-24645682",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "寺田 行彦",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "ねじれを含むグラフェンナノリボンの熱伝導解析",
+   "event": "第57回 日本伝熱シンポジウム",
+   "number": "A313",
+   "location": "石川県地場産業振興センター",
+   "urls": [
+    "https://htsj-conf.org/symp2020/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-24645677",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "森田 路真",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "薄膜熱伝導における表面フォノン散乱の温度依存性",
+   "event": "第57回 日本伝熱シンポジウム",
+   "number": "K1411",
+   "location": "石川県地場産業振興センター",
+   "urls": [
+    "https://htsj-conf.org/symp2020/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-24645744",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "山口 信義",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "二方向 3ω法を用いた金属有機構造体配向膜の熱伝導率測定",
+   "event": "第67回 応用物理学会春季学術講演会",
+   "number": "14p-A405-1",
+   "location": "上智大学 四谷キャンパス",
+   "urls": [
+    "https://meeting.jsap.or.jp/",
+    "https://doi.org/10.11470/jsapmeeting.2020.1.0_3575"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-24645729",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "南谷 英美",
+     "self": false
+    },
+    {
+     "name": "安倍 知奈実",
+     "self": false
+    },
+    {
+     "name": "山下 雄一郎",
+     "self": false
+    },
+    {
+     "name": "八木 貴志",
+     "self": false
+    },
+    {
+     "name": "竹歳 尚之",
+     "self": false
+    },
+    {
+     "name": "重里 有三",
+     "self": false
+    },
+    {
+     "name": "柏木 誠",
+     "self": false
+    }
+   ],
+   "title": "Ioffe-Regel境界定義がアモルファスAl2O3熱伝導率の計算値に及ぼす影響",
+   "event": "第67回 応用物理学会春季学術講演会",
+   "number": "15a-A405-6",
+   "location": "上智大学 四谷キャンパス",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2020.1.0_3595"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-24645647",
+   "category": "international",
+   "year": 2020,
+   "date": "2020-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Michimasa Morita",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Surface phonon mode remarkably limits heat conduction in a silicon ultra-thin film",
+   "event": "Colorado Convention Center",
+   "event_en": "Colorado Convention Center",
+   "number": "R62.00008",
+   "urls": [
+    "https://meetings.aps.org/Meeting/MAR20/Session/R62.8"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-24645640",
+   "category": "international",
+   "year": 2020,
+   "date": "2020-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Tatsuki Ichikawa",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Numerical study on the transition from coherent to incoherent phonon transport in a superlattice",
+   "event": "Colorado Convention Center",
+   "event_en": "Colorado Convention Center",
+   "number": "R62.00009",
+   "location": "Denver, CO",
+   "urls": [
+    "https://meetings.aps.org/Meeting/MAR20/Session/R62.9"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-24645618",
+   "category": "domestic",
+   "year": 2020,
+   "date": "2020-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Yukihiko Terada",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Study on effects of twist on phonon transport in graphene nanoribbons",
+   "event": "第58回 フラーレン・ナノチューブ・グラフェン 総合シンポジウム",
+   "location": "東京大学 伊藤国際学術研究センター 伊藤謝恩ホール",
+   "invited": false
+  },
+  {
+   "id": "rm-15904976",
+   "category": "domestic",
+   "year": 2019,
+   "date": "2019-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "森田 路真",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    }
+   ],
+   "title": "極薄膜シリコンの非調和格子動力学解析",
+   "event": "第40回日本熱物性シンポジウム",
+   "number": "A141",
+   "location": "長崎ブリックホール",
+   "urls": [
+    "http://jstp-symp.org/symp2019/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919792",
+   "category": "domestic",
+   "year": 2019,
+   "date": "2019-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "久間 馨",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "岡田 晋",
+     "self": false
+    },
+    {
+     "name": "千足 昇平",
+     "self": false
+    },
+    {
+     "name": "丸山 茂夫",
+     "self": false
+    }
+   ],
+   "title": "Thermal transport study of molybdenum disulfide nanotubes by molecular dynamics simulations",
+   "event": "第57回 フラーレン・ナノチューブ・グラフェン 総合シンポジウム",
+   "location": "名古屋大学 理学南館 坂田・平田ホール",
+   "urls": [
+    "https://fntg.jp/jp_new/symposium/sympo57/doc/fntg57_program_j.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15904982",
+   "category": "domestic",
+   "year": 2019,
+   "date": "2019-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "中村 優斗",
+     "self": false
+    },
+    {
+     "name": "小山 剛史",
+     "self": false
+    },
+    {
+     "name": "永田 雅貴",
+     "self": false
+    },
+    {
+     "name": "中西 勇介",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "岸田 英夫",
+     "self": false
+    }
+   ],
+   "title": "単層カーボンナノチューブに内包されたMoTeナノワイヤーのラマン散乱スペクトル",
+   "event": "日本物理学会 2019年秋季大会",
+   "number": "12pK24-2",
+   "location": "岐阜大学（柳戸キャンパス）",
+   "urls": [
+    "https://doi.org/10.11316/jpsgaiyo.74.2.0_1527"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15904990",
+   "category": "domestic",
+   "year": 2019,
+   "date": "2019-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "古田蒔人",
+     "self": false
+    },
+    {
+     "name": "Isfeldt Gusten",
+     "self": false
+    },
+    {
+     "name": "徐東郁",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "分子動力学法を用いたセルロースナノファイバーの熱伝導解析",
+   "event": "第56回日本伝熱シンポジウム",
+   "number": "H224",
+   "location": "あわぎんホール 徳島県郷土文化会館",
+   "urls": [
+    "http://htsj-conf.org/symp2019/files/program_nhts56.pdf",
+    "http://htsj-conf.org/symp2019/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919976",
+   "category": "domestic",
+   "year": 2019,
+   "date": "2019-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Yusuke Nakanishi",
+     "self": false
+    },
+    {
+     "name": "Masataka Nagata",
+     "self": false
+    },
+    {
+     "name": "Shivani Shukla",
+     "self": false
+    },
+    {
+     "name": "Zheng Liu",
+     "self": false
+    },
+    {
+     "name": "Yung-Chang Lin",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Yuto Nakamura",
+     "self": false
+    },
+    {
+     "name": "Takeshi Koyama",
+     "self": false
+    },
+    {
+     "name": "Hideo Kishida",
+     "self": false
+    },
+    {
+     "name": "Kazu Suenaga",
+     "self": false
+    },
+    {
+     "name": "Hisanori Shinohara",
+     "self": false
+    }
+   ],
+   "title": "Isolation of Single-wired Transition Metal Monochalcogenides by Carbon Nanotubes",
+   "event": "第56回 フラーレン・ナノチューブ・グラフェン 総合シンポジウム",
+   "number": "1-2",
+   "location": "東京大学 伊藤国際学術研究センター 伊藤謝恩ホール",
+   "urls": [
+    "http://fntg.jp/jp/sympo56/index.html",
+    "https://fntg.jp/jp_new/symposium/sympo56/doc/fntg56_program_j_20190209.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919967",
+   "category": "international",
+   "year": 2018,
+   "date": "2018-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Xiaoxiang Yu",
+     "self": false
+    },
+    {
+     "name": "Ruiyang Li",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Lei Feng",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    },
+    {
+     "name": "Nuo Yang",
+     "self": false
+    }
+   ],
+   "title": "Doping effects on thermal transport properties of PEDOT",
+   "event": "16th International Heat Transfer Conference",
+   "location": "Beijing, China",
+   "urls": [
+    "http://dx.doi.org/10.1615/IHTC16.mpe.022461"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919965",
+   "category": "international",
+   "year": 2018,
+   "date": "2018-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Yuxuan Liao",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Why Coherent Phonons Contributions to Thermal Conductivity of Phononic Crystals Cannot be Observed at Room Temperature",
+   "event": "Phonons 2018 & PTES 2018 Joint Conference",
+   "location": "Nanjing, China",
+   "urls": [
+    "https://www.aconf.org/conf_158748.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919470",
+   "category": "domestic",
+   "year": 2018,
+   "date": "2018-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "ナノ構造制御による熱伝導率の温度依存性変調",
+   "event": "第55回日本伝熱シンポジウム",
+   "number": "F312",
+   "location": "札幌コンベンションセンター",
+   "urls": [
+    "http://htsj-conf.org/symp2018/index.html",
+    "http://htsj-conf.org/symp2018/files/program_20180524.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15905824",
+   "category": "domestic",
+   "year": 2018,
+   "date": "2018-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "柏木 誠",
+     "self": false
+    },
+    {
+     "name": "小西 翔太",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "自己組織化手法による低熱伝導率バルクナノスケール構造シリコンの実現",
+   "event": "第55回日本伝熱シンポジウム",
+   "number": "F323",
+   "location": "札幌コンベンションセンター",
+   "urls": [
+    "http://htsj-conf.org/symp2018/index.html",
+    "http://htsj-conf.org/symp2018/files/program_20180524.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15905823",
+   "category": "domestic",
+   "year": 2018,
+   "date": "2018-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "大西 正人",
+     "self": false
+    },
+    {
+     "name": "Park Woosung",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Park Joonsuk",
+     "self": false
+    },
+    {
+     "name": "嶋田 行志",
+     "self": false
+    },
+    {
+     "name": "篠原 久典",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "Goodson Kenneth",
+     "self": false
+    }
+   ],
+   "title": "フラーレン分子の内包によるカーボンナノチューブの熱伝導性変調効果",
+   "event": "第55回日本伝熱シンポジウム",
+   "number": "F313",
+   "location": "札幌コンベンションセンター",
+   "urls": [
+    "http://htsj-conf.org/symp2018/index.html",
+    "http://htsj-conf.org/symp2018/files/program_20180524.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-31787512",
+   "category": "domestic",
+   "year": 2018,
+   "date": "2018-03-05",
+   "date_precision": "day",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    }
+   ],
+   "title": "Recent development and trend of heat conduction analysis for nanostructured bulk and phononic crystals",
+   "event": "応用物理学会北海道支部講演会",
+   "location": "北海道大学工学部応用物理学専攻会議室 （A3-62）",
+   "urls": [
+    "https://annex.jsap.or.jp/hokkaido/H30_work/H30Seminar_20180305_T_Shiga.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919962",
+   "category": "international",
+   "year": 2018,
+   "date": "2018-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Yuxuan Liao",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Mechanism of Coherence Heat Conduction in Phononic Crystal",
+   "event": "APS March Meeting 2018",
+   "number": "X29.00004",
+   "location": "Los Angeles, California",
+   "urls": [
+    "https://meetings.aps.org/Meeting/MAR18/Session/X29.4"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919961",
+   "category": "international",
+   "year": 2018,
+   "date": "2018-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Lei Feng",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Haoxue Han",
+     "self": false
+    },
+    {
+     "name": "Shenghong Ju",
+     "self": false
+    },
+    {
+     "name": "Yuriy A. Kosevich",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Phonon-interferene Resonance Effects of Nanoparticles Embedded in a Matrix",
+   "event": "APS March Meeting 2018",
+   "number": "X29.00012",
+   "urls": [
+    "https://meetings.aps.org/Meeting/MAR18/Session/X29.12"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919787",
+   "category": "domestic",
+   "year": 2018,
+   "date": "2018-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "和田 範之",
+     "self": false
+    },
+    {
+     "name": "石川 誠",
+     "self": false
+    },
+    {
+     "name": "鈴木 勝",
+     "self": false
+    },
+    {
+     "name": "佐々木 成朗",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "三浦 浩治",
+     "self": false
+    }
+   ],
+   "title": "MoS2(0001)表面ナノアイランドでのフォノン潤滑2",
+   "event": "2018年度日本物理学会第73回年次大会",
+   "number": "22pPSB-70",
+   "location": "東京理科大学（野田キャンパス）",
+   "urls": [
+    "https://doi.org/10.11316/jpsgaiyo.73.1.0_2394"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919476",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "手島 健志",
+     "self": false
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "柏木 誠",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "単結晶シリコン薄膜の面内熱伝導率の厚さ依存性の検証",
+   "event": "第38回日本熱物性シンポジウム",
+   "number": "A124",
+   "location": "産業技術総合研究所 つくばセンター 共用講堂",
+   "urls": [
+    "http://jstp2017.org/",
+    "http://jstp2017.org/FinalProgram.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919475",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "柏木誠",
+     "self": false
+    },
+    {
+     "name": "小西翔太",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "児玉高志",
+     "self": false
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "自己組織化を用いた低熱伝導率バルクシリコンの作製と熱電性能評価",
+   "event": "第38回日本熱物性シンポジウム",
+   "number": "A123",
+   "location": "産業技術総合研究所 つくばセンター 共用講堂",
+   "urls": [
+    "http://jstp2017.org/",
+    "http://jstp2017.org/FinalProgram.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919958",
+   "category": "international",
+   "year": 2017,
+   "date": "2017-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Masato Ohnishi",
+     "self": false
+    },
+    {
+     "name": "Takashi Kodama",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Modulation of Thermoelectric Properties of Carbon Nanotubes using Defects and Strain",
+   "event": "The 9th JSME-KSME Thermal and Fluids Engineering Conference (TFEC9)",
+   "location": "Okinawa, Japan",
+   "invited": false
+  },
+  {
+   "id": "rm-15919799",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "和田 範之",
+     "self": false
+    },
+    {
+     "name": "石川 誠",
+     "self": false
+    },
+    {
+     "name": "鈴木 勝",
+     "self": false
+    },
+    {
+     "name": "佐々木 成朗",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "三浦 浩治",
+     "self": false
+    }
+   ],
+   "title": "MoS2(0001)表面ナノアイランドでのフォノン潤滑2",
+   "event": "2017年度日本物理学会秋季大会",
+   "location": "宇都宮大学, 岩手大学",
+   "invited": false
+  },
+  {
+   "id": "rm-15919795",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "和田 範之",
+     "self": false
+    },
+    {
+     "name": "石川 誠",
+     "self": false
+    },
+    {
+     "name": "鈴木 勝",
+     "self": false
+    },
+    {
+     "name": "佐々木 成朗",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "三浦 浩治",
+     "self": false
+    }
+   ],
+   "title": "MoS_2_(0001)表面ナノアイランドでのフォノン潤滑",
+   "event": "2017年真空・表面科学合同講演会",
+   "location": "横浜市立大学金沢八景キャンパス",
+   "urls": [
+    "https://www.jstage.jst.go.jp/article/sssj2008/37/0/37_106/_article/-char/ja/",
+    "http://www.sssj.org/annual/mtg2017/"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919955",
+   "category": "international",
+   "year": 2017,
+   "date": "2017-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Manipulation of thermal conductivity of material by nanostructure, interface, and local&non-local wave nature of phonon",
+   "event": "Recent Progress in the Physics of Thermal Transport",
+   "location": "Izmir Institute of Technology Erdal Saygın Conference Hall",
+   "urls": [
+    "http://ictp-ecar.org/events/rptt-2/"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-15919951",
+   "category": "international",
+   "year": 2017,
+   "date": "2017-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Yuxuan Liao",
+     "self": false
+    },
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Contributions of coherent and incoherent phonons to heat conduction",
+   "event": "9th US-Japan Joint Seminar on Nanoscale Transport Phenomena",
+   "location": "KKR Hotel Tokyo, Tokyo, Japan",
+   "invited": true
+  },
+  {
+   "id": "rm-15919478",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "馮 磊",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "Han Haoxue",
+     "self": false
+    },
+    {
+     "name": "Shenghong Ju",
+     "self": false
+    },
+    {
+     "name": "Kosevich",
+     "self": false
+    },
+    {
+     "name": "Yuriy A",
+     "self": false
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "母材に埋め込まれたナノ粒子のフォノン共鳴効果",
+   "event": "第54回日本伝熱シンポジウム",
+   "number": "G232",
+   "location": "大宮ソニックシティ",
+   "urls": [
+    "http://htsj-conf.org/symp2017/",
+    "http://htsj-conf.org/symp2017/files/NHTS54%20program%20(final).pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919477",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "太田 アウン",
+     "self": false
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "グラフェンと金属の界面熱抵抗",
+   "event": "第54回日本伝熱シンポジウム",
+   "number": "D221",
+   "location": "大宮ソニックシティ",
+   "urls": [
+    "http://htsj-conf.org/symp2017/index.html",
+    "http://htsj-conf.org/symp2017/files/NHTS54%20program%20(final).pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919948",
+   "category": "international",
+   "year": 2017,
+   "date": "2017-04",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Masato Ohnishi",
+     "self": false
+    },
+    {
+     "name": "Takashi Kodama",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Modulation of Thermoelectric Properties of Carbon Nanomaterials",
+   "event": "2017 MRS Spring Meeting & Exhibit",
+   "number": "NM2.8.02",
+   "location": "Phoenix, Arizona",
+   "urls": [
+    "https://www.mrs.org/spring2017"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919946",
+   "category": "international",
+   "year": 2017,
+   "date": "2017-04",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Heat Conduction Analysis Involving th Effect Arising from Phono Coherence",
+   "event": "2017 MRS Spring Meeting & Exhibit",
+   "location": "Phoenix, Arizona",
+   "urls": [
+    "https://www.mrs.org/spring2017"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919480",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "大西 正人",
+     "self": false
+    },
+    {
+     "name": "児玉 高志",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "カーボンナノチューブの熱電特性に及ぼす結晶乱れの影響",
+   "event": "第64回応用物理学会春季学術講演会",
+   "number": "15p-F206-6",
+   "location": "パシフィコ横浜",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2017.1.0_4031"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919479",
+   "category": "domestic",
+   "year": 2017,
+   "date": "2017-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "山脇 柾",
+     "self": false
+    },
+    {
+     "name": "Ju Shenghong",
+     "self": false
+    },
+    {
+     "name": "大西 正人",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "ベイズ最適化を用いた高性能熱電グラフェンナノリボン構造の探索",
+   "event": "第64回応用物理学会春季学術講演会",
+   "number": "15p-F206-7",
+   "location": "パシフィコ横浜",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2017.1.0_4032"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919936",
+   "category": "international",
+   "year": 2016,
+   "date": "2016-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Shenghong Ju",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Lei Feng",
+     "self": false
+    },
+    {
+     "name": "Zhufeng Hou",
+     "self": false
+    },
+    {
+     "name": "Koji Tsuda",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Designing Nanostructures for Interfacial Phonon Transport via Bayesian Optimization",
+   "event": "2016 MRS Fall Meeting & Exhibit",
+   "location": "Boston, Massachusetts",
+   "urls": [
+    "https://www.mrs.org/fall2016/fall-2016-symposia/?code=TC2"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919930",
+   "category": "international",
+   "year": 2016,
+   "date": "2016-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Masato Ohnishi",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Fluctuation of Thermoelectric Properties of Carbon Nanotubes",
+   "event": "Thirteenth International Conference on Flow Dynamics (ICFD2016)",
+   "number": "OS10-4",
+   "location": "Sendai International Center",
+   "urls": [
+    "http://www.ifs.tohoku.ac.jp/icfd2016/program/ProgramPrecise(FINAL).pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919924",
+   "category": "international",
+   "year": 2016,
+   "date": "2016-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Anuj Arora",
+     "self": false
+    },
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "Fumiki Mitsuhashi",
+     "self": false
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Thermal conductivity and rectification study of nanostructured graphene",
+   "event": "The 11th Asian Thermophysical Properties Conference (ATPC)",
+   "number": "OS8-12",
+   "location": "Pacifico Yokohama Annex Hall, Japan",
+   "urls": [
+    "http://atpc2016.org/program/ATPC2016_timetable_0925.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919486",
+   "category": "domestic",
+   "year": 2016,
+   "date": "2016-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Ju Shenghong",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Feng Lei",
+     "self": false
+    },
+    {
+     "name": "Hou Zhufeng",
+     "self": false
+    },
+    {
+     "name": "津田 宏治",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "フォノン輸送制御を目的としたベイズ最適化による界面ナノ構造の設計",
+   "event": "第77回応用物理学会秋季学術講演会",
+   "event_en": "第77回応用物理学会秋季学術講演会",
+   "number": "14p-B12-15",
+   "location": "朱鷺メッセ",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2016.2.0_3676"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919482",
+   "category": "domestic",
+   "year": 2016,
+   "date": "2016-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "熱伝導制御に向けた熱フォノンのコヒーレンス長の評価",
+   "event": "第77回応用物理学会秋季学術講演会",
+   "number": "14p-B12-2",
+   "location": "朱鷺メッセ",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2016.2.0_3663"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919481",
+   "category": "domestic",
+   "year": 2016,
+   "date": "2016-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "馮 磊",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Han Haoxue",
+     "self": false
+    },
+    {
+     "name": "Ju Shenghong",
+     "self": false
+    },
+    {
+     "name": "Kosevich A Yuriy",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "母材に埋め込めれたナノ粒子のフォノン共鳴効果",
+   "event": "第77回応用物理学会秋季学術講演会",
+   "number": "14p-B12-16",
+   "location": "朱鷺メッセ",
+   "urls": [
+    "https://doi.org/10.11470/jsapmeeting.2016.2.0_3677"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919918",
+   "category": "international",
+   "year": 2016,
+   "date": "2016-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Tuning phonon transport by nanostructures for thermoelectrics",
+   "event": "The 17th International Conference on High Pressure in Semiconductor Physics (HPSP-17) & Workshop on High-pressure Study on Superconducting (WHS)",
+   "location": "Sanjo Conference Hall",
+   "invited": true
+  },
+  {
+   "id": "rm-15919601",
+   "category": "domestic",
+   "year": 2016,
+   "date": "2016-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "柏木 誠",
+     "self": false
+    },
+    {
+     "name": "須藤 裕太",
+     "self": false
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "ナノポーラス構造シリコンの熱輸送特性",
+   "event": "第53回日本伝熱シンポジウム",
+   "number": "K222",
+   "location": "グランキューブ大阪（大阪府立国際会議場）",
+   "urls": [
+    "https://htsjconf.net/symp2016/index.html",
+    "https://htsjconf.net/symp2016/files/Programme_final.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919600",
+   "category": "domestic",
+   "year": 2016,
+   "date": "2016-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "明戸 大介",
+     "self": false
+    },
+    {
+     "name": "ライ フウ",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "高性能熱電変換材料の探索に向けた格子熱伝導のモデリング",
+   "event": "第53回日本伝熱シンポジウム",
+   "number": "K233",
+   "location": "グランキューブ大阪（大阪府立国際会議場）",
+   "invited": false
+  },
+  {
+   "id": "rm-15919599",
+   "category": "domestic",
+   "year": 2016,
+   "date": "2016-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "大西 正人",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "カーボンナノチューブの熱電性能に及ぼす局所変形と欠陥の影響",
+   "event": "第53回日本伝熱シンポジウム",
+   "number": "K234",
+   "location": "グランキューブ大阪（大阪府立国際会議場）",
+   "invited": false
+  },
+  {
+   "id": "rm-15919912",
+   "category": "international",
+   "year": 2016,
+   "date": "2016-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Masato Ohnishi",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Juniciro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Effects of Defects and Strain on Thermoelectric Properties of Single-walled Carbon Nanotubes",
+   "event": "APS March Meeting 2016",
+   "number": "L35.00004",
+   "location": "Baltimore, Maryland",
+   "urls": [
+    "http://meetings.aps.org/Meeting/MAR16/Session/L35.4"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919902",
+   "category": "international",
+   "year": 2016,
+   "date": "2016-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Makoto Kashiwagi",
+     "self": false
+    },
+    {
+     "name": "Yuta Sudo",
+     "self": false
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Thermal Conductivity of Porous Media from Phonon Transport Viewpoint",
+   "event": "The First Pacific Rim Thermal Engineering Conference (PRTEC)",
+   "location": "Waikoloa Beach Marriott Resort & Spa Hawaii's Big Island, USA",
+   "urls": [
+    "https://www.jsme.or.jp/ted/PRTEC2016/program/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919604",
+   "category": "domestic",
+   "year": 2016,
+   "date": "2016-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "明戸大介",
+     "self": false
+    },
+    {
+     "name": "Lei Feng",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "Thermal conductivity spectrum calculation from first-principles harmonic phonon theory",
+   "event": "日本熱電学会 計算&データ研究会",
+   "location": "東京大学本郷キャンパス 山上会館",
+   "invited": false
+  },
+  {
+   "id": "rm-15919893",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-12",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Heat conduction analysis from first principles",
+   "event": "Magnetics and Optics Research International Symposium (MORIS2015)",
+   "location": "Toyohashi University of Technology – Universiti Sains Malaysia Technology Collaboration Centre in Penang, Malaysia",
+   "invited": true
+  },
+  {
+   "id": "rm-15919870",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Investigation on Phonon Coherence for Heat Conduction Control",
+   "event": "Twelfth International Conference on Flow Dynamics (ICFD2015)",
+   "number": "OS10-1",
+   "location": "Sendai International Center",
+   "urls": [
+    "http://www.ifs.tohoku.ac.jp/icfd2015/program/PRECISE(Program).pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919628",
+   "category": "domestic",
+   "year": 2015,
+   "date": "2015-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "大西 正人",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "単層カーボンナノチューブの熱電性能に及ぼすひずみと欠陥の影響",
+   "event": "第7回マイクロ・ナノ工学シンポジウム",
+   "location": "朱鷺メッセ（新潟県新潟市）",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2015.7._29pm3-PN-_26"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919612",
+   "category": "domestic",
+   "year": 2015,
+   "date": "2015-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "フウライ",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "第一原理に基づいたチタン酸ストロンチウムのフォノン輸送解析",
+   "event": "12回日本熱電学会学術講演会",
+   "number": "S2B-5",
+   "location": "九州大学筑紫地区総合研究棟（C-Cube）",
+   "urls": [
+    "https://www.thermoelectrics.jp/zata/abstracts/TSJ2015.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919610",
+   "category": "domestic",
+   "year": 2015,
+   "date": "2015-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "明戸大介",
+     "self": false
+    },
+    {
+     "name": "馮磊",
+     "self": false
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "高性能熱電変換材料の探索に向けた格子熱伝導率のモデリング",
+   "event": "第12回日本熱電学会学術講演会",
+   "number": "S1A-4",
+   "location": "九州大学筑紫地区総合研究棟（ C-Cube ）",
+   "invited": false
+  },
+  {
+   "id": "rm-15919865",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Anuj Arora",
+     "self": false
+    },
+    {
+     "name": "Fumiki Mitsuhashi",
+     "self": false
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Thermal conductivity and rectification study of restructured Graphene",
+   "event": "The 15th International Conference on Phonon Scattering in Condensed Matter, Phonons 2015",
+   "location": "Nottingham, United Kingdom",
+   "urls": [
+    "https://www.nottingham.ac.uk/~ppzph/Phonons2015/Phonons%202015%20Program%20Booklet.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919861",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Lei Feng",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Phonon transport in perovskite SrTiO3 from first-principles",
+   "event": "The 34st International Conference on Thermoelectrics (ICT2015)",
+   "location": "International Congress Center Dresden, Dresden, Germany",
+   "urls": [
+    "http://www.its.org/content/ect2015-ict2015-dresden-34th-international-conference-thermoelectrics-13th-european"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919860",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Daisuke Aketo",
+     "self": false
+    },
+    {
+     "name": "Lei Feng",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Empirical model of heat conduction for a screening of high-performance thermoelectric materials",
+   "event": "The 34st International Conference on Thermoelectrics (ICT2015)",
+   "location": "International Congress Center Dresden, Dresden, Germany",
+   "urls": [
+    "http://www.its.org/content/ect2015-ict2015-dresden-34th-international-conference-thermoelectrics-13th-european"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919619",
+   "category": "domestic",
+   "year": 2015,
+   "date": "2015-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "熱伝導制御に向けたフォノンのコヒーレンス長の評価",
+   "event": "第52回日本伝熱シンポジウム",
+   "number": "H113",
+   "location": "福岡国際会議場",
+   "urls": [
+    "https://htsjconf.net/symp2015/files/Programme_08May2015.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919618",
+   "category": "domestic",
+   "year": 2015,
+   "date": "2015-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "馮 磊",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "第一原理計算にもとづいたSrTiO3のフォノン輸送解析",
+   "event": "第52回日本伝熱シンポジウム",
+   "number": "I234",
+   "location": "福岡国際会議場",
+   "urls": [
+    "https://htsjconf.net/symp2015/files/Programme_08May2015.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919617",
+   "category": "domestic",
+   "year": 2015,
+   "date": "2015-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "アヌージ アローラ",
+     "self": false
+    },
+    {
+     "name": "三橋 史樹",
+     "self": false
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "再構造化グラフェンの熱伝導および整流性",
+   "event": "第52回日本伝熱シンポジウム",
+   "number": "I314",
+   "location": "福岡国際会議場",
+   "urls": [
+    "https://htsjconf.net/symp2015/files/Programme_08May2015.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919850",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Spectral analysis of interfacial phonon transport across dissimilar crystalline solids",
+   "event": "The 5th International Symposium on Micro and Nano Technology (ISMNT-5)",
+   "number": "S2-112",
+   "location": "University of Calgary, Calgary, Canada",
+   "invited": false
+  },
+  {
+   "id": "rm-15919857",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-04",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Tsubasa Otsubo",
+     "self": false
+    },
+    {
+     "name": "Hideaki Otake",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    },
+    {
+     "name": "Masaru Itakura",
+     "self": false
+    },
+    {
+     "name": "Haruhiko Udono",
+     "self": false
+    }
+   ],
+   "title": "Effect of Bi and Sb Dopant on Lattice Thermal Conductivity in Melt Grown Mg2Si",
+   "event": "2015 MRS Spring Meeting & Exhibit",
+   "number": "CC9.08",
+   "location": "San Francisco",
+   "urls": [
+    "https://www.mrs.org/spring2015"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919856",
+   "category": "international",
+   "year": 2015,
+   "date": "2015-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Effect of phonon-blocking at sintered interfaces",
+   "event": "APS March Meeting 2015",
+   "location": "San Antonio, Texas",
+   "urls": [
+    "http://meetings.aps.org/Meeting/MAR15/Session/D12.4"
+   ],
+   "invited": true
+  },
+  {
+   "id": "rm-15919629",
+   "category": "domestic",
+   "year": 2014,
+   "date": "2014-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "前野 俊介",
+     "self": false
+    },
+    {
+     "name": "カノン ジェームス",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "分子動力学シミュレーションを用いたPEDOTの熱伝導解析",
+   "event": "日本機械学会 熱工学コンファレンス2014",
+   "number": "B214",
+   "location": "芝浦工業大学 豊洲キャンパス",
+   "urls": [
+    "https://doi.org/10.1299/jsmeted.2014._B214-1_"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919645",
+   "category": "domestic",
+   "year": 2014,
+   "date": "2014-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "明戸 大介",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "ナノ構造化熱電材料のスクリーニングに向けた累積熱伝導率のモデル化",
+   "event": "第11回日本熱電学会学術講演会",
+   "number": "S8-3",
+   "location": "独立行政法人物質・材料研究機構千現地区管理棟",
+   "urls": [
+    "http://www.thermoelectrics.jp/zata/abstracts/TSJ2014.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919640",
+   "category": "domestic",
+   "year": 2014,
+   "date": "2014-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "大竹 秀明",
+     "self": false
+    },
+    {
+     "name": "大坪 翼",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "板倉 賢",
+     "self": false
+    },
+    {
+     "name": "鵜殿 治彦",
+     "self": false
+    }
+   ],
+   "title": "Mg2Si結晶中のSb，Bi不純物による格子欠陥が及ぼす影響",
+   "event": "第11回日本熱電学会学術講演会",
+   "number": "S2-4",
+   "location": "独立行政法人物質・材料研究機構千現地区管理棟",
+   "urls": [
+    "https://www.thermoelectrics.jp/zata/abstracts/TSJ2014.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919855",
+   "category": "international",
+   "year": 2014,
+   "date": "2014-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Thermal Conductivity Calculation of Magnesium Silicide Alloys by lattice Dynamics and Molecular Dynamics Methods",
+   "event": "The 15th International Heat Transfer Conference (IHTC-15)",
+   "location": "Kyoto International Conference Center",
+   "urls": [
+    "https://doi.org/10.1615/IHTC15.ppe.009156"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919852",
+   "category": "international",
+   "year": 2014,
+   "date": "2014-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Anormalous lattice dynamics of lead telluride arising from strong anharmonicity",
+   "event": "8th US-Japan Joint Seminar on Nanoscale Transport Phenomena - Science and Engineering -",
+   "location": "Chaminade Resort, Santa Cruz, CA, USA",
+   "invited": true
+  },
+  {
+   "id": "rm-15919851",
+   "category": "international",
+   "year": 2014,
+   "date": "2014-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    },
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    }
+   ],
+   "title": "Phonon transport calculations of crystals with strong anharmonicity, disorder, interfaces, and nano structures",
+   "event": "8th US-Japan Joint Seminar on Nanoscale Transport Phenomena - Science and Engineering -",
+   "location": "Chaminade Resort, Santa Cruz, CA, USA",
+   "invited": false
+  },
+  {
+   "id": "rm-15919676",
+   "category": "domestic",
+   "year": 2014,
+   "date": "2014-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "村上 拓",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "マグネシウムシリサイド合金結晶の格子熱伝導解析",
+   "event": "第51回日本伝熱シンポジウム",
+   "number": "D134",
+   "location": "アクトシティ浜松(浜松)コングレスセンター",
+   "invited": false
+  },
+  {
+   "id": "rm-15919672",
+   "category": "domestic",
+   "year": 2014,
+   "date": "2014-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "明戸 大介",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "累積熱伝導率モデルを用いたナノ構造化熱電材料のスクリーニング",
+   "event": "第51回日本伝熱シンポジウム",
+   "location": "アクトシティ浜松(浜松)コングレスセンター",
+   "invited": false
+  },
+  {
+   "id": "rm-15919669",
+   "category": "domestic",
+   "year": 2014,
+   "date": "2014-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "小宅 教文",
+     "self": false
+    },
+    {
+     "name": "村上 拓",
+     "self": false
+    },
+    {
+     "name": "坂田 昌則",
+     "self": false
+    },
+    {
+     "name": "三浦 飛鳥",
+     "self": false
+    }
+   ],
+   "title": "ナノ構造や界面フォノン輸送物性にもとづく熱伝導制御ストラテジ",
+   "event": "第51回日本伝熱シンポジウム",
+   "location": "アクトシティ浜松(浜松)コングレスセンター",
+   "invited": false
+  },
+  {
+   "id": "rm-15919683",
+   "category": "domestic",
+   "year": 2013,
+   "date": "2013-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "村上拓",
+     "self": false
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "バルクナノ構造化熱電材料における界面構造のフォノン輸送への影響",
+   "event": "第5回マイクロ・ナノ工学シンポジウム",
+   "number": "7PM1-C-4",
+   "location": "仙台国際センター（宮城県仙台市）",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2013.5.283"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919849",
+   "category": "international",
+   "year": 2013,
+   "date": "2013-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Heat Conduction of Alloyed Thermoelectric Materials and Its Structure Dependence",
+   "event": "The 4th International Symposium Micro and Nano Technology (ISMNT-4)",
+   "number": "ID-120",
+   "location": "Shanghai Second Polytechnic University, Shanghai, China",
+   "invited": false
+  },
+  {
+   "id": "rm-15919847",
+   "category": "international",
+   "year": 2013,
+   "date": "2013-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Investigations of the lattice thermal conductiivty of Mg2Si from first principles",
+   "event": "The 32nd International Conference on Thermoelectrics (ICT2013)",
+   "location": "Kobe International Conference Center",
+   "urls": [
+    "http://ict2013.its.org/index.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919689",
+   "category": "domestic",
+   "year": 2013,
+   "date": "2013-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "村上 拓",
+     "self": false
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "中温領域用の熱電変換材料の第一原理熱伝導解析",
+   "event": "第50回日本伝熱シンポジウム",
+   "number": "D232",
+   "location": "ウェスティンホテル仙台およびトラスシティカンファレンス・仙台",
+   "urls": [
+    "https://www.htsj.or.jp/nhts2013/pdf/program.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919706",
+   "category": "domestic",
+   "year": 2012,
+   "date": "2012-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "堀琢磨",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "モンテカルロ法を用いたナノ構造化熱電材料の格子熱伝導解析",
+   "event": "第4回マイクロ・ナノ工学シンポジウム",
+   "location": "国際会議場・西日本総合展示場",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2012.4.285"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919701",
+   "category": "domestic",
+   "year": 2012,
+   "date": "2012-10",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "村上 拓",
+     "self": false
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "第一原理に基づいた非調和格子動力学法及び分子動力学法による熱電変換材料の熱伝導解析",
+   "event": "第4回マイクロ・ナノ工学シンポジウム",
+   "location": "北九州国際会議場・西日本総合展示場",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2012.4.67"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919722",
+   "category": "domestic",
+   "year": 2012,
+   "date": "2012-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "マグネシウムシリサイドの第一原理熱伝導解析",
+   "event": "第9回日本熱電学会学術講演会",
+   "location": "東京工業大学蔵前会館",
+   "urls": [
+    "https://www.thermoelectrics.jp/zata/abstracts/TSJ2012.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919720",
+   "category": "domestic",
+   "year": 2012,
+   "date": "2012-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "村上 拓",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "Zhiting Tian",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "分子動力学法によるPbTe1-xSexの格子熱伝導解析",
+   "event": "第9回日本熱電学会学術講演会",
+   "location": "東京工業大学蔵前会館",
+   "urls": [
+    "https://www.thermoelectrics.jp/zata/abstracts/TSJ2012.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919840",
+   "category": "international",
+   "year": 2012,
+   "date": "2012-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Jie Ma",
+     "self": false
+    },
+    {
+     "name": "Olivier Delaire",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Microscopic mechanism of low thermal conductivity in lead terullide",
+   "event": "The 31st International & 10th European Conference on Thermoelectrics",
+   "number": "A4_10",
+   "location": "Aalborg, Denmark",
+   "urls": [
+    "http://ict2012.its.org/system/files/ICT2012_Programme.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919839",
+   "category": "international",
+   "year": 2012,
+   "date": "2012-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Zhiting Tian",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Molecular dynamics study on lattice thermal conductivity of PbTe1-xSex alloys",
+   "event": "The 31st International & 10th European Conference on Thermoelectrics",
+   "number": "A4_9",
+   "location": "Aalborg, Denmark",
+   "urls": [
+    "http://ict2012.its.org/system/files/ICT2012_Programme.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919835",
+   "category": "international",
+   "year": 2012,
+   "date": "2012-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Probing phonon transport properties of silicon germanium alloy crystals by molecular dynamics",
+   "event": "The 31st International & 10th European Conference on Thermoelectrics",
+   "location": "Aalborg, Denmark",
+   "urls": [
+    "http://ict2012.its.org/system/files/ICT2012_Detailed%20Programme.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919832",
+   "category": "international",
+   "year": 2012,
+   "date": "2012-07",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Zhiting Tian",
+     "self": false
+    },
+    {
+     "name": "Jivtesh Garg",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    }
+   ],
+   "title": "Low Thermal Conductivity of Lead Selenide and Lead Telluride from First Principles",
+   "event": "ASME 2012 Summer Heat Transfer Conference",
+   "location": "Wyndham Rio Mar Beach Resort, Puerto Rico",
+   "urls": [
+    "https://www.asmeconferences.org/HT2012/PaperAccepted.cfm?noToolbar=yes"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919744",
+   "category": "domestic",
+   "year": 2012,
+   "date": "2012-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "丸山 茂夫",
+     "self": false
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "分子動力学法による合金化したシリコン結晶のフォノン輸送解析",
+   "event": "第49回日本伝熱シンポジウム",
+   "number": "B341",
+   "location": "富山国際会議場",
+   "invited": false
+  },
+  {
+   "id": "rm-15919737",
+   "category": "domestic",
+   "year": 2012,
+   "date": "2012-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "丸山 茂夫",
+     "self": false
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "摂動論的アプローチによる合金結晶のフォノン輸送解析",
+   "event": "第49回日本伝熱シンポジウム",
+   "number": "B342",
+   "location": "富山国際会議場",
+   "invited": false
+  },
+  {
+   "id": "rm-15919752",
+   "category": "domestic",
+   "year": 2012,
+   "date": "2012-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "村上拓",
+     "self": false
+    },
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "堀琢磨",
+     "self": false
+    },
+    {
+     "name": "Tian Zhiting",
+     "self": false
+    },
+    {
+     "name": "Esfarjani Keivan",
+     "self": false
+    },
+    {
+     "name": "Chen Gang",
+     "self": false
+    },
+    {
+     "name": "塩見淳一郎",
+     "self": false
+    }
+   ],
+   "title": "分子動力学法による鉛テルルの格子熱伝導解析",
+   "number": "H133",
+   "location": "富山国際会議場",
+   "invited": false
+  },
+  {
+   "id": "rm-15919831",
+   "category": "international",
+   "year": 2012,
+   "date": "2012-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Takuru Murakami",
+     "self": false
+    },
+    {
+     "name": "Shigeo Maruyama",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Investigation of phonon mass-difference scattering model by molecular dynamics",
+   "event": "APS March Meeting 2012",
+   "number": "P17.00004",
+   "location": "Boston, Massachusetts",
+   "urls": [
+    "http://meetings.aps.org/Meeting/MAR12/Session/P17"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919829",
+   "category": "international",
+   "year": 2011,
+   "date": "2011-12",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Shigeo Maruyama",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Modal analysis of mass-difference phonon scattering in alloyed crystals based on molecular dynamics simulations",
+   "event": "7th US-Japan Joint Seminar on Nanoscale Transport Phenomena",
+   "invited": false
+  },
+  {
+   "id": "rm-15919828",
+   "category": "international",
+   "year": 2011,
+   "date": "2011-12",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Shigeo Maruyama",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Molecular dynamics analysis of phonon isotope scattering: Validity and limit of mass perturbation approach",
+   "event": "7th US-Japan Joint Seminar on Nanoscale Transport Phenomena",
+   "event_en": "7th US-Japan Joint Seminar on Nanoscale Transport Phenomena",
+   "invited": false
+  },
+  {
+   "id": "rm-15919830",
+   "category": "international",
+   "year": 2011,
+   "date": "2011-11",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Zhiting Tian",
+     "self": false
+    },
+    {
+     "name": "Jivtesh Garg",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    }
+   ],
+   "title": "Phonon Conduction in Lead Selenide from First Principles",
+   "event": "2011 MRS Fall Meeting & Exhibit",
+   "location": "Boston",
+   "urls": [
+    "https://mrs.org/fall2011/symposium-sessions/?code=W"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919773",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "丸山 茂夫",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "分子動力学を用いたシリコン結晶のフォノン輸送解析",
+   "event": "第3回マイクロ・ナノ工学シンポジウム",
+   "location": "タワーホール船堀",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2011.3.73"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919771",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "丸山 茂夫",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "合金結晶のフォノン輸送の分子動力学解析",
+   "event": "第3回マイクロ・ナノ工学シンポジウム",
+   "location": "タワーホール船堀",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2011.3.81"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919770",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "飛田 翔",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "丸山 茂夫",
+     "self": false
+    },
+    {
+     "name": "James A. Elliott",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "カーボンナノチューブ・ポリマー複合材の異方性熱伝導に関する分子動力学",
+   "event": "第3回マイクロ・ナノ工学シンポジウム",
+   "location": "タワーホール船堀",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2011.3.79"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919769",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-09",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    }
+   ],
+   "title": "第一原理に基づいた熱電変換材料の熱伝導解析",
+   "event": "第3回マイクロ・ナノ工学シンポジウム",
+   "number": "OS1-2",
+   "location": "タワーホール船堀",
+   "urls": [
+    "https://doi.org/10.1299/jsmemnm.2011.3.51"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919775",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    }
+   ],
+   "title": "第一原理に基づく結晶熱電材料の格子熱伝導解析",
+   "event": "第8回日本熱電学会学術講演会",
+   "number": "S2-3",
+   "location": "北海道大学学術交流会館",
+   "urls": [
+    "https://www.thermoelectrics.jp/zata/abstracts/TSJ2011.pdf"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919774",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-08",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    }
+   ],
+   "title": "第一原理計算による鉛テルライドのフォノン伝導解析",
+   "event": "第72回応用物理学会学術講演会",
+   "location": "山形大学 小白川キャンパス",
+   "urls": [
+    "https://www.jsap.or.jp/archives/jsap-meeting/program2011a/Settings/html/field/09/9_4.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919778",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    },
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    }
+   ],
+   "title": "第一原理に基づいた鉛テルライドのフォノン伝導解析",
+   "event": "第48回日本伝熱シンポジウム",
+   "location": "岡山",
+   "urls": [
+    "https://doi.org/10.11368/nhts.2011.0.138.0"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919777",
+   "category": "domestic",
+   "year": 2011,
+   "date": "2011-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "堀 琢磨",
+     "self": false
+    },
+    {
+     "name": "志賀 拓麿",
+     "self": true
+    },
+    {
+     "name": "丸山 茂夫",
+     "self": false
+    },
+    {
+     "name": "塩見 淳一郎",
+     "self": false
+    }
+   ],
+   "title": "シリコンにおけるフォノン輸送の分子動力学解析",
+   "event": "第48回日本伝熱シンポジウム",
+   "location": "岡山",
+   "urls": [
+    "https://doi.org/10.11368/nhts.2011.0.128.0"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15919845",
+   "category": "international",
+   "year": 2011,
+   "date": "2011-05",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Keivan Esfarjani",
+     "self": false
+    },
+    {
+     "name": "Zhiting Tian",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Tengfei Luo",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    },
+    {
+     "name": "Jivtesh Garg",
+     "self": false
+    },
+    {
+     "name": "Olivier Delaire",
+     "self": false
+    },
+    {
+     "name": "Gang Chen",
+     "self": false
+    }
+   ],
+   "title": "Spectral Phonon Transport Properties of Thermoelectric Materials from First-Principles Calculations",
+   "event": "Science for our Nation’s Energy Future: EFRC forum",
+   "location": "Washington D. C.",
+   "invited": false
+  },
+  {
+   "id": "rm-15919827",
+   "category": "international",
+   "year": 2011,
+   "date": "2011-04",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Takuma Hori",
+     "self": false
+    },
+    {
+     "name": "Shigeo Maruyama",
+     "self": false
+    },
+    {
+     "name": "Junichiro Shiomi",
+     "self": false
+    }
+   ],
+   "title": "Molecular dynamics simulation of phonon conduction in alloy crystals",
+   "event": "2011 MRS Spring Meeting & Exhibit",
+   "event_en": "2011 MRS Spring Meeting & Exhibit",
+   "number": "BB9.6",
+   "location": "San Francisco",
+   "invited": false
+  },
+  {
+   "id": "rm-15919809",
+   "category": "international",
+   "year": 2010,
+   "date": "2010-06",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "Takahiro Yamamoto",
+     "self": false
+    },
+    {
+     "name": "Takuma Shiga",
+     "self": true
+    },
+    {
+     "name": "Satoru Konabe",
+     "self": false
+    },
+    {
+     "name": "Susumu Okada",
+     "self": false
+    }
+   ],
+   "title": "Electronic and thermal properties of grapheme-diamond hybrid structure",
+   "event": "NT10: Eleventh International Conference on the Science and Application of Nanotubes",
+   "invited": false
+  },
+  {
+   "id": "rm-15919781",
+   "category": "domestic",
+   "year": 2009,
+   "date": "2009-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "西村史生",
+     "self": false
+    },
+    {
+     "name": "高橋徹",
+     "self": false
+    },
+    {
+     "name": "Edurado R. Hernandez",
+     "self": false
+    },
+    {
+     "name": "渡辺一之",
+     "self": false
+    }
+   ],
+   "title": "温度勾配をもつカーボンナノチューブにおける質量輸送",
+   "event": "日本物理学会第64回年次大会",
+   "number": "29pYH-7",
+   "location": "立教大学",
+   "urls": [
+    "https://doi.org/10.11316/jpsgaiyo.64.1.4.0_851_1",
+    "https://w4.gakkai-web.net/jps_search/2009sp/07.html"
+   ],
+   "invited": false
+  },
+  {
+   "id": "rm-15904960",
+   "category": "domestic",
+   "year": 2009,
+   "date": "2009-03",
+   "date_precision": "month",
+   "authors": [
+    {
+     "name": "志賀拓麿",
+     "self": true
+    },
+    {
+     "name": "高橋徹",
+     "self": false
+    },
+    {
+     "name": "Riccardo Rurali",
+     "self": false
+    },
+    {
+     "name": "Eduardo R. Hernandez",
+     "self": false
+    },
+    {
+     "name": "渡辺一之",
+     "self": false
+    }
+   ],
+   "title": "Molecular-Dynamics Simulations of Phonon Assisted Mass Transport in Carbon Nanotubes",
+   "event": "第36回フラーレン・ナノチューブ総合シンポジウム",
+   "number": "1P-12",
+   "location": "名城大学 共通講義棟北館",
+   "urls": [
+    "https://fntg.jp/jp_new/symposium/sympo36/36all.htm",
+    "https://fntg.jp/jp_new/symposium/sympo36/36th_program_j.pdf"
+   ],
+   "invited": false
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{{- /*
+  研究発表一覧（data/presentations.json）を年別に表示する。
+  使い方: {{< presentations category="international" >}} / {{< presentations category="domestic" >}}
+  データは tools/presentations/export_public.py で生成する（直接編集しない）。
+*/ -}}
+{{- $cat := .Get "category" -}}
+{{- $en := eq .Page.Language.Lang "en" -}}
+{{- $items := where site.Data.presentations.items "category" $cat -}}
+{{- $years := slice -}}
+{{- range $items }}{{ $years = $years | append .year }}{{ end -}}
+{{- $years = sort (uniq $years) "value" "desc" -}}
+{{- $remaining := len $items -}}
+{{- $months := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" -}}
+{{- range $years }}
+{{- $y := . }}
+{{- $list := sort (where $items "year" $y) "date" "desc" }}
+<h3 id="{{ $cat }}-{{ $y }}">{{ $y }}</h3>
+<ol reversed start="{{ $remaining }}" class="pubs presentations">
+{{- range $list }}
+  {{- $ja := findRE `[ぁ-んァ-ヶ一-龠]` (printf "%s%s" .title (index .authors 0).name) 1 }}
+  {{- $sep := cond (gt (len $ja) 0) "，" ", " }}
+  {{- $p := split .date "-" }}
+  {{- $m := int (strings.TrimLeft "0" (index $p 1)) }}
+  {{- $date := "" }}
+  {{- if $en }}
+    {{- $date = printf "%s %s" (index $months (sub $m 1)) (index $p 0) }}
+    {{- if eq .date_precision "day" }}{{ $date = printf "%s %d, %s" (index $months (sub $m 1)) (int (strings.TrimLeft "0" (index $p 2))) (index $p 0) }}{{ end }}
+  {{- else }}
+    {{- $date = printf "%s年%d月" (index $p 0) $m }}
+    {{- if eq .date_precision "day" }}{{ $date = printf "%s%d日" $date (int (strings.TrimLeft "0" (index $p 2))) }}{{ end }}
+  {{- end }}
+  {{- $event := .event }}
+  {{- if and $en .event_en }}{{ $event = .event_en }}{{ end }}
+    <li>
+        {{ range $i, $a := .authors }}{{ if $i }}{{ $sep }}{{ end }}{{ if $a.self }}<strong>{{ $a.name }}</strong>{{ else }}{{ $a.name }}{{ end }}{{ end }}{{ $sep }}<br>
+        {{ .title }}{{ $sep }}<br>
+        {{- $parts := slice }}
+        {{- with $event }}{{ $parts = $parts | append (htmlEscape .) }}{{ end }}
+        {{- with .number }}{{ $parts = $parts | append (printf "<strong>%s</strong>" (htmlEscape .)) }}{{ end }}
+        {{- with .location }}{{ $parts = $parts | append (htmlEscape .) }}{{ end }}
+        {{ delimit $parts $sep | safeHTML }}{{ if $en }} ({{ $date }}){{ else }}（{{ $date }}）{{ end }}
+        {{- $n := len (.urls | default slice) }}
+        {{- range $i, $u := .urls }} [<a href="{{ $u }}" target="_blank" rel="noopener noreferrer">link{{ if gt $n 1 }}{{ add $i 1 }}{{ end }}</a>]{{ end }}
+        {{- if .invited }} <strong>{{ if $en }}[Invited]{{ else }}【招待講演】{{ end }}</strong>{{ end }}
+    </li>
+{{- end }}
+</ol>
+{{- $remaining = sub $remaining (len $list) }}
+{{- end }}

@@ -674,3 +674,10 @@ _build:
     </li>
 </ol>
 
+## 国際会議発表
+
+{{< presentations category="international" >}}
+
+## 国内学会発表
+
+{{< presentations category="domestic" >}}
