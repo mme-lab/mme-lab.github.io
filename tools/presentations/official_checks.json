@@ -1,0 +1,52 @@
+{
+  "_comment": "学会公式資料で確認した事実（公開情報のみ）。title_contains は照合用のタイトル断片。",
+  "checks": [
+    {
+      "title_contains": "シリコンの結晶・非晶質構造遷移における熱輸送モード発現の解析",
+      "presentation_number": "E33",
+      "presentation_date": "2026-10-26",
+      "title_official": "シリコンの結晶・非晶質構造遷移における熱輸送モード発現の解析",
+      "source": "熱工学コンファレンス2026 公式プログラム Ver261019 (p.9, 10月26日のセッション)",
+      "url": "https://www.jsme.or.jp/conference/tedconf26/files/TED26_Program_Ver261019.pdf?v=20261019"
+    },
+    {
+      "title_contains": "界面非線形性によるフォノン透過およびモード変換の波束解析",
+      "presentation_number": "C63",
+      "presentation_date": "2026-10-27",
+      "source": "熱工学コンファレンス2026 公式プログラム Ver261019 (p.17, 10月27日のセッション)",
+      "url": "https://www.jsme.or.jp/conference/tedconf26/files/TED26_Program_Ver261019.pdf?v=20261019"
+    },
+    {
+      "title_contains": "格子動力学計算とランダムスティックネットワーク法を用いたCNT薄膜の熱伝導解析",
+      "presentation_number": "B325",
+      "presentation_date": "2026-11-23",
+      "source": "第47回日本熱物性シンポジウム 公式プログラム 260728暫定版 (p.7, 第3日 11月23日 B室)",
+      "url": "https://jstp-symp.org/symp2026/files/jstp2026_program_260728.pdf"
+    },
+    {
+      "title_contains": "材料機能解明に向けたナノスケール熱輸送の理論・数値解析",
+      "presentation_date": "2026-11-19",
+      "invited": true,
+      "source": "第217回フロンティア材料研究所学術講演会 公式案内（ユーザー提供の公式ページ情報）",
+      "url": "https://www.msl.iir.isct.ac.jp/seminar/msl_lec217_jp/"
+    },
+    {
+      "title_contains": "フォノン熱輸送の理解と熱電・熱機能材料への展開",
+      "presentation_date": "2026-11-10",
+      "event_period": ["2026-11-09", "2026-11-11"],
+      "invited": true,
+      "source": "京都大学基礎物理学研究所 研究会案内（ユーザー提供の公式情報。開催期間 11/9–11、講演日 11/10）",
+      "url": "https://www.yukawa.kyoto-u.ac.jp/seminar/s53641"
+    }
+  ],
+  "hints": [
+    {
+      "title_contains": "Modal analysis of spectral thermal conductivity of amorphous oxide alloys",
+      "note": "researchmap の see_also に登録された confit URL のスラッグが D2-O9-05（英字 O）。Word=D2-09、researchmap description=D2-09-05 はいずれも 0（ゼロ）表記。confit の個別ページは公開終了（2026-10-31 時点でイベントトップへ転送）のため公式表記は未確認。"
+    },
+    {
+      "title_contains": "One-dimensional electrical transport in single-walled carbon nanotube two-dimensional thin films",
+      "note": "NT22 公式サイト（https://nt22.skku.edu/）に 2026-10-31 時点で接続できず、P2-I-16 / P2-I-17 のどちらが正しいか未確認。"
+    }
+  ]
+}
