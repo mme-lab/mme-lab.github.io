@@ -312,6 +312,7 @@ def build():
                                    "number": a["number"], "date": f"{a['year']}-{a['month']:02d}" + (f"-{a['day']:02d}" if a["day"] else ""),
                                    "invited": a["invited"], "links": a["links"]}
             rec["match"]["achievements"] = {"score": a_conf[r["rm_id"]][1], "month_diff": a_conf[r["rm_id"]][2]}
+            rec["urls"] += [u for u in a["links"] if u and u not in rec["urls"]]
         years = {int(r["date"][:4])} | ({int(r["from"][:4])} if r["from"] else set())
         resolve(rec, r, w, a, official_for([title_original, *rm_title_variants(r)], checks, years))
 
@@ -358,6 +359,13 @@ def build():
             "publishable": True, "publishable_reason": "研究室HP（Achievements）に掲載済み",
             "match": {},
         })
+        venue = re.sub(r"[（(]\d{4}年.*$", "", a["venue_raw"]).strip(" ，,")
+        parts = [x.strip() for x in re.split(r"[，,]", venue) if x.strip()]
+        if parts:
+            rec["event"], rec["sources"]["event"] = parts[0], "achievements"
+            rest = [x for x in parts[1:] if x != a["number"] and x not in PLACEHOLDER_NUMBERS]
+            if rest:
+                rec["location"], rec["sources"]["location"] = rest[-1], "achievements"
         rec["sources"]["category"] = "achievements"
         rec["issues"].append({"kind": "achievements_only", "detail": "researchmapに対応する登録が見つからない"
                               + ("（対応候補あり）" if a["ach_id"] in cand_ach else "")})
