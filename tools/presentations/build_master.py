@@ -211,7 +211,13 @@ def rm_duplicates(rm: list[dict]) -> list[tuple]:
 
 # ------------------------------------------------------------------ assembly
 
-def official_for(titles: list[str], checks: list[dict], years: set[int]) -> dict | None:
+def official_for(titles: list[str], checks: list[dict], years: set[int], rec_id: str | None = None) -> dict | None:
+    by_id = [c for c in checks if c.get("id")]
+    if rec_id:
+        hit = [c for c in by_id if c["id"] == rec_id]
+        if hit:
+            return hit[0]
+    checks = [c for c in checks if not c.get("id")]
     # 1〜2 文字の表記差（例：構造転移／構造遷移）でも対応付けられるよう類似度で判定する
     # 似たタイトルの別年の発表（例：Phonons 2015 と ATPC2016）に誤適用しないよう発表年も一致させる
     best = max(((max(title_score(c["title_contains"], t) for t in titles if t), c) for c in checks
@@ -314,7 +320,7 @@ def build():
             rec["match"]["achievements"] = {"score": a_conf[r["rm_id"]][1], "month_diff": a_conf[r["rm_id"]][2]}
             rec["urls"] += [u for u in a["links"] if u and u not in rec["urls"]]
         years = {int(r["date"][:4])} | ({int(r["from"][:4])} if r["from"] else set())
-        resolve(rec, r, w, a, official_for([title_original, *rm_title_variants(r)], checks, years))
+        resolve(rec, r, w, a, official_for([title_original, *rm_title_variants(r)], checks, years, rec["id"]))
 
     # ---- Word 資料のみ
     matched_word = {v[0] for v in w_conf.values()}
@@ -369,7 +375,7 @@ def build():
         rec["sources"]["category"] = "achievements"
         rec["issues"].append({"kind": "achievements_only", "detail": "researchmapに対応する登録が見つからない"
                               + ("（対応候補あり）" if a["ach_id"] in cand_ach else "")})
-        resolve(rec, None, None, a, official_for([a["title"]], checks, {a["year"]}))
+        resolve(rec, None, None, a, official_for([a["title"]], checks, {a["year"]}, rec["id"]))
 
     meta = {
         "as_of": AS_OF.isoformat(),
@@ -408,6 +414,21 @@ def resolve(rec, r, w, a, off):
                             "detail": f"researchmap={rec['category']} / {name}={other['section']}"})
 
     # ---------- 公式資料のタイトル・補足
+    if off and off.get("title_corrected"):
+        rec["title_before_correction"] = rec.get("title_original")
+        rec["title_original"] = off["title_corrected"]
+        if rec.get("title_ja") == rec["title_before_correction"]:
+            rec["title_ja"] = off["title_corrected"]
+        S["title_original"] = f"official（{off['source']}）"
+        iss.append({"kind": "title_corrected", "detail": f"{rec['title_before_correction']} → {off['title_corrected']}"})
+    if off and off.get("paper_number"):
+        rec["paper_number"], S["paper_number"] = off["paper_number"], f"official（{off['source']}）"
+    if off and off.get("board_number"):
+        rec["board_number"], S["board_number"] = off["board_number"], f"official（{off['source']}）"
+    if off and off.get("unverified_numbers"):
+        rec["number_candidates_unverified"] = off["unverified_numbers"]
+    if off and off.get("speaker"):
+        rec["speaker"], S["speaker"] = off["speaker"], f"official（{off['source']}）"
     if off and off.get("title_official"):
         rec["title_official"] = off["title_official"]
         if rec.get("title_original") and src.norm(rec["title_original"]) != src.norm(off["title_official"]):
@@ -444,6 +465,11 @@ def resolve(rec, r, w, a, off):
     if off and off.get("presentation_number"):
         cand["official"] = off["presentation_number"]
     rec["number_candidates"] = cand
+    # 論文番号：公式資料の値と、Word資料・researchmap 由来の旧記載との差を記録する
+    old = rec.get("proceedings_number")
+    if rec.get("paper_number") and old and old != rec["paper_number"] and not re.fullmatch(r"\d{3,}-\d{3,}", old):
+        iss.append({"kind": "paper_number_mismatch_resolved",
+                    "detail": f"確認済み資料で確定：official={rec['paper_number']} / 旧記載={old}（{S.get('proceedings_number')}）"})
     vals = {v.replace(" ", "") for v in cand.values()}
     if "official" in cand and len(vals) > 1:
         rec["presentation_number"] = cand["official"]
@@ -462,6 +488,8 @@ def resolve(rec, r, w, a, off):
 
     # ---------- 発表日
     dates = {}
+    if off and off.get("presentation_month"):
+        dates["official"] = (off["presentation_month"], "month")
     if off and off.get("presentation_date"):
         dates["official"] = (off["presentation_date"], "day")
     if a and a["year"]:
@@ -548,10 +576,11 @@ def resolve(rec, r, w, a, off):
                 speaker = " ".join(mm.group(1).split()[:2]) if re.match(r"[A-Za-z]", mm.group(1)) else mm.group(1).strip()
         authors = rec.get("authors") or []
         first = authors[0] if authors else None
-        who = speaker or first
+        who = rec.get("speaker") or speaker or first  # 公式資料で確認した登壇者を優先
         if who and not is_self(who):
             iss.append({"kind": "invited_speaker_not_self",
-                        "detail": f"招待講演の講演者が本人でない可能性（講演者={who}）"})
+                        "detail": f"招待講演の講演者が本人でない（講演者={who}"
+                                  + ("、公式資料で確認）" if rec.get("speaker") else "、推定）")})
 
     # ---------- 開催前か
     if rec["status"] == "upcoming":

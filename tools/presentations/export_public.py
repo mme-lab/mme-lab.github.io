@@ -19,7 +19,7 @@ import sources as src
 
 OUT = src.REPO / "data" / "presentations.json"
 ITEM_KEYS = {"id", "category", "year", "date", "date_precision", "authors", "title",
-             "event", "event_en", "number", "location", "urls", "invited"}
+             "event", "event_en", "number", "paper_number", "location", "urls", "invited"}
 AUTHOR_KEYS = {"name", "self"}
 SELF_PATTERNS = ("志賀拓麿", "takumashiga", "tshiga")
 
@@ -56,7 +56,8 @@ def to_public(p: dict) -> dict:
         "title": p.get("title_official") or p["title_original"],
         "event": p["event"],
         "event_en": p.get("event_en"),
-        "number": p["presentation_number"],
+        "number": p["presentation_number"],          # 講演・ポスター番号のみ（表示用）
+        "paper_number": p.get("paper_number"),       # プロシーディングス論文番号（現在は表示しない）
         "location": p["location"],
         "urls": [u for u in p["urls"] if u.startswith(("http://", "https://"))],
         "invited": invited,
@@ -92,6 +93,13 @@ def validate(items: list[dict], master: list[dict]) -> None:
             errors.append(f"{i['id']} に許可されていない項目がある")
         if i.get("number") and re.fullmatch(r"(?i)xxx|tbd", i["number"]):
             errors.append(f"{i['id']} の講演番号が仮表記")
+        # 未確定候補・ボード番号・論文番号を講演番号として出していないこと
+        not_talk = {u["value"] for u in src_rec.get("number_candidates_unverified", [])} \
+            | {src_rec.get("board_number"), src_rec.get("paper_number"), src_rec.get("proceedings_number")} - {None}
+        if i.get("number") in not_talk:
+            errors.append(f"{i['id']} の講演番号に講演番号以外の番号（{i['number']}）が入っている")
+        if i.get("paper_number") and not src_rec["sources"].get("paper_number", "").startswith("official"):
+            errors.append(f"{i['id']} の論文番号が確認済み資料由来でない")
         if src_rec["sources"].get("presentation_date", "").startswith("researchmap") and i["date_precision"] == "day" \
                 and not (src_rec.get("event_period") and src_rec["event_period"][0] == src_rec["event_period"][1]):
             errors.append(f"{i['id']} で未確認の researchmap 登録日を日付として表示している")
