@@ -18,8 +18,6 @@ If you are interested, please feel free to contact us via the form below and joi
 
 </div>
 
----
-
 ## Opportunities for Posdoc
 
 Our laboratory aims to pioneer innovative thermal management technologies that will underpin next-generation energy, electronics, and mobility industries. We study nanotubes and two-dimensional materials, their multiscale hybrid architectures, and interfacial/surface phenomena. Centering on phonon-mediated heat transport at the nano–micro scales, we advance both computational modeling and thermal metrology. Beyond phonons, we also explore transport by electrons and spins, broadly pursuing materials property control from a mechanical engineering perspective.
