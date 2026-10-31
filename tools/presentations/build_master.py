@@ -19,6 +19,7 @@ from __future__ import annotations
 import datetime as dt
 import hashlib
 import json
+import os
 import re
 from collections import Counter, defaultdict
 from difflib import SequenceMatcher
@@ -185,6 +186,13 @@ def match(rm: list[dict], word: list[dict], ach: list[dict]):
             else:
                 candidates.append({"rm_id": a, f"{name}_id": b, "score": round(s, 3), "month_diff": d,
                                    "category_agrees": ok_cat, "rivals": [x[3] for x in rivals]})
+        for mm in MANUAL_MATCHES:
+            other = mm.get(f"{name}_id")
+            if not other:
+                continue
+            candidates = [c for c in candidates if not (c["rm_id"] == mm["researchmap_id"] or c.get(f"{name}_id") == other)]
+            confirmed = {k: v for k, v in confirmed.items() if v[0] != other}
+            confirmed[mm["researchmap_id"]] = (other, "manual", None)
         result[name] = (confirmed, candidates)
     return result
 
@@ -203,9 +211,11 @@ def rm_duplicates(rm: list[dict]) -> list[tuple]:
 
 # ------------------------------------------------------------------ assembly
 
-def official_for(titles: list[str], checks: list[dict]) -> dict | None:
+def official_for(titles: list[str], checks: list[dict], years: set[int]) -> dict | None:
     # 1〜2 文字の表記差（例：構造転移／構造遷移）でも対応付けられるよう類似度で判定する
-    best = max(((max(title_score(c["title_contains"], t) for t in titles if t), c) for c in checks),
+    # 似たタイトルの別年の発表（例：Phonons 2015 と ATPC2016）に誤適用しないよう発表年も一致させる
+    best = max(((max(title_score(c["title_contains"], t) for t in titles if t), c) for c in checks
+                if c.get("year") in years),
                key=lambda x: x[0], default=(0, None))
     return best[1] if best[0] >= 0.9 else None
 
@@ -223,6 +233,7 @@ def status_of(date: str | None, precision: str | None) -> str:
     return "upcoming" if dt.date.fromisoformat(date) > AS_OF else "completed"
 
 
+MANUAL_MATCHES = json.loads((Path(__file__).with_name("official_checks.json")).read_text(encoding="utf-8")).get("manual_matches", [])
 HINTS = json.loads((Path(__file__).with_name("official_checks.json")).read_text(encoding="utf-8")).get("hints", [])
 
 
@@ -290,13 +301,19 @@ def build():
             rec["word"] = {"id": w["word_id"], "raw": w["raw"], "section": w["section"], "number": w["number"],
                            "number_kind": w["number_kind"], "date": f"{w['year']}-{w['month']:02d}" + (f"-{w['day']:02d}" if w["day"] else ""),
                            "invited": w["invited"], "tags": w["tags"]}
-            rec["match"]["word"] = {"score": w_conf[r["rm_id"]][1], "month_diff": w_conf[r["rm_id"]][2]}
+            sc = w_conf[r["rm_id"]]
+            rec["match"]["word"] = {"score": sc[1], "month_diff": sc[2]}
+            if sc[1] == "manual":
+                mm = next(x for x in MANUAL_MATCHES if x["researchmap_id"] == r["rm_id"])
+                rec["match"]["word"]["reason"] = mm["reason"]
+                rec["merged_ids"] = [mm["retired_id"]]
         if a:
             rec["achievements"] = {"id": a["ach_id"], "text": a["text"], "section": a["section"],
                                    "number": a["number"], "date": f"{a['year']}-{a['month']:02d}" + (f"-{a['day']:02d}" if a["day"] else ""),
                                    "invited": a["invited"], "links": a["links"]}
             rec["match"]["achievements"] = {"score": a_conf[r["rm_id"]][1], "month_diff": a_conf[r["rm_id"]][2]}
-        resolve(rec, r, w, a, official_for([title_original, *rm_title_variants(r)], checks))
+        years = {int(r["date"][:4])} | ({int(r["from"][:4])} if r["from"] else set())
+        resolve(rec, r, w, a, official_for([title_original, *rm_title_variants(r)], checks, years))
 
     # ---- Word 資料のみ
     matched_word = {v[0] for v in w_conf.values()}
@@ -344,7 +361,7 @@ def build():
         rec["sources"]["category"] = "achievements"
         rec["issues"].append({"kind": "achievements_only", "detail": "researchmapに対応する登録が見つからない"
                               + ("（対応候補あり）" if a["ach_id"] in cand_ach else "")})
-        resolve(rec, None, None, a, official_for([a["title"]], checks))
+        resolve(rec, None, None, a, official_for([a["title"]], checks, {a["year"]}))
 
     meta = {
         "as_of": AS_OF.isoformat(),
@@ -388,8 +405,9 @@ def resolve(rec, r, w, a, off):
         if rec.get("title_original") and src.norm(rec["title_original"]) != src.norm(off["title_official"]):
             iss.append({"kind": "title_mismatch_official",
                         "detail": f"researchmap等={rec['title_original']} / 公式={off['title_official']}"})
+    rec_years = {int(v[:4]) for v in [(r or {}).get("date"), (w and f"{w['year']}"), (a and a["year"] and str(a["year"]))] if v}
     for h in HINTS:
-        if any(title_score(h["title_contains"], t) >= 0.9 for t in [rec.get("title_original") or "", (w or {}).get("raw", "")] if t):
+        if h.get("year") in rec_years and any(title_score(h["title_contains"], t) >= 0.9 for t in [rec.get("title_original") or "", (w or {}).get("raw", "")] if t):
             rec.setdefault("notes", []).append(h["note"])
 
     # ---------- 志賀本人が著者に含まれるか（研究室メンバーのみの発表を区別）
@@ -419,7 +437,12 @@ def resolve(rec, r, w, a, off):
         cand["official"] = off["presentation_number"]
     rec["number_candidates"] = cand
     vals = {v.replace(" ", "") for v in cand.values()}
-    if len(vals) == 1:
+    if "official" in cand and len(vals) > 1:
+        rec["presentation_number"] = cand["official"]
+        S["presentation_number"] = f"official（{off['source']}）"
+        iss.append({"kind": "number_mismatch_resolved",
+                    "detail": "確認済み資料で確定：" + " / ".join(f"{k}={v}" for k, v in cand.items())})
+    elif len(vals) == 1:
         rec["presentation_number"] = next(iter(cand.values()))
         S["presentation_number"] = "+".join(cand)
     elif len(vals) > 1:
@@ -449,8 +472,19 @@ def resolve(rec, r, w, a, off):
             break
     if off and off.get("event_period"):
         rec["event_period"] = off["event_period"]
+        S["event_period"] = f"official（{off['source']}）"
+    if off and off.get("location"):
+        if rec.get("location"):
+            rec["location_official"] = off["location"]  # 既存の表記（英語等）は残し、公式表記を併記する
+        else:
+            rec["location"], S["location"] = off["location"], f"official（{off['source']}）"
+    if off and off.get("presentation_type"):
+        rec["presentation_type"], S["presentation_type"] = off["presentation_type"], f"official（{off['source']}）"
     if r and S.get("presentation_date") == "researchmap":
-        if r["from"] and r["from"] <= r["date"] <= r["to"]:
+        period = off.get("event_period") if off else None
+        if period and period[0] <= r["date"] <= period[1]:
+            S["presentation_date"] = "researchmap（公式資料の開催期間内の登録日）"
+        elif r["from"] and r["from"] <= r["date"] <= r["to"]:
             S["presentation_date"] = "researchmap（開催期間内の登録日）"
         elif r["from"]:
             iss.append({"kind": "date_outside_event_period",
@@ -459,14 +493,16 @@ def resolve(rec, r, w, a, off):
             S["presentation_date"] = "researchmap（開催期間の記録なし。講演日かは未確認）"
     # 日付の食い違い（日精度どうしは日単位、月精度を含む場合は年月で比較）
     chosen = rec["presentation_date"]
+    settled = S.get("presentation_date", "").startswith("official") or "公式資料" in S.get("presentation_date", "")
+    kind = "date_mismatch_resolved" if settled else "date_mismatch"
     for k, (v, p) in dates.items():
         if k == S.get("presentation_date", "").split("（")[0] or not chosen:
             continue
         if p == "day" and rec["date_precision"] == "day":
             if v != chosen:
-                iss.append({"kind": "date_mismatch", "detail": f"採用={chosen}（{S['presentation_date']}） / {k}={v}"})
+                iss.append({"kind": kind, "detail": f"採用={chosen}（{S['presentation_date']}） / {k}={v}"})
         elif v[:7] != chosen[:7]:
-            iss.append({"kind": "date_mismatch", "detail": f"採用={chosen}（{S['presentation_date']}） / {k}={v}（年月）"})
+            iss.append({"kind": kind, "detail": f"採用={chosen}（{S['presentation_date']}） / {k}={v}（年月）"})
     rec["status"] = status_of(rec["presentation_date"], rec["date_precision"])
 
     # ---------- 招待講演・発表種別
@@ -519,9 +555,109 @@ def resolve(rec, r, w, a, off):
 
 # ------------------------------------------------------------------ reports
 
+OUTPUT_FILES = ("presentation_master_draft.json", "presentation_master_public_candidates.json",
+                "PRESENTATION_RECONCILIATION_REPORT.md", "PRESENTATION_NUMBER_AUDIT.md",
+                "PRESENTATION_REVIEW_REQUIRED.md", "PRESENTATION_CHANGELOG.md")
+KEY_FIELDS = ("category", "title_original", "event", "presentation_number", "proceedings_number",
+              "presentation_date", "date_precision", "event_period", "location", "presentation_type",
+              "invited", "status", "publishable", "include_in_about_pi")
+
+
+def classify(p) -> dict:
+    """掲載判断のための区分（集計と各レコードの `listing` に使う）."""
+    rmd = (p.get("researchmap") or {}).get("display")
+    return {
+        "pi_is_author": bool(p.get("pi_is_author")),
+        "rm_disclosed": rmd == "disclosed",
+        "rm_closed": rmd == "closed",
+        "rm_closed_public_elsewhere": rmd == "closed" and bool(p.get("achievements")),
+        "word_only": p["id"].startswith("word-"),
+        "lab_member_only": not p.get("pi_is_author"),
+        "public_candidate": p["publishable"] is True and rmd != "closed",
+    }
+
+
+def listing_status(p) -> str:
+    c = classify(p)
+    if c["lab_member_only"]:
+        return "exclude_lab_member_only"
+    if c["public_candidate"]:
+        return "about_pi_candidate"
+    return "on_hold"
+
+
+def backup_and_diff(out, records):
+    """既存の成果物を backup/<時刻>/ に退避し、前回のマスターとの差分を返す."""
+    current = out / "presentation_master_draft.json"
+    if not current.exists():
+        return None
+    # 差分の基準：環境変数 PRESENTATION_BASELINE で指定した版（未指定なら直前の版）
+    old_path = Path(os.environ.get("PRESENTATION_BASELINE", current))
+    stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
+    bdir = out / "backup" / stamp
+    bdir.mkdir(parents=True, exist_ok=True)
+    for f in OUTPUT_FILES:
+        if (out / f).exists():
+            (bdir / f).write_bytes((out / f).read_bytes())
+    old = {p["id"]: p for p in json.loads(old_path.read_text(encoding="utf-8"))["presentations"]}
+    new = {p["id"]: p for p in records}
+    retired = {}
+    for p in records:
+        for rid in p.get("merged_ids", []):
+            retired[rid] = p["id"]
+    changed = []
+    for pid in sorted(set(old) & set(new)):
+        diffs = {k: (old[pid].get(k), new[pid].get(k)) for k in KEY_FIELDS if old[pid].get(k) != new[pid].get(k)}
+        oi = sorted(i["kind"] for i in old[pid]["issues"])
+        ni = sorted(i["kind"] for i in new[pid]["issues"])
+        if oi != ni:
+            diffs["issues"] = (oi, ni)
+        if diffs:
+            changed.append((pid, diffs))
+    return {"backup_dir": str(bdir), "baseline": str(old_path), "old_count": len(old), "new_count": len(new),
+            "removed": sorted(set(old) - set(new)), "added": sorted(set(new) - set(old)),
+            "retired": retired, "changed": changed,
+            "old_cat": Counter(p["category"] for p in old.values()),
+            "old_public": sum(1 for p in old.values() if p["publishable"] is True
+                              and (p.get("researchmap") or {}).get("display") != "closed")}
+
+
+def write_changelog(out, diff, records):
+    L = ["# 統合マスター 更新履歴\n", f"生成：{dt.datetime.now().isoformat(timespec='seconds')}\n"]
+    if not diff:
+        L.append("前回の成果物がないため差分なし。\n")
+    else:
+        newcat = Counter(p["category"] for p in records)
+        newpub = sum(1 for p in records if classify(p)["public_candidate"])
+        L.append(f"更新前の成果物のバックアップ：`{diff['backup_dir']}`\n")
+        L.append(f"差分の基準：`{diff['baseline']}`\n")
+        L.append("## 件数\n\n| | 更新前 | 更新後 |\n|---|---|---|")
+        L.append(f"| 総件数 | {diff['old_count']} | {diff['new_count']} |")
+        L.append(f"| 国際 | {diff['old_cat']['international']} | {newcat['international']} |")
+        L.append(f"| 国内 | {diff['old_cat']['domestic']} | {newcat['domestic']} |")
+        L.append(f"| 公開候補 | {diff['old_public']} | {newpub} |\n")
+        L.append("## 廃止したID（重複統合）\n")
+        L.append("| 廃止ID | 統合先ID |\n|---|---|")
+        for a, b in diff["retired"].items():
+            L.append(f"| {a} | {b} |")
+        L.append("")
+        L.append(f"削除されたID：{', '.join(diff['removed']) or 'なし'}　／　追加されたID：{', '.join(diff['added']) or 'なし'}\n")
+        L.append(f"## 内容が変わったレコード（{len(diff['changed'])}件）\n")
+        for pid, d in diff["changed"]:
+            L.append(f"### {pid}\n")
+            for k, (a, b) in d.items():
+                L.append(f"- `{k}`：{a} → {b}")
+            L.append("")
+    (out / "PRESENTATION_CHANGELOG.md").write_text("\n".join(L), encoding="utf-8")
+
+
 def write_outputs(records, meta, rm, word, ach):
     out = src.OUTPUT_DIR
     out.mkdir(parents=True, exist_ok=True)
+    for p in records:
+        p["listing"] = listing_status(p)
+    diff = backup_and_diff(out, records)
+    meta["retired_ids"] = {mm["retired_id"]: f"rm-{mm['researchmap_id']}" for mm in MANUAL_MATCHES}
     records.sort(key=lambda x: (x["presentation_date"] or "0000"), reverse=True)
     master = {"generated_at": dt.datetime.now().isoformat(timespec="seconds"), "meta": meta, "presentations": records}
     (out / "presentation_master_draft.json").write_text(json.dumps(master, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -533,6 +669,7 @@ def write_outputs(records, meta, rm, word, ach):
     write_reconciliation(out, records, meta, rm, word, ach)
     write_number_audit(out, records, word)
     write_review(out, records, meta)
+    write_changelog(out, diff, records)
     return out
 
 
@@ -573,6 +710,28 @@ def write_reconciliation(out, records, meta, rm, word, ach):
     L.append(f"| Achievements のみ | {sum(1 for p in records if p['id'].startswith('ach-'))} |")
     L.append(f"| 開催前（{AS_OF.isoformat()} 時点） | {sum(1 for p in records if p['status']=='upcoming')} |")
     L.append("")
+    K = [classify(p) for p in records]
+    L.append("## 1-2. 掲載判断のための区分\n")
+    L.append("| 区分 | 件数 |\n|---|---|")
+    for label, n in [
+        ("全登録発表", len(records)),
+        ("志賀拓麿が著者に含まれる発表", sum(k["pi_is_author"] for k in K)),
+        ("researchmap で公開設定", sum(k["rm_disclosed"] for k in K)),
+        ("researchmap で非公開", sum(k["rm_closed"] for k in K)),
+        ("　うち他の情報源（Achievements）で公開済み", sum(k["rm_closed_public_elsewhere"] for k in K)),
+        ("Word資料のみ", sum(k["word_only"] for k in K)),
+        ("研究室メンバーのみ（志賀拓麿が著者でない）", sum(k["lab_member_only"] for k in K)),
+        ("公開候補（researchmap 非公開と未確認の Word 資料のみを除く）", sum(k["public_candidate"] for k in K)),
+        ("About PI 掲載候補（公開候補のうち志賀拓麿が著者）", sum(1 for p in records if p["listing"] == "about_pi_candidate")),
+        ("掲載判断を保留（志賀拓麿が著者だが researchmap 非公開または Word 資料のみ）", sum(1 for p in records if p["listing"] == "on_hold")),
+    ]:
+        L.append(f"| {label} | {n} |")
+    L.append("")
+    L.append(f"整合性：公開候補 {sum(k['public_candidate'] for k in K)} = About PI 掲載候補 "
+             f"{sum(1 for p in records if p['listing'] == 'about_pi_candidate')} + 研究室メンバーのみ "
+             f"{sum(1 for p in records if p['listing'] == 'exclude_lab_member_only' and classify(p)['public_candidate'])}。"
+             f"全登録 {len(records)} = About PI 掲載候補 + 保留 {sum(1 for p in records if p['listing'] == 'on_hold')} + 研究室メンバーのみ "
+             f"{sum(1 for p in records if p['listing'] == 'exclude_lab_member_only')}。\n")
     L.append("照合方法：タイトル（日本語・英語の各表記、学会名付記を除いた版）の正規化後の被覆率と、"
              "発表年月の差で候補を抽出。被覆率 0.85 以上・年月差 1 か月以内・競合候補なしの場合のみ確定とし、"
              "それ以外は候補（要確認）とした。\n")
@@ -610,18 +769,19 @@ def write_reconciliation(out, records, meta, rm, word, ach):
     for n, (title, kind) in enumerate([("国際・国内区分の不一致", "category_mismatch"),
                                        ("researchmap 区分未設定", "category_unset_in_researchmap"),
                                        ("発表日の不一致", "date_mismatch"),
-                                       ("開催期間外の登録日", "date_outside_event_period")], start=7):
+                                       ("開催期間外の登録日", "date_outside_event_period"),
+                                       ("確認済み資料で解消した日付の不一致（researchmap / Word資料の修正推奨）", "date_mismatch_resolved")], start=7):
         table(f"{n}. {title}", sel(kind), base[:4] + [("内容", det(kind))])
     # タイトル不一致：確定照合のうちタイトルが完全一致しないもの
     rows = []
     for p in records:
         for k in ("word", "achievements"):
             mt = p["match"].get(k)
-            if mt and mt["score"] < 0.999:
+            if mt and (mt["score"] == "manual" or mt["score"] < 0.999):
                 rows.append((p, k, mt["score"]))
-    L.append(f"## 11. 発表タイトルの表記差（確定照合のうち完全一致でないもの、{len(rows)}件）\n")
+    L.append(f"## 12. 発表タイトルの表記差（確定照合のうち完全一致でないもの、{len(rows)}件）\n")
     L.append("| ID | 照合先 | 類似度 | researchmap タイトル | 照合先の記載 |\n|---|---|---|---|---|")
-    for p, k, s in sorted(rows, key=lambda x: x[2]):
+    for p, k, s in sorted(rows, key=lambda x: (x[2] == "manual", 0 if x[2] == "manual" else x[2])):
         other = p[k]["raw"] if k == "word" else p[k]["text"]
         L.append(f"| {p['id']}{_private(p)} | {k} | {s} | {_t(p)} | {other[:90].replace('|','／')}… |")
     L.append("")
@@ -674,9 +834,11 @@ def write_number_audit(out, records, word):
     sect("4. Achievements 側に存在する講演番号",
          [p for p in records if p.get("achievements") and p["achievements"].get("number")],
          cols[:3] + [("Achievements", lambda p: p["achievements"]["number"]), ("採用", lambda p: p["presentation_number"] or ""), ("タイトル", _t)])
-    sect("5. 番号の不一致",
-         [p for p in records if any(i["kind"] in ("number_mismatch", "number_placeholder") for i in p["issues"])],
-         cols[:3] + [("内容", lambda p: "；".join(i["detail"] for i in p["issues"] if i["kind"] in ("number_mismatch", "number_placeholder"))), ("タイトル", _t)])
+    K5 = ("number_mismatch", "number_placeholder", "number_mismatch_resolved")
+    sect("5. 番号の不一致（未解決・仮表記・確認済み資料で解消したもの）",
+         [p for p in records if any(i["kind"] in K5 for i in p["issues"])],
+         cols[:3] + [("採用", lambda p: p["presentation_number"] or "（保留）"), ("出典", lambda p: p["sources"].get("presentation_number") or ""),
+                     ("内容", lambda p: "；".join(i["detail"] for i in p["issues"] if i["kind"] in K5)), ("タイトル", _t)])
     sect("6. プロシーディングス番号・掲載ページ（講演番号とは別扱い）",
          [p for p in records if p.get("proceedings_number")],
          cols[:3] + [("記載", lambda p: p["proceedings_number"]), ("種別", lambda p: p["sources"].get("proceedings_number")), ("タイトル", _t)])
