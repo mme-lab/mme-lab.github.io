@@ -102,13 +102,54 @@ Thermal characterization of thin-film materials using the thermoreflectance meth
 
 ## Visiting Researchers and Students
 
-- **Sep. 01, 2026 - Oct. 01, 2026**: **Tài Sơn Nguyễn** (Undergraduate Student, University of Science, Vietnam National University - Ho Chi Minh city, Short-term study abroad program)
-- **Aug. 18, 2026 - Oct. 02, 2026**: **Corinna Shloderer** (Graduate course Student, Hochschule München, IAESTE internship program)
-- **May 25, 2026 - July 31, 2026**: **Jianyu Xiong**  (Undergraduate Student, The Hong Kong Polytechnic University, Internship program)
-- **Apr. 13, 2026 – Apr. 17, 2026**: **Takashi Yoshizaki**  (Graduate Student, [Nakamura Lab., Osaka University](http://www.adv.ee.es.osaka-u.ac.jp/en/))
-- **Apr. 01, 2026 – Mar. 31, 2027**: **Kenichi Yatsugi**  ([Toyota Central R&D Labs., Inc.](https://researchmap.jp/kenichi-yatsugi))
-- **Apr. 01, 2026 – Mar. 31, 2027**: **Keita Funayama**  ([Toyota Central R&D Labs., Inc.](https://researchmap.jp/page-to-keita-funaya))
-- **Nov. 12, 2025 – Nov. 21, 2025**: **Yuki Mori**  (Graduate Student, [Hori Lab., Tokyo University of Agriculture and Technology](https://web.tuat.ac.jp/~htlab/))
+<div class="visitor-list">
+<table class="visitor-table">
+  <thead>
+    <tr>
+      <th scope="col">Period</th>
+      <th scope="col">Name</th>
+      <th scope="col">Affiliation / Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="visitor-period">Sep. 01, 2026 – Oct. 01, 2026</td>
+      <td class="visitor-name">Tài Sơn Nguyễn</td>
+      <td class="visitor-affiliation">Undergraduate Student, University of Science, Vietnam National University - Ho Chi Minh city, Short-term study abroad program</td>
+    </tr>
+    <tr>
+      <td class="visitor-period">Aug. 18, 2026 – Oct. 02, 2026</td>
+      <td class="visitor-name">Corinna Shloderer</td>
+      <td class="visitor-affiliation">Graduate course Student, Hochschule München, IAESTE internship program</td>
+    </tr>
+    <tr>
+      <td class="visitor-period">May 25, 2026 – July 31, 2026</td>
+      <td class="visitor-name">Jianyu Xiong</td>
+      <td class="visitor-affiliation">Undergraduate Student, The Hong Kong Polytechnic University, Internship program</td>
+    </tr>
+    <tr>
+      <td class="visitor-period">Apr. 13, 2026 – Apr. 17, 2026</td>
+      <td class="visitor-name">Takashi Yoshizaki</td>
+      <td class="visitor-affiliation">Graduate Student, <a href="http://www.adv.ee.es.osaka-u.ac.jp/en/">Nakamura Lab., Osaka University</a></td>
+    </tr>
+    <tr>
+      <td class="visitor-period">Apr. 01, 2026 – Mar. 31, 2027</td>
+      <td class="visitor-name">Kenichi Yatsugi</td>
+      <td class="visitor-affiliation"><a href="https://researchmap.jp/kenichi-yatsugi">Toyota Central R&amp;D Labs., Inc.</a></td>
+    </tr>
+    <tr>
+      <td class="visitor-period">Apr. 01, 2026 – Mar. 31, 2027</td>
+      <td class="visitor-name">Keita Funayama</td>
+      <td class="visitor-affiliation"><a href="https://researchmap.jp/page-to-keita-funaya">Toyota Central R&amp;D Labs., Inc.</a></td>
+    </tr>
+    <tr>
+      <td class="visitor-period">Nov. 12, 2025 – Nov. 21, 2025</td>
+      <td class="visitor-name">Yuki Mori</td>
+      <td class="visitor-affiliation">Graduate Student, <a href="https://web.tuat.ac.jp/~htlab/">Hori Lab., Tokyo University of Agriculture and Technology</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <!--
 --!>
